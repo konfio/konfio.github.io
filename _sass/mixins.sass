@@ -1,0 +1,50 @@
+//_mixins.sass
+
+@mixin box-sizing
+	-webkit-box-sizing: border-box
+	-moz-box-sizing: border-box
+	box-sizing: border-box
+
+@mixin clearfix
+	content: ""
+	display: block
+	clear: both
+	overflow: hidden
+	visibility: hidden
+	width: 0
+	height: 0
+
+@mixin apush($top: 1)
+	margin-top: $top * 30px
+
+@mixin transition
+	-webkit-transition: all .3s ease-in
+	-moz-transition: all .3s ease-in
+	-ms-transition: all .3s ease-in
+	-o-transition: all .3s ease-in
+	transition: all .3s ease-in
+
+@mixin roundborder($round: 5px)
+	-webkit-border-radius: $round $round $round $round
+	border-radius: $round $round $round $round
+
+@mixin background-cover
+	-webkit-background-size: cover
+	-moz-background-size: cover
+	-o-background-size: cover
+	background-size: cover
+
+@mixin text-shadow
+	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.6)
+
+@mixin box-shadow
+	-webkit-box-shadow: 0 0 2px 1px rgba(0,0,0,0.2)
+	box-shadow: 0 0 2px 1px rgba(0,0,0,0.2)
+
+@mixin text-column
+	-webkit-column-count: 2 /* Chrome, Safari, Opera */
+	-moz-column-count: 2 /* Firefox */
+	column-count: 2
+	-webkit-column-gap: 40px /* Chrome, Safari, Opera */
+	-moz-column-gap: 40px /* Firefox */
+	column-gap: 40px

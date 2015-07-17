@@ -1,0 +1,868 @@
+//_global.sass
+
+@import "reset", "pallete", "mixins", "grid", "pages"
+
+// General
+body
+	background-color: $notgray
+	color: $base
+	font-size: 14px
+	line-heigt: 20px
+	@include transition
+
+
+header
+	background-color: $light
+	width: 100%
+	height: 95px
+	text-transform: uppercase
+	padding: 25px 0
+	@include box-sizing
+	border-bottom: 2px solid $orange
+	.logo
+		@include col(2)
+
+	ul
+		padding: 17px 0
+		@include col(6)
+		li
+			list-style-type: none
+			display: inline-block
+			float: left
+			margin-right: 40px
+			font-size: 12px
+			&:last-child
+				margin-right: 0
+			a
+				color: $base
+				text-decoration: none
+				&:hover
+					text-decoration: underline
+					color: $orange
+	.login
+		@include col(2)
+		@include prepend(2)
+		@include last
+		padding: 17px 0
+		@include box-sizing
+		text-align: right
+		a
+			color: $orange
+			text-decoration: none
+			text-align: right
+			font-size: 12px
+
+small
+	font-size: 12px
+	line-height: 20px
+
+h1, h2, h3, h4
+	font-family: 'Crete Round', serif
+	font-weight: normal
+
+h1 i, h2 i, h3 i, h4 i
+	font-style: italic
+	font-family: 'Crete Round', serif
+
+i
+	font-style: normal
+
+h1
+	font-size: 60px
+	line-height: 70px
+
+h2
+	font-size: 50px
+
+h3
+	font-size: 22px
+	font-weight: normal
+	line-height: 42px
+
+h4
+	font-size: 14px
+
+h5
+	font-weight: normal
+	font-size: 14px
+	text-transform: uppercase
+	@include apush
+
+p
+	line-height: 20px
+
+a
+	color: $purple
+	@include transition
+	&:hover
+		color: $orange
+
+a.edit
+	text-transform: uppercase
+	margin-top: 6px
+	display: inline-block
+	text-decoration: underline
+	line-height: 18px
+	font-size: 12px
+	&:before
+		content: ""
+		width: 25px
+		height: 25px
+		background: transparent url(../img/edit.png) top left no-repeat
+		display: inline-block
+		float: left
+		@include transition
+
+a.edit:hover
+	&:before
+		background: transparent url(../img/edit2.png) top left no-repeat
+
+footer
+	background-color: $light
+	@include box-shadow
+	@include box-sizing
+	padding: 15px
+	border-top: 2px solid $orange
+	font-size: 12px
+	color: $gray
+	overflow: hidden
+	width: 100%
+	max-width: 960px
+	margin: 30px auto
+	text-align: left
+
+	.footerlogo
+		@include col(1)
+
+	.copyright
+		@include col(6)
+
+	.social
+		@include col(6)
+		img
+			margin: 10px
+
+	nav
+		@include col(2)
+		@include apush
+
+	nav + ul
+		@include col(4)
+		@include apush
+
+	ul
+		padding: 0
+		li
+			margin-bottom: 15px
+			a
+				color: $gray
+
+
+
+// Layout
+.registrate
+	background-color: $lightpurple
+	color: $noticepurple
+	text-align: right
+	width: 100%
+	@include box-sizing
+	padding: 3px 0
+	font-size: 10px
+	a
+		color: $noticepurple
+
+.content
+	background-color: $light
+	@include: box-shadow
+	border-top: 4px solid $purple
+	padding: 30px
+	@include box-sizing
+	@include box-shadow
+	overflow: hidden
+
+.cta1
+	background-color: $orange
+	font-size: 14px
+	text-transform: uppercase
+	color: $light
+	@include box-sizing
+	@include roundborder
+	padding: 15px 25px
+	display: inline-block
+	@include apush(2)
+	text-decoration: none
+	@include transition
+	&:hover
+		background-color: $purple
+
+.cta2
+	background-color: $purple
+	font-size: 14px
+	text-transform: uppercase
+	color: $light
+	@include box-sizing
+	@include roundborder
+	padding: 15px 25px
+	display: inline-block
+	@include apush(2)
+	text-decoration: none
+	@include transition
+	&:hover
+		background-color: $orange
+
+section:first-of-type
+	overflow: hidden
+	position: relative
+	.fade
+		position: absolute
+		height: 120px
+		width: 100%
+		position: absolute
+		bottom: 0
+		/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+		background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ViZWNmNyIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNlYmVjZjciIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+)
+		background: -moz-linear-gradient(top,  rgba(235,236,247,0) 10%, rgba(235,236,247,1) 100%) /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(235,236,247,0)), color-stop(100%,rgba(235,236,247,1))) /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(top,  rgba(235,236,247,0) 10%,rgba(235,236,247,1) 100%) /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(top,  rgba(235,236,247,0) 10%,rgba(235,236,247,1) 100%) /* Opera 11.10+ */
+		background: -ms-linear-gradient(top,  rgba(235,236,247,0) 10%,rgba(235,236,247,1) 100%) /* IE10+ */
+		background: linear-gradient(to bottom,  rgba(235,236,247,0) 10%,rgba(235,236,247,1) 100%) /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ebecf7', endColorstr='#ebecf7',GradientType=0 ) /* IE6-8 */
+
+
+// Carousel
+.carousel
+	background-color: $slider
+	color: $light
+	height: 380px
+	@include apush
+	@include box-shadow
+	text-align: center
+	em
+		color: $orange
+		font-style: normal
+	p
+		font-size: 40px
+		line-height: 50px
+
+/*
+ * jQuery FlexSlider v2.2.0
+ * http://www.woothemes.com/flexslider/
+ *
+ * Copyright 2012 WooThemes
+ * Free to use under the GPLv2 license.
+ * http://www.gnu.org/licenses/gpl-2.0.html
+ *
+ * Contributing author: Tyler Smith (@mbmufffin)
+ */
+
+
+/* Browser Resets */
+.flex-container a:active, .flexslider a:active, .flex-container a:focus, .flexslider a:focus
+	outline: none
+.slides, .flex-control-nav, .flex-direction-nav
+	margin: 0
+	padding: 0
+	list-style: none
+
+// Icon Fonts
+// Font-face Icons 
+@font-face
+	font-family: 'flexslider-icon'
+	src: url('../fonts/flexslider-icon.eot')
+	src: url('../fonts/flexslider-icon.eot?#iefix') format('embedded-opentype')
+	src: url('../fonts/flexslider-icon.woff') format('woff')
+	src: url('../fonts/flexslider-icon.ttf') format('truetype')
+	font-weight: normal
+	font-style: normal
+	color: $light
+
+
+/* FlexSlider Necessary Styles */
+.flexslider
+	margin: 0
+	padding: 0
+	text-align: center
+
+.flexslider .slides > li
+	display: none
+	-webkit-backface-visibility: hidden
+
+.flexslider .slides img
+	width: auto
+	display: inline-block
+
+.flex-pauseplay span
+	text-transform: capitalize
+
+
+/* Clearfix for the .slides element */
+.slides:after
+	content: "\0020"
+	display: block
+	clear: both
+	visibility: hidden
+	line-height: 0
+	height: 0
+
+html[xmlns] .slides
+	display: block
+
+* html .slides
+	height: 1%
+
+/* No JavaScript Fallback */
+/* If you are not using another script, such as Modernizr, make sure you
+ * include js that eliminates this class on page load */
+.no-js .slides > li:first-child
+	display: block
+
+/* FlexSlider Default Theme */
+.flexslider
+	margin-bottom: 60px
+	background: $slider
+	position: relative
+	zoom: 1
+
+.flex-viewport
+	max-height: 2000px
+	@include transition
+
+.loading .flex-viewport
+	max-height: 300px
+
+.flexslider .slides
+	zoom: 1
+	@include apush(4)
+
+.carousel li
+	margin-right: 5px
+
+
+/* Direction Nav */
+.flex-direction-nav
+	*height: 0
+
+.flex-direction-nav a
+	text-decoration: none
+	color: $light
+	display: block
+	width: 40px
+	height: 40px
+	margin: -20px 0 0
+	position: absolute
+	top: 50%
+	z-index: 10
+	overflow: hidden
+	opacity: 0
+	cursor: pointer
+	color: rgba(0,0,0,0.8)
+	@include transition
+
+.flex-direction-nav .flex-prev
+	left: -50px
+	color: $light
+
+.flex-direction-nav .flex-next
+	right: -50px
+	text-align: right
+	color: $light
+
+.flexslider:hover .flex-prev
+	opacity: 0.7
+	left: 10px
+
+.flexslider:hover .flex-next
+	opacity: 0.7
+	right: 10px
+
+.flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover
+	opacity: 1
+
+.flex-direction-nav .flex-disabled
+	opacity: 0!important
+	filter: alpha(opacity=0)
+	cursor: default
+
+.flex-direction-nav a:before 
+	font-family: "flexslider-icon"
+	font-size: 40px
+	display: inline-block
+	content: '\f001'
+
+.flex-direction-nav a.flex-next:before 
+	content: '\f002'
+
+/* Pause/Play */
+.flex-pauseplay a
+	display: block
+	width: 20px
+	height: 20px
+	position: absolute
+	bottom: 5px
+	left: 10px
+	opacity: 0.8
+	z-index: 10
+	overflow: hidden
+	cursor: pointer
+	color: #000
+
+.flex-pauseplay a:before 
+	font-family: "flexslider-icon"
+	font-size: 20px
+	display: inline-block
+	content: '\f004'
+
+.flex-pauseplay a:hover 
+	opacity: 1
+
+.flex-pauseplay a.flex-play:before
+	content: '\f003'
+
+/* Control Nav */
+.flex-control-nav
+	width: 100%
+	position: absolute
+	bottom: -40px
+	text-align: center
+
+.flex-control-nav li
+	margin: 6px
+	display: inline-block
+	zoom: 1
+	*display: inline
+	@include transition
+
+.flex-control-paging li a
+	width: 11px
+	height: 11px
+	display: block
+	background: #6A5F72 url() center center
+	cursor: pointer
+	text-indent: -9999px
+	-webkit-border-radius: 20px
+	-moz-border-radius: 20px
+	-o-border-radius: 20px
+	border-radius: 20px
+	margin-top: 5px
+
+.flex-control-paging li a:hover
+	background: #B8ADC0
+
+.flex-control-paging li a.flex-active
+	background: #B8ADC0
+	width: 15px
+	height: 15px
+	cursor: default
+	margin-top: -5px !important
+
+
+.flex-control-thumbs
+	margin: 5px 0 0
+	position: static
+	overflow: hidden
+
+.flex-control-thumbs li
+	width: 25%
+	float: left
+	margin: 0
+
+.flex-control-thumbs img
+	width: 100%
+	display: block
+	opacity: .7
+	cursor: pointer
+
+.flex-control-thumbs img:hover
+	opacity: 1
+
+.flex-control-thumbs .flex-active
+	opacity: 1
+	cursor: default
+
+@media screen and (max-width: 860px)
+	.flex-direction-nav .flex-prev
+		opacity: 1
+		left: 10px
+	.flex-direction-nav .flex-next
+		opacity: 1
+		right: 10px
+
+// Forms
+input
+	@include roundborder(3px)
+	@include col(12)
+	border: 1px solid $border
+	font-size: 13px
+	@include box-sizing
+	padding: 5px 15px
+	height: 33px
+	margin-bottom: 20px
+	-webkit-box-shadow: inset 0 1px 1px 0 rgba(0,0,0,0.12)
+	box-shadow: inset 0 1px 1px 0 rgba(0,0,0,0.12)
+
+input.disabled
+	background-color: #ebebeb
+	-webkit-box-shadow: none
+	box-shadow: none
+
+\::-webkit-input-placeholder
+	color: $placeholder
+	opacity: 1
+
+\:-moz-placeholder
+	color: $placeholder
+	opacity: 1
+
+\::-moz-placeholder
+	color: $placeholder
+	opacity: 1
+
+\:-ms-input-placeholder
+	color: $placeholder
+	opacity: 1
+
+select
+	@include roundborder(3px)
+	border: 1px solid $border
+	@include box-sizing
+	padding: 5px 15px
+	height: 33px
+	margin-bottom: 20px
+	color: $placeholder
+	margin-right: 1.6%
+	-webkit-box-shadow: inset 0 1px 1px 0 rgba(0,0,0,0.12)
+	box-shadow: inset 0 1px 1px 0 rgba(0,0,0,0.12)
+	font-size: 13px
+	option
+		color: $base
+		padding: 10px 15px
+		height: 33px
+		@include box-sizing
+		font-size: 13px
+
+input[type="radio"], input[type="checkbox"]
+	width: auto
+	+ p
+		margin: 10px 5px
+		display: block
+		float: left
+		margin: 10px 20px 0 5px
+
+input[type="checkbox"]
+	clear: left
+
+
+.walker
+	background-color: $walker
+	@include box-sizing
+	color: $lightpurple
+	padding: 20px 0
+	width: 100%
+	height: 70px
+	overflow: hidden
+	img
+		display: block
+	.breadcrumbs
+		margin-top: 6px
+	a
+		color: $lightpurple
+		text-transform: uppercase
+		text-decoration: none
+	.first
+		margin-left: -4px
+	ul
+		padding: 0
+		li
+			display: inline-block
+			float: left
+			text-transform: uppercase
+			margin-right: 57px
+			&:first-child
+				margin-left: -18px
+
+.btn
+	@include: roundborder
+	height: 40px
+	@include col(12)
+	@include box-sizing
+	font-size: 12px
+	text-decoration: none
+	text-align: center
+	@include roundborder
+	@include transition
+	padding: 10px 30px
+	background-color: $purple
+	color: $light
+	&:hover
+		background-color: $orange
+
+.large
+	@include col(6)
+	text-transform: uppercase
+	height: 100px
+	padding: 30px 20px
+	line-height: 20px
+	font-size: 16px
+	@include apush
+	&:last-of-type
+		@include last
+
+.facebook
+	background-color: $facebook
+	text-transform: 40px
+	color: $light
+	img
+		display: inline-block
+		float: left
+		margin-top: -2px
+	&:hover
+		background-color: darken($facebook, 15%)
+
+aside
+	height: 100%
+	min-height: 100%
+	.sidebar
+		height: 100%
+		padding: 40px 15px
+		border-top: 4px solid $purple
+		@include box-sizing
+		background-color: $light
+		@include box-shadow
+		margin-right: 6%
+		min-height: 100%
+
+
+// Tables
+table
+	@include col(12)
+	text-align: left
+	@include apush
+	margin-bottom: 60px
+	font-size: 13px
+	thead
+		background-color: $purple
+		color: $notwhite
+		text-transform: uppercase
+		th
+			border: 1px solid $light
+			padding: 20px 15px
+			@include box-sizing
+			height: 50px
+			font-weight: normal
+	tbody
+		td
+			padding: 20px
+			@include box-sizing
+			height: 50px
+			border: 1px solid $light
+			background-color: $notgray
+	img
+		vertical-align: middle
+		margin-right: 15px
+table.bigger
+	th
+		text-align: center
+	td
+		padding: 20px 15px
+		font-size: 13px
+		&:last-child
+			text-align: center
+
+table.detail
+	td
+		padding: 5px 10px
+		@include box-sizing
+		height: auto
+		background-color: $light
+		border-bottom: 1px solid $notgray
+		&:first-child
+			text-align: right
+
+table.calendar
+	thead
+		background-color: $subt
+		color: $light
+		th
+			padding: 20px 5px
+			text-align: center
+
+	tbody
+		tr
+			td
+				&:first-child
+					text-align: center
+		tr:nth-child(even) td
+			background-color: $light
+			border: 1px solid $notgray
+
+.error
+	td
+		color: $error
+		p
+			opacity: 0
+			@include box-shadow
+			background-color: $light
+			@include roundborder(10px)
+			@include box-sizing
+			padding: 10px
+			width: 180px
+			font-size: 12px
+			line-height: 16px
+			color: $base
+			position: absolute
+			margin: -58px 0 0 80px
+			@include transition
+			&:before
+				content: ""
+				width: 10px
+				height: 15px
+				display: inline-block
+				background: transparent url(../img/indicator.png) top left no-repeat
+				margin: 28px 0 0 -16px
+				position: absolute
+		&:nth-child(2)
+			&:after
+				width: 15px
+				height: 15px
+				background-color: $error
+				color: $light
+				display: inline-block
+				margin-left: 10px
+				content: "!"
+				text-align: center
+				@include roundborder(15px)
+			&:hover
+				p
+					opacity: 1
+
+img.logo
+	margin: 2px
+	vertical-align: middle
+	&:first-child
+		margin-left: 0
+	&:last-child
+		margin-right: 0
+
+.logos
+	@include apush
+
+// Handmade grid.
+.span3
+	@include col(3)
+.span4
+	@include col(4)
+.span5
+	@include col(5)
+.span6
+	@include col(6)
+.span7
+	@include col(7)
+.span8
+	@include col(8)
+.span9
+	@include col(9)
+.span10
+	@include col(10)
+.span11
+	@include col(11)
+
+.push1
+	@include prepend(1)
+.push2
+	@include prepend(2)
+.push3
+	@include prepend(3)
+.push4
+	@include prepend(4)
+.push5
+	@include prepend(5)
+.push6
+	@include prepend(6)
+.push7
+	@include prepend(7)
+.push8
+	@include prepend(8)
+.push9
+	@include prepend(9)
+.push10
+	@include prepend(10)
+.push11
+	@include prepend(11)
+
+.accordion
+	margin: 30px auto
+	width: 90%
+	@include transition
+
+#accordion input
+	display: none
+	@include transition
+
+#accordion label
+	background: $purple
+	cursor: pointer
+	display: block
+	margin-bottom: .125em
+	padding: 15px 20px
+	z-index: 20
+	color: $notwhite
+	text-transform: uppercase
+	font-weight: normal
+	@include transition
+
+#accordion label:hover
+	background: darken( $purple, 20% )
+
+
+#accordion input:checked + label
+	background: darken( $purple, 20% )
+	border-bottom-right-radius: 0
+	border-bottom-left-radius: 0
+	color: white
+	margin-bottom: 0
+
+#accordion article
+	background: $light
+	height: 0px
+	overflow: hidden
+	z-index: 10
+	@include transition
+	form
+		margin-bottom: 30px
+		float: left
+		width: 100%
+		input
+			display: block
+			margin: 0 0 40px 20px
+			@include col(6)
+		input[type="radio"]
+			width: auto
+			margin: 0 0 0 20px
+			+ p
+				display: block
+				float: left
+				margin: 10px 20px 0 5px
+				padding: 0
+		label
+			padding: 0
+			background-color: transparent
+			color: $base
+			text-transform: none
+			margin: 20px 0 10px 20px
+			&:hover
+				background-color: transparent
+
+#accordion article p
+	padding: 1em
+
+#accordion input article
+	@include transition
+
+#accordion input:checked article
+
+#accordion input:checked ~ article
+	border-bottom-left-radius: .25em
+	border-bottom-right-radius: .25em
+	height: auto
+	margin-bottom: .125em
