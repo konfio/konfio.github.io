@@ -2,11 +2,14 @@
 title: Blog | Konfio
 email: info@konfio.mx
 description: > # this means to ignore newlines until "baseurl:"
-  El blog oficial de konfio
+  Solicita un préstamo en línea para tu negocio en México y obtén el máximo beneficio. Konfío te ofrece préstamos en México con tasas de interés bajas y con un simulador de pagos para que veas la cantidad total que tendrías que pagar.
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "https://konfio.mx" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
-# github_username:  jekyll
+
+# social media
+twitter_username: konfiomx
+facebook_username: konfio
+youtube_username: konfio
 
 # Build settings
 markdown: kramdown
