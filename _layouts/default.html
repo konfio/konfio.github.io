@@ -16,63 +16,6 @@
     </div>
 
     {% include footer.html %}
-
-	<!-- Scripts -->
-	<noscript>Por favor, habilíta Javascript para ver lo mero bueno.</noscript>
-
-	<script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-	  ga('create', 'UA-45964779-1', 'auto');
-	  ga('require', 'displayfeatures');
-	  ga('send', 'pageview');
-	</script>
-
-	<script type="text/javascript">
-    /* <![CDATA[ */
-    var google_conversion_id = 988412145;
-    var google_custom_params = window.google_tag_params;
-    var google_remarketing_only = true;
-    /* ]]> */
-	</script>
-	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-	</script>
-	<noscript>
-    <div style="display:inline;">
-    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/988412145/?value=0&amp;guid=ON&amp;script=0"/>
-    </div>
-	</noscript>
-
-	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WCGSWG"
-	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-WCGSWG');</script>
-
-	<script type="text/javascript">
-	function setCookie(name, value, days){
-	    var date = new Date();
-	    date.setTime(date.getTime() + (days*24*60*60*1000));
-	    var expires = "; expires=" + date.toGMTString();
-	    document.cookie = name + "=" + value + expires;
-	}
-	function getParam(p){
-	    var match = RegExp('[?&]' + p + '=([^&]*)').exec(window.location.search);
-	    return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
-	}
-	var gclid = getParam('gclid');
-	if(gclid){
-	    var gclsrc = getParam('gclsrc');
-	    if(!gclsrc || gclsrc.indexOf('aw') !== -1){
-		    setCookie('gclid', gclid, 90);
-		}
-	}
-	</script>
-
+    {% include metrics.html %}
   </body>
 </html>
