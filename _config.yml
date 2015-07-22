@@ -15,3 +15,20 @@ youtube_username: konfio
 
 # Build settings
 markdown: kramdown
+
+prose:
+  rooturl: "_posts"
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /css
+    - /_sass
+    - /_site
+    - /fonts
+    - /post
+    - /tumblr_files
+    - /feed.xml
+    - /favicon.ico
+  media: "img"
