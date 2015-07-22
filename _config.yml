@@ -32,3 +32,9 @@ prose:
     - /feed.xml
     - /favicon.ico
   media: "img"
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
