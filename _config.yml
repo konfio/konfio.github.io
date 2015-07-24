@@ -53,16 +53,11 @@ prose:
         field:
           element: "multiselect"
           label: "Tags"
-          placeholder: "Agrega tus tags"
+          placeholder: "Tags"
           alterable: true
       - name: "customExcerpt"
         field:
           element: "textarea"
           label: "Extracto"
           placeholder: "Lorem ipsum"
-          value: false
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Publicar"
           value: false
