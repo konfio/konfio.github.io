@@ -40,3 +40,29 @@ prose:
         field:
           element: "text"
           label: "title"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          value: "CURRENT_DATETIME"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Tags"
+          placeholder: "Agrega tus tags"
+          alterable: true
+      - name: "customExcerpt"
+        field:
+          element: "textarea"
+          label: "Extracto"
+          placeholder: "Lorem ipsum"
+          value: false
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publicar"
+          value: false
