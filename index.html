@@ -36,7 +36,7 @@ layout: default
           {% else %}
             {{post.excerpt}}
           {% endif %}
-          <a class="post-read-more" href="{{ post.url | prepend: site.baseurl }}">Leer más...</a>
+          <a class="read-more btn" href="{{ post.url | prepend: site.baseurl }}">Leer más...</a>
         </article>
       </li>
     {% endfor %}
