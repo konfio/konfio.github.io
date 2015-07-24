@@ -25,7 +25,7 @@ layout: default
           {% else %}
             {{post.excerpt}}
           {% endif %}
-          <a class="post-read-more" href="{{ post.url | prepend: site.baseurl }}">Leer</a>
+          <a class="post-read-more" href="{{ post.url | prepend: site.baseurl }}">Leer más...</a>
         </article>
       </li>
     {% endfor %}
@@ -34,15 +34,13 @@ layout: default
   <!-- Pagination links -->
   <div class="pagination">
     {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-    {% else %}
-    <span class="previous">Previous</span>
+    <a href="{{ paginator.previous_page_path }}" class="previous btn">Anterior</a>
     {% endif %}
-    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    <span class="page_number ">Página: {{ paginator.page }} de {{ paginator.total_pages }}</span>
     {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    <a href="{{ paginator.next_page_path }}" class="next btn">Siguiente</a>
     {% else %}
-    <span class="next ">Next</span>
+    <span class="next ">Siguiente</span>
     {% endif %}
   </div>
 
