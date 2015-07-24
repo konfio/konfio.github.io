@@ -4,10 +4,23 @@ layout: default
 
 <div class="content">
 
-  <h1 class="page-heading">Blog de Konfío</h1>
+  <header>
+    <h1 class="page-heading">Blog de Konfío</h1>
+
+    <!-- Pagination links -->
+    <div class="pagination">
+      {% if paginator.next_page %}
+      <span class="page_number ">Página: {{ paginator.page }} de {{ paginator.total_pages }}</span>
+      {% endif %}
+
+      <p class="rss-subscribe">
+      <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
+      <i class="fa fa-rss"></i>
+      </p>
+    </div>
+  </header>
 
   <ul class="post-list">
-
     <!-- This loops through the paginated posts -->
     {% for post in paginator.posts %}
       <li class="post clearfix">
@@ -19,8 +32,6 @@ layout: default
 
         <article class="post-content">
           {% if post.tumblr_url %}
-            {% if post.content contains '<img>' %}
-            {% endif %}
             {{ post.content | strip_html | truncatewords: 50 }}
           {% else %}
             {{post.excerpt}}
@@ -36,17 +47,11 @@ layout: default
     {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous btn">Anterior</a>
     {% endif %}
-    <span class="page_number ">Página: {{ paginator.page }} de {{ paginator.total_pages }}</span>
     {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next btn">Siguiente</a>
     {% else %}
     <span class="next ">Siguiente</span>
     {% endif %}
   </div>
-
-  <p class="rss-subscribe">suscribirese
-    <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>
-    <i class="fa fa-rss"></i>
-  </p>
 
 </div>
