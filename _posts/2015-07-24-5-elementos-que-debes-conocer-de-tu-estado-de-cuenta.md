@@ -1,9 +1,13 @@
 ---
 layout: post
 date: "2015-07-24"
-published: false
+published: true
 title: "5 elementos que debes conocer de tu estado de cuenta "
+customExcerpt: Conocer bien las partes de nuestro estado de cuenta es primordial para tener un mejor control y organización de nuestras finanzas personales.
+tags: 
+  - Finanzas Personales
 ---
+
 
 ### Colaboración especial de [Compara Gurú](http://www.comparaguru.com/tarjetas-de-credito/promociones)
 
