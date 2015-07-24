@@ -13,12 +13,18 @@
   <meta property="apple-mobile-web-app-capable" content="yes">
   <meta property="apple-mobile-web-app-status-bar-style" content="black">
   <meta property="apple-touch-icon" content="/img/logo/logo_155x100.png">
-  <meta property="og:title" content="Obtén préstamos rápidos y confiables en línea para tu negocio en México | Konfío">
-  <meta property="og:type" content="website">
-  <meta property="og:image" content="/img/main/beneficio1.png">
-  <meta property="og:url" content="https://konfio.mx">
-  <meta property="og:description" content="Préstamos rápidos y confiables: sí confiamos, por eso te prestamos!">
-  <meta property="og:locale" content="es_LA">
+
+  {% if page.date %}
+    {% include opengraph.html %}
+  {% else %}
+    <meta propert="GUTIERREZ" content="{{page.tumblr_url }}">
+    <meta property="og:title" content="Obtén préstamos rápidos y confiables en línea para tu negocio en México | Konfío">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="/img/main/beneficio1.png">
+    <meta property="og:url" content="https://konfio.mx">
+    <meta property="og:description" content="Préstamos rápidos y confiables: sí confiamos, por eso te prestamos!">
+    <meta property="og:locale" content="es_LA">
+  {% endif %}
 
   <link rel="stylesheet" href="{{ "/css/style.css"}}">
   <link rel="stylesheet" href="{{ "/css/prev.css"}}">
