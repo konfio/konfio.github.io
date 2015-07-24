@@ -26,7 +26,7 @@ layout: default
       <li class="post clearfix">
 
         <h2 class="post-header">
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           <small class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</small>
         </h2>
 
@@ -36,7 +36,7 @@ layout: default
           {% else %}
             {{post.excerpt}}
           {% endif %}
-          <a class="read-more btn" href="{{ post.url | prepend: site.baseurl }}">Leer más...</a>
+          <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">Leer más...</a>
         </article>
       </li>
     {% endfor %}
