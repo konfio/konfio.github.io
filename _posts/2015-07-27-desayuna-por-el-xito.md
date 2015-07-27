@@ -30,6 +30,6 @@ De aquí parte nuestro énfasis por el desayuno.
 	9. Mejora tu estado de ánimo por el buen balance de nutrientes.
 	10. Te ayuda a concentrarte. Desayuna con calma, sentado y pensando reflexivamente en lo que te tiene preparado el día. 
 
-Si no tienes ni idea de qué puedes desayunar revisa [aquí](http://www.vivesanamente.com/beneficios-del-desayuno/) 10 ejemplos. 
+## Si no tienes ni idea de qué puedes desayunar revisa [aquí](http://www.vivesanamente.com/beneficios-del-desayuno/) 10 ejemplos. 
 
 El desayuno es algo casi íntimo que solo tú sabrás si estás haciendo correctamente o no. Ojalá estas palabras te ayuden a analizar tu situación actual  y te aporten una herramienta más para lograr el éxito en tu vida laboral y profesional.
