@@ -1,10 +1,11 @@
 ---
 layout: post
 published: true
-title: Consejos para no ser un desastre de grande
+title: 4 Consejos para no ser un desastre de grande
 date: "2015-07-28 13:10 -0500"
 customExcerpt: false
 ---
+
 
 
 Hay que aprovechar mientras somos jóvenes para tomar buenas decisiones financieras. Lo que decidamos hoy marcará nuestro futuro de manera muy tangible. 
