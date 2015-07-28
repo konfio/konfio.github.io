@@ -20,11 +20,11 @@ Ya hemos hablado en otros posts sobre la importancia de [hacer ejercicio](http:/
 De aquí parte nuestro énfasis por el desayuno. 
 
 ## 10 razones para desayunar correctamente:
-- **1**	Mejora el rendimiento intelectual.
+- Mejora el rendimiento intelectual.
 
-- **2**	Favorece una correcta alimentación.
+- Favorece una correcta alimentación.
 
-**3**	Contribuye a perder peso. Ya quítate de la cabeza la falsedad absurda de que no desayunar de ayuda a adelgazar… Todo lo contrario; no desayunar te sube de peso.
+- **3**	Contribuye a perder peso. Ya quítate de la cabeza la falsedad absurda de que no desayunar de ayuda a adelgazar… Todo lo contrario; no desayunar te sube de peso.
 
 **4**	Activa el metabolismo tras las horas de descanso.
 
