@@ -21,12 +21,7 @@ De aquí parte nuestro énfasis por el desayuno.
 
 ## 10 razones para desayunar correctamente:
 
-1. Mejora el rendimiento intelectual.
-2. item
-3. item
-
-
-1. 1.Mejora el rendimiento intelectual.
+1. 1 Mejora el rendimiento intelectual.
 
 2. 2.Favorece una correcta alimentación.
 
