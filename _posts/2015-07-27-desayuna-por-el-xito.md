@@ -22,7 +22,7 @@ De aquí parte nuestro énfasis por el desayuno.
 ## 10 razones para desayunar correctamente:
 - **1**	Mejora el rendimiento intelectual.
 
-**2**	Favorece una correcta alimentación.
+- **2**	Favorece una correcta alimentación.
 
 **3**	Contribuye a perder peso. Ya quítate de la cabeza la falsedad absurda de que no desayunar de ayuda a adelgazar… Todo lo contrario; no desayunar te sube de peso.
 
