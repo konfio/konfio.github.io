@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: ""
 date: "2015-07-28 13:10 -0500"
 customExcerpt: false
