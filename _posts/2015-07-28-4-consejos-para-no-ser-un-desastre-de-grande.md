@@ -1,10 +1,11 @@
 ---
 layout: post
 published: true
-title: ""
+title: Consejos para no ser un desastre de grande
 date: "2015-07-28 13:10 -0500"
 customExcerpt: false
 ---
+
 
 Hay que aprovechar mientras somos jóvenes para tomar buenas decisiones financieras. Lo que decidamos hoy marcará nuestro futuro de manera muy tangible. 
 
@@ -27,4 +28,3 @@ Si te está yendo bien en el trabajo, felicidades, aprovecha la bonanza para pre
 Atrasarte en tus préstamos te perjudica hoy porque pagas más y mañana porque ya nadie va a querer prestarte. Existen Sociedades de Información Crediticia (SIC) que compilan todos tus comportamientos económicos y las entidades financieras los consultan antes de prestarte cualquier cosa. Por ejemplo, Buró de Crédito o Círculo de Crédito.
 
 Con un hábito de pensar constantemente en nuestro bienestar financiero lograremos nuestras metas sin importar las dificultades. El trabajo constante es la clave del éxito. Tus decisiones de hoy te traerán el éxito. No lo dudes.
-
