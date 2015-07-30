@@ -14,12 +14,6 @@ tags:
 Este es el proceso básico y detallado paso por paso de lo que sucede cuando solicitas un crédito en Konfío. 
 ---
 
-<ol type="1">
-  <li>Pides un crédito en [nuestra página](https://konfio.mx/inicio/registrate)</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ol>  
-
 - 1 Pides un crédito en [nuestra página](https://konfio.mx/inicio/registrate).
 
 - 2 A nosotros nos llega tu solicitud y la revisamos.
