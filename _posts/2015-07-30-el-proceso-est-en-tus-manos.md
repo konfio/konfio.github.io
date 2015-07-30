@@ -35,7 +35,7 @@ A veces nos encontramos con personas que llegan al paso 3. ¡Excelente! Solo les
 	- Comprobar domicilio.
 	- Comprobar ingresos.
 	- Tener cuenta bancaria.
-
+---
 Debes tomar en cuenta de que estos 4 requisitos se traducen de forma ligeramente distinta para cada persona. Por ejemplo, si eres un negocio informal no vas a presentar facturas sino algunas notas de remisión o gastos de tu negocio. Y si eres una PyME recogeremos el contrato en tu negocio, no en tu casa, etc.
 
 Cuando llenas la solicitud en línea el sistema detecta qué tipo de trabajador eres y todo el proceso se adapta automáticamente a tus necesidades.
