@@ -33,10 +33,10 @@ Cuando te preaprobamos el crédito (paso 3) te lo notificamos por mail y a tu ce
 Lo que debes hacer en ese momento es entrar a tu [perfil](https://konfio.mx/inicio/ingresa) y subir los documentos que te pedimos por mail y en tu mismo perfil.
 Los requisitos generales para adquirir un crédito son:
 
-	- Identificación oficial.
-	- Comprobar domicilio.
-	- Comprobar ingresos.
-	- Tener cuenta bancaria.
+- Identificación oficial.
+- Comprobar domicilio.
+- Comprobar ingresos.
+- Tener cuenta bancaria.
 
 Debes tomar en cuenta de que estos 4 requisitos se traducen de forma ligeramente distinta para cada persona. Por ejemplo, si eres un negocio informal no vas a presentar facturas sino algunas notas de remisión o gastos de tu negocio. Y si eres una PyME recogeremos el contrato en tu negocio, no en tu casa, etc.
 
