@@ -14,17 +14,17 @@ tags:
 Este es el proceso básico y detallado paso por paso de lo que sucede cuando solicitas un crédito en Konfío. 
 ---
 
-- 1 Pides un crédito en [nuestra página](https://konfio.mx/inicio/registrate).
+- Paso 1: Pides un crédito en [nuestra página](https://konfio.mx/inicio/registrate).
 
-- 2 A nosotros nos llega tu solicitud y la revisamos.
+- Paso 2: A nosotros nos llega tu solicitud y la revisamos.
 
-- 3 Si cumple los requisitos básicos se preaprueba.
+- Paso 3: Si cumple los requisitos básicos se preaprueba.
 
-- 4 Entregas tus documentos y firmas el contrato.
+- Paso 4: Entregas tus documentos y firmas el contrato.
 
-- 5 Revisamos todo y se toma la decisión final.
+- Paso 5: Revisamos todo y se toma la decisión final.
 
-- 6 Se te deposita el dinero en tu cuenta.
+- Paso 6: Se te deposita el dinero en tu cuenta.
 
 ![30_07_15.jpg]({{site.baseurl}}/img/30_07_15.jpg)
 
