@@ -32,6 +32,7 @@ A veces nos encontramos con personas que llegan al paso 3. ¡Excelente! Solo les
 Cuando te preaprobamos el crédito (paso 3) te lo notificamos por mail y a tu celular.
 Lo que debes hacer en ese momento es entrar a tu [perfil](https://konfio.mx/inicio/ingresa) y subir los documentos que te pedimos por mail y en tu mismo perfil.
 Los requisitos generales para adquirir un crédito son:
+
 	- Identificación oficial.
 	- Comprobar domicilio.
 	- Comprobar ingresos.
