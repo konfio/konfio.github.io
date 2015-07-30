@@ -14,7 +14,7 @@ Este es el proceso básico y detallado paso por paso de lo que sucede cuando sol
 ---
 
 #### 1 Pides un crédito en [nuestra página](https://konfio.mx/inicio/registrate).
-
+-
 #### 2 A nosotros nos llega tu solicitud y la revisamos.
 
 #### 3 Si cumple los requisitos básicos se preaprueba.
