@@ -1,13 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: El proceso está en tus manos
 date: "2015-07-30 14:18 -0500"
-customExcerpt: Este es el proceso básico y detallado paso por paso de lo que sucede cuando solicitas un crédito en Konfío.
+customExcerpt: false
 tags: 
   - Créditos Konfío
   - Créditos para negocios
 ---
+
 
 Este es el proceso básico y detallado paso por paso de lo que sucede cuando solicitas un crédito en Konfío. 
 
