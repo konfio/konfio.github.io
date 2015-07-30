@@ -44,8 +44,8 @@ Los requisitos generales para adquirir un crédito son:
 
 Debes tomar en cuenta de que estos 4 requisitos se traducen de forma ligeramente distinta para cada persona. Por ejemplo, si eres un negocio informal no vas a presentar facturas sino algunas notas de remisión o gastos de tu negocio. Y si eres una PyME recogeremos el contrato en tu negocio, no en tu casa, etc.
 
-Cuando llenas la solicitud en línea el sistema detecta qué tipo de trabajador eres y todo el proceso se adapta automáticamente a tus necesidades.
+Cuando llenas la solicitud en línea el sistema detecta qué tipo de trabajador eres y todo **el proceso se adapta automáticamente a tus necesidades**.
 
 Y recuerda, todo el proceso de documentos y firmas se hace solo la primera vez que solicitas un crédito en Konfío. Los siguientes créditos los tendrás en menos de 24 horas porque ya tendremos todos tus datos.
 
-La velocidad depende de ti. Llena la solicitud, entrega rápido tus documentos y tendrás el dinero sorprendentemente rápido. Depende de ti.
+**La velocidad depende de ti.** Llena la solicitud, entrega rápido tus documentos y tendrás el dinero sorprendentemente rápido. Depende de ti.
