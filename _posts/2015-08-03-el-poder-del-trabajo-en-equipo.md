@@ -1,14 +1,15 @@
 ---
 layout: post
-published: false
+published: true
 title: El poder del trabajo en equipo
 date: "2015-08-03 19:04 -0500"
-customExcerpt: "Convéncete, trabajar en equipo te hace más eficiente y ser más eficiente aumenta tu utilidad."
+customExcerpt: false
 tags: 
   - Emprendedor
   - Tips Konfío
   - Tu negocio
 ---
+
 
 Un breve resumen y compendio de lo más relevante sobre el trabajo en equipo. Sí, sí es importante y lo hemos escuchado mil veces. ¿Realmente estás aplicándolo en tu vida? Una cosa es estar de acuerdo y conocer la importancia de algo; otra muy diferente, sentirse identificado, analizar la propia conducta y tomar las medidas que sean necesarias.
 
@@ -44,6 +45,4 @@ Lo que hay que dejar bien claro al momento de trabajar en equipo:
 ¿Qué canal de comunicación van a utilizar para compartir los avances o las soluciones? 
 - Reuniones rápidas diarias.
 - Una reunión larga semanal.
-- Alguna herramienta online para manejar el proyecto. 
-
-
+- Alguna herramienta online para manejar el proyecto.
