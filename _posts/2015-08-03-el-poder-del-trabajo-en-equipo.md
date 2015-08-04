@@ -48,3 +48,5 @@ Lo que hay que dejar bien claro al momento de trabajar en equipo:
 - Reuniones rápidas diarias.
 - Una reunión larga semanal.
 - Alguna herramienta online para manejar el proyecto.
+
+
