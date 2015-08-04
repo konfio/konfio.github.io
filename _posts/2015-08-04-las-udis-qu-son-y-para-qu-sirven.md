@@ -9,10 +9,9 @@ tags:
   - Finanzas Personales
 ---
 
+Las Unidades de Inversión ([UDIS](http://www.sat.gob.mx/informacion_fiscal/tablas_indicadores/Paginas/udis_principal.aspx)), son unidades de valor que se basan en el incremento de los precios (la inflación) y son usadas para solventar las obligaciones de créditos hipotecarios o cualquier acto mercantil. 
 
 ## Historia
-
-Las Unidades de Inversión ([UDIS](http://www.sat.gob.mx/informacion_fiscal/tablas_indicadores/Paginas/udis_principal.aspx)), son unidades de valor que se basan en el incremento de los precios (la inflación) y son usadas para solventar las obligaciones de créditos hipotecarios o cualquier acto mercantil. 
 
 Se crearon en 1995 con el fin de proteger a los bancos y se enfocaron principalmente en los créditos hipotecarios. ¿Se acuerdan de la tremenda crisis? Una vez que se logró cierta estabilidad para una persona física era imposible adquirir un crédito hipotecario por no cumplir los requisitos ni la seguridad que exigían los bancos.
 
