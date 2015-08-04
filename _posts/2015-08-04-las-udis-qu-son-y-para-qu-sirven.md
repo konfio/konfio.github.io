@@ -1,13 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: "Las UDIS ¿Qué son y para qué sirven?"
 date: "2015-08-04 16:50 -0500"
-customExcerpt: Las UDIS protegen tu dinero de la inflación.
+customExcerpt: false
 tags: 
   - Ahorro
   - Finanzas Personales
 ---
+
 
 ## Historia
 
@@ -40,4 +41,3 @@ Pero si no tienes nada de dinero actualmente este es un buen inicio para que vay
 Puedes preguntar sobre el tema en cualquier casa de inversión o aseguradora. Ellos te pueden dar más detalles. Realmente no importa qué medio utilices, el valor del UDI es universal para México, además de que el riesgo es mínimo.
 
 Anímate a ahorrar pensando en un futuro próspero y tranquilo.
-
