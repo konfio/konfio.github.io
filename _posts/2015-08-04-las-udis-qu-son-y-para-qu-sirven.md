@@ -10,6 +10,7 @@ tags:
 ---
 
 
+
 Las Unidades de Inversión ([UDIS](http://www.sat.gob.mx/informacion_fiscal/tablas_indicadores/Paginas/udis_principal.aspx)), son unidades de valor que se basan en el incremento de los precios (la inflación) y son usadas para solventar las obligaciones de créditos hipotecarios o cualquier acto mercantil. 
 
 ## Historia
@@ -30,7 +31,7 @@ Ok, en el 2000 esos $100 pesos te alcanzaban para cenar tú y tu novia en las qu
 
 Después de 15 años abres ese libro por error y te encuentras tu pequeño tesoro de $100 pesos. ¿Con eso puedes ir a cenar a las quesadillas? No, ya no, porque ahora cenar esas deliciosas quesadillas te cuesta $130 pesos.
 
-Lo que te permite el UDI es que tu dinero no pierda su valor adquisitivo. Al invertir en UDIS te proteges contra la inflación. De manera que en unos años, cuando dispongas de tu dinero, puedas comprar proporcionalmente lo mismo a que si te lo hubieras gastado hace años.
+Lo que te permite la UDI es que tu dinero no pierda su valor adquisitivo. Al invertir en UDIS te proteges contra la inflación. De manera que en unos años, cuando dispongas de tu dinero, puedas comprar proporcionalmente lo mismo a que si te lo hubieras gastado hace años.
 
 ## ¿Cómo invierto en UDIS?
 
@@ -38,6 +39,6 @@ Cuando decides invertir en UDIS tienes que ser consciente de que en realidad lo 
 
 Pero si no tienes nada de dinero actualmente este es un buen inicio para que vayas creando el buen hábito del ahorro y a mediano plazo cuentes con tu guardadito.
 
-Puedes preguntar sobre el tema en cualquier casa de inversión o aseguradora. Ellos te pueden dar más detalles. Realmente no importa qué medio utilices, el valor del UDI es universal para México, además de que el riesgo es mínimo.
+Puedes preguntar sobre el tema en cualquier casa de inversión o aseguradora. Ellos te pueden dar más detalles. Realmente no importa qué medio utilices, el valor de la UDI es universal para México, además de que el riesgo es mínimo.
 
 Anímate a ahorrar pensando en un futuro próspero y tranquilo.
