@@ -9,10 +9,11 @@ tags:
   - Tu negocio
 ---
 
-![06_08_15.jpg]({{site.baseurl}}/img/06_08_15.jpg)
 Muchos hemos pasado por esa lucha interna de darnos de alta en el SAT o no. Sobre todo cuando tenemos una cartera de clientes más o menos decente que nos alimenta sin necesidad de pagar impuestos. ¿Por qué pagar impuestos si lo puedo evitar? 
 
 Y además de esto, la gran tarea confusa, pesada, larga, tediosa, aburrida y absurda de empezar, continuar y terminar con el trámite del SAT. Pensamos que es algo tan engorroso que incluso llega a convertirse en una razón para no registrarnos como empresa formal (persona moral) o como persona física.
+
+![06_08_15.jpg]({{site.baseurl}}/img/06_08_15.jpg)
 
 Sí, también es verdad que todos ya lo hemos pensado, lo hemos discutido, incluso nos hemos informado, pero no terminamos por convencernos.
 
