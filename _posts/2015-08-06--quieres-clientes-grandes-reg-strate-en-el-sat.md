@@ -1,13 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: "¿Quieres clientes grandes? Regístrate en el SAT"
 date: "2015-08-06 13:00 -0500"
-customExcerpt: "Por supuesto que es un paso importante que te tomará tiempo y esfuerzo. Pero júzgalo por ti mismo Si quieres crecer y superarte, no tienes muchas opciones. ¿Vale la pena intentarlo?"
+customExcerpt: false
 tags: 
   - PyMEs
   - Tu negocio
 ---
+
 
 ![06_08_15.jpg]({{site.baseurl}}/img/06_08_15.jpg)
 
@@ -34,4 +35,3 @@ Tienes a los clientes informales que te dan para vivir tranquilamente (si andas 
 Ahí es donde entra tu visión y estrategia. Das un paso importante (formalizarte) con las ganas y el trabajo coordinado para conseguir clientes más grandes. Claro, todo esto sin descuidar a tus clientes ordinarios. ¿Por qué ganar 10 si puedo ganar 100? No hay argumento válido para no intentarlo y no pensar en grande.
 
 Por supuesto que es un paso importante que te tomará tiempo y esfuerzo. Pero júzgalo por ti mismo Si quieres crecer y superarte, no tienes muchas opciones. ¿Vale la pena intentarlo?
-
