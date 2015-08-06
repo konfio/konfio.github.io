@@ -16,15 +16,15 @@ Y además de esto, la gran tarea confusa, pesada, larga, tediosa, aburrida y abs
 
 Sí, también es verdad que todos ya lo hemos pensado, lo hemos discutido, incluso nos hemos informado, pero no terminamos por convencernos.
 
-# Existen dos causas que nos llevan a registrarnos
+## Existen dos causas que nos llevan a registrarnos
 
-## Porque tienes un cliente grande
+### Porque tienes un cliente grande
 
 La suerte te volteó a ver y te sacaste la lotería con un contrato billetudo. ¡Felicidades! Obviamente este cliente grande necesita una factura… Ya se te acabaron tus días de informal. Un gran paso para ti, ahora lo que toca es que esa puerta te siga abriendo otras y otras. El camino de tu éxito se está marcando.
 
 Das una fuerte factura, deduces todo lo que puedes, pero claro que te toca pagar algo de impuestos. No hay de otra. Pero sería absurdo rechazar un fuerte ingreso por el pretexto absurdo de que no quieras que se te quite un parte, ¿verdad?
 
-## Porque tienes visión
+### Porque tienes visión
 
 Ahora veamos la otra mordida de la galleta.
 
