@@ -12,6 +12,7 @@ tags:
 
 
 
+
 Un breve resumen y compendio de lo más relevante sobre el trabajo en equipo. Sí, sí es importante y lo hemos escuchado mil veces. ¿Realmente estás aplicándolo en tu vida? Una cosa es estar de acuerdo y conocer la importancia de algo; otra muy diferente, sentirse identificado, analizar la propia conducta y tomar las medidas que sean necesarias.
 
 ![03_08_15.jpg]({{site.baseurl}}/img/03_08_15.jpg)
@@ -49,4 +50,4 @@ Lo que hay que dejar bien claro al momento de trabajar en equipo:
 - Una reunión larga semanal.
 - Alguna herramienta online para manejar el proyecto.
 
-
+Por Fernando Barragán / Content Creator de Konfío
