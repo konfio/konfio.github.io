@@ -1,12 +1,13 @@
 ---
 layout: post
-published: false
-title: Los miedos ordinarios que te impiden estar en el SAT
+published: true
+title: "¿Por qué le temes al SAT?"
 date: "2015-08-13 13:57 -0500"
 customExcerpt: false
 tags: 
   - PyMEs
 ---
+
 
 Toda decisión importante conlleva algunos miedos e incertidumbres. Si no fuera así, sería una decisión sencilla que cualquier pelagato tomaría. Pero no, no todos se animan… 
 
@@ -35,4 +36,3 @@ Da el paso. El miedo es una realidad humana que nos ayuda a ser prudentes y toma
 Utiliza todas las herramientas que tengas a tu alcance para crecer. Aquí te hemos presentado una: las facturas. 
 
 Por Fernando Barragán / Content Creator de Konfío
-
