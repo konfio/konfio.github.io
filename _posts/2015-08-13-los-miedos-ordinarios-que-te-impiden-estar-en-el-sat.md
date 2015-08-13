@@ -9,7 +9,7 @@ tags:
 ---
 
 
-Toda decisión importante conlleva algunos miedos e incertidumbres. Si no fuera así, sería una decisión sencilla que cualquier pelagato tomaría. Pero no, no todos se animan… 
+Toda decisión importante conlleva algunos miedos e incertidumbres. Si no fuera así, sería una decisión sencilla que cualquiera tomaría. Pero no, no todos se animan… 
 
 ### Primer miedo
 
