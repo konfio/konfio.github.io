@@ -37,4 +37,5 @@ Ahí es donde entra tu visión y estrategia. Das un paso importante (formalizart
 Por supuesto que es un paso importante que te tomará tiempo y esfuerzo. Pero júzgalo por ti mismo Si quieres crecer y superarte, no tienes muchas opciones. ¿Vale la pena intentarlo?
 
 Por Fernando Barragán
+
 Content Creator de Konfío
