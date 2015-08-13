@@ -12,6 +12,7 @@ tags:
 
 
 
+
 Este es el proceso básico y detallado paso por paso de lo que sucede cuando solicitas un crédito en Konfío. 
 
 - Paso 1: Pides un crédito en [nuestra página](https://konfio.mx/inicio/registrate).
@@ -50,3 +51,5 @@ Cuando llenas la solicitud en línea el sistema detecta qué tipo de trabajador 
 Y recuerda, todo el proceso de documentos y firmas se hace solo la primera vez que solicitas un crédito en Konfío. Los siguientes créditos los tendrás en menos de 24 horas porque ya tendremos todos tus datos.
 
 **La velocidad depende de ti.** Llena la solicitud, entrega rápido tus documentos y tendrás el dinero sorprendentemente rápido. Depende de ti.
+
+Por Fernando Barragán / Content Creator de Konfío
