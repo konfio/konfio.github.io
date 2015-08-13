@@ -11,6 +11,7 @@ tags:
 
 
 
+
 Las Unidades de Inversión ([UDIS](http://www.sat.gob.mx/informacion_fiscal/tablas_indicadores/Paginas/udis_principal.aspx)), son unidades de valor que se basan en el incremento de los precios (la inflación) y son usadas para solventar las obligaciones de créditos hipotecarios o cualquier acto mercantil. 
 
 ## Historia
@@ -42,3 +43,5 @@ Pero si no tienes nada de dinero actualmente este es un buen inicio para que vay
 Puedes preguntar sobre el tema en cualquier casa de inversión o aseguradora. Ellos te pueden dar más detalles. Realmente no importa qué medio utilices, el valor de la UDI es universal para México, además de que el riesgo es mínimo.
 
 Anímate a ahorrar pensando en un futuro próspero y tranquilo.
+
+Por Fernando Barragán / Content Creator de Konfío
