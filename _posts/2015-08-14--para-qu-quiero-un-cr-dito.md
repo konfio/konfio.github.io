@@ -15,11 +15,11 @@ Toda empresa que se jacte de estar en pleno crecimiento está siendo financiada;
 
 ## Un negocio o empresa que no cuenta con ningún tipo de financiamiento puede significar dos cosas:
 
-### Que no están creciendo con fuerza. Si no tienes dinero para invertir, tu crecimiento no será tan agresivo. Una decisión muy personal y respetable de cada dueño. 
+#### Que no están creciendo con fuerza. Si no tienes dinero para invertir, tu crecimiento no será tan agresivo. Una decisión muy personal y respetable de cada dueño. 
 
 Con una política de no agresividad quizá te mantengas al mismo nivel algunos años, pero si no tratas de subir tarde o temprano terminarás cayendo. La liquidez y el flujo de efectivo fuerte le dan a los negocios la tranquilidad necesaria para buscar expandirse con nuevos productos, más clientes y mejores procesos. Y esa liquidez casi siempre se consigue con los diferentes tipos de financiamientos que existen en el mercado.
 
-### También puede significar que tienes deudas y por lo tanto muchas instituciones te niegan el financiamiento. 
+#### También puede significar que tienes deudas y por lo tanto muchas instituciones te niegan el financiamiento. 
 
 ¿Qué se puede hacer en este caso? La clave está en buscar otro tipo de financiamientos. Por ejemplo, si un banco no te puede prestar porque tu historial en el Buró de Crédito no es tan bueno, puedes recurrir a algún proveedor que hayas tenido durante mucho tiempo y que tenga razones para confiar en ti; negocia con é; pídele que te financie cierta mercancía
 
