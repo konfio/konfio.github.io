@@ -1,10 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 title: "¿Para qué quiero un crédito?"
 date: "2015-08-14 11:36 -0500"
 customExcerpt: false
 ---
+
 
 Esta es la pregunta que se hacen los que “no necesitan” un crédito. ¿Será verdad? Tal vez…
 
@@ -27,4 +28,3 @@ Si eres de los que aún no se animan a confiar en los sistemas financieros, te t
 Haz clic en [SOLICITA](https://konfio.mx/inicio/registrate) y métele recursos a tu negocio para hacerlo crecer.
 
 Por Fernando Barragán / Content Creator de Konfío
-
