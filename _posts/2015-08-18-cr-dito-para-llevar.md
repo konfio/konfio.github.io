@@ -25,7 +25,6 @@ Realmente hacer la [solicitud de crédito](https://konfio.mx/inicio/registrate) 
 - Llenas la solicitud online.
 - Entregas tus documentos y firmas el contrato.
 
-
 Nosotros analizamos tus documentos y tu historial crediticio y si todo está en orden se te deposita el dinero. Es un proceso que solo harás la primera vez. La idea es empezar una relación de largo plazo que te beneficie a tu negocio. Contar con una empresa que te dé liquidez en el instante en que lo necesites es un valor agregado que no todos tienen. 
 
 A partir de tu segundo crédito lo único que tienes que hacer es entrar a tu perfil con tu mail y contraseña y llenar el formulario nuevo en menos de 3 minutos. El dinero te llegará en menos de 24 horas.
@@ -35,7 +34,6 @@ A partir de tu segundo crédito lo único que tienes que hacer es entrar a tu pe
 - Te lo gastas en dos días.
 - Pero ese cliente te paga en una semana.
 - Liquidas tu crédito y te ahorras todos los intereses de las fechas de pago que estás adelantando.
-
 
 En una semana tuviste disponibilidad de cien mil pesos, pudiste hacer tu venta grande y recuperar la inversión cómodamente. 
 
