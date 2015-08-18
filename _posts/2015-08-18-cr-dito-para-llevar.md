@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2015-08-18 11:05 -0500"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: Crédito para llevar
 ---
+
 
 La [tasa de interés](https://www.youtube.com/watch?v=g4R3GaTcRgw) es el precio del dinero a lo largo del tiempo. Cada quien vende su producto (el crédito) al precio que desea, ¿no?
 
@@ -40,4 +42,3 @@ Esto sucede en un mundo perfecto. En nuestro mundo algunas veces esos clientes t
 Piénsalo, los créditos te ayudan a crecer.
 
 Por Fernando Barragán / Content Creator de Konfío
-
