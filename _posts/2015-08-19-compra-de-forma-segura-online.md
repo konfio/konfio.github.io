@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2015-08-19 14:34 -0500"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: Compra de forma segura online
 ---
+
 
 Un estudio elaborado por Visa determinó que de cada 10 comercios online 6 realizaban sus ventas por medio de tarjetas de crédito. El resto de las transacciones se efectuaba con depósitos en sucursal, transferencias en línea, efectivo en tiendas de conveniencia y otros como pago fácil o tarjetas Paysafecard. 
 
