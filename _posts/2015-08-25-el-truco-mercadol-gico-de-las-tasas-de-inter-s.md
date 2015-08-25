@@ -10,6 +10,7 @@ title: El truco mercadológico de las tasas de interés
 
 ¡Cuántas veces no hemos caído en la trampa! Nos prometen una tasa bajísima del 1 %... Suena hermoso, prometedor, admirable y bastante rentable. Pero nunca te fijas en la letra “arial 3” que dice: tasa diaria. Lo que se traduce en una tasa anual de 365 %.
 
+
 ¡Oh sorpresa! Pues sí, hemos mordido el anzuelo y zafarnos es muy difícil porque ya firmamos. Ni modo, a tomar responsabilidad sobre nuestro error.
  
 ## Aquí te voy a explicar por qué nos vamos con la finta así.
