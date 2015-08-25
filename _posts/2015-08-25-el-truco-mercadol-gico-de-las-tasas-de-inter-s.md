@@ -13,7 +13,7 @@ title: El truco mercadológico de las tasas de interés
 
 ¡Oh sorpresa! Pues sí, hemos mordido el anzuelo y zafarnos es muy difícil porque ya firmamos. Ni modo, a tomar responsabilidad sobre nuestro error.
  
-## Aquí te voy a explicar por qué nos vamos con la finta así.
+## Aquí te voy a explicar por qué nos vamos con la finta
  
 Las tasas de interés en finanzas se manejan anualmente. Eso de las tasas diarias, semanales, quincenales y mensuales son un simple truco de la mercadotecnia. No existe a un nivel medianamente serio en finanzas.
  
