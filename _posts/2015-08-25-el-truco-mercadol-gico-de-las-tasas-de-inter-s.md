@@ -30,4 +30,5 @@ Es decir, tomas la tasa anual y la divides entres los 12 meses del año. Si tú 
 Tú no te vayas con la finta. Cuando veas una tasa de interés asegúrate de que sea anual y luego divídelo en 12 para sacar tu tasa mensual. Así tendrás mayores elementos para tomar la decisión que más te convenga.
  
 Por Fernando Barragán 
+
 Content Creator de Konfío
