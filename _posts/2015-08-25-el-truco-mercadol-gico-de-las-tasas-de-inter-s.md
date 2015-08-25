@@ -8,6 +8,7 @@ published: true
 title: El truco mercadológico de las tasas de interés
 ---
 
+
 ¡Cuántas veces no hemos caído en la trampa! Nos prometen una tasa bajísima del 1 %... Suena hermoso, prometedor, admirable y bastante rentable. Pero nunca te fijas en la letra “arial 3” que dice: tasa diaria. Lo que se traduce en una tasa anual de 365 %.
 
 
@@ -23,7 +24,7 @@ Las tasas de interés en finanzas se manejan anualmente. Eso de las tasas diaria
  
 Es muy complejo entrar en las intenciones de alguien. Pero vamos a pensar bien. La razón por la que se hacen ese tipo de explicaciones sobre la tasa de interés es porque muchas veces la gente no entiende que una tasa del 60 % anual a tres meses realmente no es del 60 %, sino del 15 %.
  
-Es decir, tomas la tasa anual y la divides entres los 12 meses del año. Si tú pides un crédito a 6 meses estarías usando la mitad del tiempo de la tasa anual, así que estás pagando el 30 % de interés, no el 60 %.
+Es decir, tomas la tasa anual y la divides entre los 12 meses del año. Si tú pides un crédito a 6 meses estarías usando la mitad del tiempo de la tasa anual, así que estás pagando el 30 % de interés, no el 60 %.
  
 **Pero cuando la gente ve un número grande se asusta** y piensa que es muy caro. Por eso es que los mercadólogos juegan con los números y tratan de explicar de forma más sencilla esta realidad financiera. 
  
