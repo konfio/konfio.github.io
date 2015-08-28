@@ -9,6 +9,7 @@ title: Que no te coma el grande
 ---
 
 
+
 Uno de los grandes problemas de los negocios pequeños es que para crecer necesitan acercarse a clientes grandes y los clientes grandes les exigen términos que no pueden soportar. Por ejemplo, los pagos los llegan a retrasar hasta 90 días.
 
 ![28_08_15.jpg]({{site.baseurl}}/img/28_08_15.jpg)
