@@ -23,9 +23,9 @@ No vamos a poder trabajar siempre. Ojalá sea en mucho tiempo, pero seguramente 
 
 ## 3 recomendaciones para empezar el fondo de ahorro HOY:
 
-* Elige en dónde vas a guardar tu dinero para el retiro. Obviamente en una cuenta bancaria, pero ¿cuál?
-* ¿Cómo vas a transferir el dinero a esa cuenta y con qué frecuencia?
-* ¿Cuánto le irás metiendo periódicamente?
+* Elige en dónde vas a guardar tu dinero para el retiro. Obviamente en una cuenta bancaria, pero ¿cuál? Es recomendable que sea una cuenta bancaria nueva o que NUNCA uses.
+* ¿Cómo vas a transferir el dinero a esa cuenta y con qué frecuencia? La domiciliación automática siempre es una buena idea. Habla con tu banco y te ayudan.
+* ¿Cuánto le irás metiendo periódicamente? Empieza con algo bajito a modo de prueba y poco a poco le vas aumentando. También es bueno que cuando te vaya muy bien algún mes le metas algo manualmente.
 
 ---
 No confundamos el fondo de retiro con el ahorro en general. Cuando ahorramos tenemos diferentes objetivos: comprar un coche, irnos de vacaciones, invertir, etc. El fondo de retiro no es una cantidad de la que puedas disponer cuando te accidentes o se te antoje cambiar de coche. No. El fondo de retiro lo tocarás cuando te retires y ya no generes ingresos. Punto.
