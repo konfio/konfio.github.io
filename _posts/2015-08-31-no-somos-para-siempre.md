@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2015-08-31 17:49 -0500"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: No somos para siempre
 ---
+
 
 El gran problema de ser jefe, de tener tu propio negocio y no depender de nadie: **no sabes exactamente cuáles son tus ingresos.** Es algo muy variable: hoy vendes muchísimo y sacas lo de un mes. Pero los siguientes cinco días no vendes nada.
 
@@ -32,9 +34,3 @@ Lo recomendable es guardar mes con mes el 10 % de los ingresos totales del mes. 
 No está de más hablar brevemente de los productos de fondos de retiro que manejan algunos fondos de inversión o aseguradoras. Además de tener tu dinero ahorrado lo tienes produciendo modestamente, protegiéndolo de la inflación y conervando el poder adquisitivo. 
 
 Si nunca te habías planteado este pequeño detalle, **no dejes que pase otro día sin que tomes alguna medida al respecto.** Recuerda, la clave de las finanzas es la previción y la simulación de momentos de crisis. Entre mejor estemos preparados para los problemas, mejores soluciones tendremos al momento de que se presenten hoy o mañana. No somos para siempre.
-
-
-
-
-
-
