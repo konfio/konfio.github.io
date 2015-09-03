@@ -10,9 +10,10 @@ title: Análisis FODA
 
 
 
+
 Te la pasas corriendo. Te levantas temprano, te acuestas tarde completamente fulminado. Duermes poco. Comes de pie y con prisa. Casi no convives con tu familia porque cuando la ves lo único que quieres hacer es descansar en el sillón y despejar tu cabeza con alguna película o el partido del día. 
 
-## [Descargar Ebook](https://github.com/konfio/konfio.github.io/raw/master/files/Ebook_FODA_Negocio.pdf)
+## [Descargar Ebook](https://github.com/konfio/konfio.github.io/raw/master/files/Ebook_FODA_Negocio.pdf?utm_source=blog&utm_medium=referral&utm_campaign=ebook)
 
 ![03_09_15.jpg]({{site.baseurl}}/img/03_09_15.jpg)
 
