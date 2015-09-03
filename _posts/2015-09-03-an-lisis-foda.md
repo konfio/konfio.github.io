@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2015-09-03 10:45 -0500"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: Análisis FODA
 ---
+
 
 Te la pasas corriendo. Te levantas temprano, te acuestas tarde completamente fulminado. Duermes poco. Comes de pie y con prisa. Casi no convives con tu familia porque cuando la ves lo único que quieres hacer es descansar en el sillón y despejar tu cabeza con alguna película o el partido del día. 
 
@@ -22,4 +24,3 @@ Esperamos que te sirva. Todo el Equipo Konfío te desea mucho éxito.
 Fernando Barragán
 
 Content Creator de Konfío
-
