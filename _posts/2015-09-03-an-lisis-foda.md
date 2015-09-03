@@ -18,10 +18,8 @@ Tu negocio y tus ocupaciones diarias llenan tus horas de pendientes y asuntos qu
 
 Aquí **te regalamos un ebook** para que le pongas el freno de mano a tu negocio y hagas un sencillo análisis para que encuentres la manera de seguir creciendo.	
 
-## [Descargar Ebook](https://github.com/konfio/konfio.github.io/raw/master/files/Ebook_FODA_Negocio.pdf)
+<P align=center> ## [Descargar Ebook](https://github.com/konfio/konfio.github.io/raw/master/files/Ebook_FODA_Negocio.pdf) </P>
 
 Esperamos que te sirva. Todo el Equipo Konfío te desea mucho éxito.
 
-Fernando Barragán
-
-Content Creator de Konfío
+Fernando Barragán / Content Creator de Konfío
