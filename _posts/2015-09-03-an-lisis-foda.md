@@ -9,6 +9,7 @@ title: Análisis FODA
 ---
 
 
+
 Te la pasas corriendo. Te levantas temprano, te acuestas tarde completamente fulminado. Duermes poco. Comes de pie y con prisa. Casi no convives con tu familia porque cuando la ves lo único que quieres hacer es descansar en el sillón y despejar tu cabeza con alguna película o el partido del día. 
 
 ![03_09_15.jpg]({{site.baseurl}}/img/03_09_15.jpg)
