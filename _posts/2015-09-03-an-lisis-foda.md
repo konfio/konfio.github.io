@@ -19,7 +19,7 @@ Te la pasas corriendo. Te levantas temprano, te acuestas tarde completamente ful
 
 Tu negocio y tus ocupaciones diarias llenan tus horas de pendientes y asuntos que atender. Tu celular no deja de sonar. Sí, es un ritmo de vida vertiginoso que difícilmente da cabida a la reflexión sobre ti mismo y mucho menos sobre tu negocio, aunque sea lo único en lo que piensas. ¡Qué ironía!
 
-Aquí [**te regalamos un ebook**](https://github.com/konfio/konfio.github.io/raw/master/files/Ebook_FODA_Negocio.pdf) para que le pongas el freno de mano a tu negocio y hagas un sencillo análisis para que encuentres la manera de seguir creciendo.	
+Aquí [**te regalamos un ebook**](https://github.com/konfio/konfio.github.io/raw/master/files/Ebook_FODA_Negocio.pdf?utm_source=blog&utm_medium=referral&utm_campaign=ebook) para que le pongas el freno de mano a tu negocio y hagas un sencillo análisis para que encuentres la manera de seguir creciendo.	
 
 Esperamos que te sirva. Todo el Equipo Konfío te desea mucho éxito.
 
