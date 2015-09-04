@@ -35,7 +35,11 @@ Lo recomendable es guardar mes con mes el 10 % de los ingresos totales del mes. 
 
 No está de más hablar brevemente de los productos de fondos de retiro que manejan algunos fondos de inversión o aseguradoras. Además de tener tu dinero ahorrado lo tienes produciendo modestamente, protegiéndolo de la inflación y conervando el poder adquisitivo. 
 
-Si nunca te habías planteado este pequeño detalle, **no dejes que pase otro día sin que tomes alguna medida al respecto.** Recuerda, la clave de las finanzas es la previción y la simulación de momentos de crisis. Entre mejor estemos preparados para los problemas, mejores soluciones tendremos al momento de que se presenten hoy o mañana.
+Si nunca te habías planteado este pequeño detalle, **no dejes que pase otro día sin que tomes alguna medida al respecto.** 
+
+### Recuerda, la clave de las finanzas es la previción y la simulación de momentos de crisis. 
+
+Entre mejor estemos preparados para los problemas, mejores soluciones tendremos al momento de que se presenten hoy o mañana.
 
 Por Fernando Barragán
 
