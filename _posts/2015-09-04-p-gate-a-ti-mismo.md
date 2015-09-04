@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2015-09-04 16:59 -0500"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: Págate a ti mismo
 ---
+
 
 El gran problema de ser jefe, de tener tu propio negocio y no depender de nadie: **no sabes exactamente cuáles son tus ingresos.** Es algo muy variable: hoy vendes muchísimo y sacas lo de un mes. Pero los siguientes cinco días no vendes nada.
 
@@ -36,4 +38,3 @@ Si nunca te habías planteado este pequeño detalle, **no dejes que pase otro d�
 Por Fernando Barragán
 
 Content Creator de Konfío
-
