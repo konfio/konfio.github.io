@@ -11,6 +11,7 @@ title: La clave de las finanzas
 
 
 
+
 El gran problema de ser jefe, de tener tu propio negocio y no depender de nadie: **no sabes exactamente cuáles son tus ingresos.** Es algo muy variable: hoy vendes muchísimo y sacas lo de un mes. Pero los siguientes cinco días no vendes nada.
 
 Este tipo de conductas tan frecuentes en el comercio de las empresas pequeñas hacen que los dueños pierdan de vista el número exacto de sus ingresos. Entre los pagos a los empleados, los proveedores, la reparación de algo o el gasto familiar, la ganancia se diluye hasta perderse casi completamente en un “no sé a dónde se fue”. A eso añádele el manejo de efectivo y cuentas por separado.
@@ -38,7 +39,7 @@ No está de más hablar brevemente de los productos de fondos de retiro que mane
 
 Si nunca te habías planteado este pequeño detalle, **no dejes que pase otro día sin que tomes alguna medida al respecto.** 
 
-#### Recuerda, la clave de las finanzas es la previción y la simulación de momentos de crisis. 
+### Recuerda, la clave de las finanzas es la previción y la simulación de momentos de crisis. 
 
 Entre mejor estemos preparados para los problemas, mejores soluciones tendremos al momento de que se presenten hoy o mañana.
 
