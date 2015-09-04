@@ -27,6 +27,7 @@ No vamos a poder trabajar siempre. Ojalá sea en mucho tiempo, pero seguramente 
 * ¿Cómo vas a transferir el dinero a esa cuenta y con qué frecuencia?
 * ¿Cuánto le irás metiendo periódicamente?
 
+---
 No confundamos el fondo de retiro con el ahorro en general. Cuando ahorramos tenemos diferentes objetivos: comprar un coche, irnos de vacaciones, invertir, etc. El fondo de retiro no es una cantidad de la que puedas disponer cuando te accidentes o se te antoje cambiar de coche. No. El fondo de retiro lo tocarás cuando te retires y ya no generes ingresos. Punto.
 
 Lo recomendable es guardar mes con mes el 10 % de los ingresos totales del mes. De esta forma asegurarás una vejez como te la mereces. Si ya no estás tan joven es bueno que ese porcentaje aumente drásticamente.
