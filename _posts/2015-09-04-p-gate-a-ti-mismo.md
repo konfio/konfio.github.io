@@ -8,10 +8,6 @@ published: true
 title: La clave de las finanzas
 ---
 
-
-
-
-
 El gran problema de ser jefe, de tener tu propio negocio y no depender de nadie: **no sabes exactamente cuáles son tus ingresos.** Es algo muy variable: hoy vendes muchísimo y sacas lo de un mes. Pero los siguientes cinco días no vendes nada.
 
 Este tipo de conductas tan frecuentes en el comercio de las empresas pequeñas hacen que los dueños pierdan de vista el número exacto de sus ingresos. Entre los pagos a los empleados, los proveedores, la reparación de algo o el gasto familiar, la ganancia se diluye hasta perderse casi completamente en un “no sé a dónde se fue”. A eso añádele el manejo de efectivo y cuentas por separado.
@@ -25,6 +21,7 @@ El resultao de este comportamiento es que no ahorras. Vas haciendo apartados par
 No vamos a poder trabajar siempre. Ojalá sea en mucho tiempo, pero seguramente llegará el día en que nuestras fuerzas físicas ya no nos permitan desempeñarnos como dueños de un negocio. El día de nuestro retiro habrá llegado, por muy necios que seamos. La vejez no es algo que podamos evitar. 
 
 ---
+
 ## 3 recomendaciones para empezar el fondo de ahorro HOY:
 
 * Elige en dónde vas a guardar tu dinero para el retiro. Obviamente en una cuenta bancaria, pero ¿cuál?
