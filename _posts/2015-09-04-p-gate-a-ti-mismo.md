@@ -24,6 +24,7 @@ El resultao de este comportamiento es que no ahorras. Vas haciendo apartados par
 
 No vamos a poder trabajar siempre. Ojalá sea en mucho tiempo, pero seguramente llegará el día en que nuestras fuerzas físicas ya no nos permitan desempeñarnos como dueños de un negocio. El día de nuestro retiro habrá llegado, por muy necios que seamos. La vejez no es algo que podamos evitar. 
 
+---
 ## 3 recomendaciones para empezar el fondo de ahorro HOY:
 
 * Elige en dónde vas a guardar tu dinero para el retiro. Obviamente en una cuenta bancaria, pero ¿cuál?
