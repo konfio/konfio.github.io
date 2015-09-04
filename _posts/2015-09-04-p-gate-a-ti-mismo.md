@@ -5,8 +5,9 @@ tags:
   - "null"
 customExcerpt: false
 published: true
-title: Págate a ti mismo
+title: La clave de las finanzas
 ---
+
 
 
 El gran problema de ser jefe, de tener tu propio negocio y no depender de nadie: **no sabes exactamente cuáles son tus ingresos.** Es algo muy variable: hoy vendes muchísimo y sacas lo de un mes. Pero los siguientes cinco días no vendes nada.
