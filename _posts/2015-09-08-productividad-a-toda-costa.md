@@ -24,12 +24,12 @@ La presión causada por la necesidad nos hace perder de vista el todo. La mirada
 ---
 ## 3 consejos para mantener la calma en los problemas
 
-**1. Identifica la raíz del problema.**
+**1. Identifica la raíz del problema**
 Claro que una auditoría para un negocio pequeño es algo exagerado, aunque nunca viene mal. Pero vamos a suponer que en este momento no cuentas con los recursos necesarios para llevarla a cabo. El análisis que deberás hacer es más autorreflexivo que nada. También puedes hablar con una persona de confianza que conozca tu negocio y las dificultades que está afrontando.
 
 Tener conocimiento del problema siempre es mejor que no tener ni idea…
 
-**2. Identifica la solución.**
+**2. Identifica la solución**
 
 No sirve de nada saber la enfermedad si no te tomas la medicina. Si estás al tanto de un problema y no estás aplicando una solución algo anda mal. ¿Qué te frena? Córtale la cabeza. ¿Qué necesitas para solucionar tu problema? Toma esa lista y ponle fecha. Verás que todo mejora poco a poco.
 
