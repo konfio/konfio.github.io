@@ -19,7 +19,7 @@ La presión causada por la necesidad nos hace perder de vista el todo. La mirada
 
 “Por si fuera poco, el estrés se reduce la capacidad de afrontar problemas, la energía se reduce, el sistema inmunológico baja y el envejecimiento se acelera”.
 
-### La clave está en mantener un estado relajado en medio de las contrariedades diarias de la vida.
+**La clave está en mantener un estado relajado en medio de las contrariedades diarias de la vida.**
 
 ---
 
