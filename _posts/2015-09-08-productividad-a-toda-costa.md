@@ -11,7 +11,7 @@ title: Productividad a toda costa
 
 Nos la pasamos pensando en cómo producir, vender, comprar más... A veces el dinero nos tiene tan ahorcados que nuestros pensamientos no cambian de tema en varios días. Este enfrascamiento es lo peor que se puede hacer para el cumplimiento de los objetivos de un negocio.
 
-“Actualmente, muchos vivimos en ciudades con un elevado grado de contaminación, donde el movimiento es vertiginoso, donde nadie se fija en nadie. Las personas vivimos como autómatas, nos agredimos unos a otros y nos vamos perdiendo dentro de un mundo vertiginoso. Muchas veces perdemos el sentido de vida y nos mantenemos en un estado de estrés constante que redunda en nuestra salud física y mental”. [(Estrategias)](http://estrategiaspnl.com/la-importancia-de-la-relajacion/) 
+“Actualmente, muchos vivimos en ciudades con un elevado grado de contaminación, donde el movimiento es vertiginoso, donde nadie se fija en nadie. Las personas vivimos como autómatas, nos agredimos unos a otros y nos vamos perdiendo dentro de un mundo vertiginoso. Muchas veces perdemos el sentido de vida y nos mantenemos en un estado de estrés constante que redunda en nuestra salud física y mental”. [(Estrategias).](http://estrategiaspnl.com/la-importancia-de-la-relajacion/) 
 
 ![08_09_15.jpg]({{site.baseurl}}/img/08_09_15.jpg)
 
