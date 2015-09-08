@@ -21,8 +21,6 @@ La presión causada por la necesidad nos hace perder de vista el todo. La mirada
 
 **La clave está en mantener un estado relajado en medio de las contrariedades diarias de la vida.**
 
----
-
 ## 3 consejos para mantener la calma en los problemas
 
 **1. Identifica la raíz del problema**
