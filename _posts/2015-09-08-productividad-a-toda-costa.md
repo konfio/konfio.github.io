@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2015-09-08 09:40 -0500"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: Productividad a toda costa
 ---
+
 
 Nos la pasamos pensando en cómo producir, vender, comprar más... A veces el dinero nos tiene tan ahorcados que nuestros pensamientos no cambian de tema en varios días. Este enfrascamiento es lo peor que se puede hacer para el cumplimiento de los objetivos de un negocio.
 
@@ -36,5 +38,3 @@ Si ya sabes cuál es el problema y ya estás tomando medidas, toma un respiro y 
 Fernando Barragán
 
 Content Creator de Konfío
-
-
