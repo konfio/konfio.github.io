@@ -30,9 +30,11 @@ Claro que una auditoría para un negocio pequeño es algo exagerado, aunque nunc
 Tener conocimiento del problema siempre es mejor que no tener ni idea…
 
 **2. Identifica la solución.**
+
 No sirve de nada saber la enfermedad si no te tomas la medicina. Si estás al tanto de un problema y no estás aplicando una solución algo anda mal. ¿Qué te frena? Córtale la cabeza. ¿Qué necesitas para solucionar tu problema? Toma esa lista y ponle fecha. Verás que todo mejora poco a poco.
 
 **3. Confía en ti mismo**
+
 Si ya sabes cuál es el problema y ya estás tomando medidas, toma un respiro y relájate. La preocupación es un factor humano que nos incentiva para dar lo mejor de nosotros mismos, no para bloquearnos. Así que usa la preocupación de forma inteligente y no dejes que ella te domine a ti.
 
 Fernando Barragán
