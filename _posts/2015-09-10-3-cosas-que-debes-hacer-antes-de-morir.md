@@ -18,7 +18,7 @@ Cada quien tiene su lista, sus propias metas en la vida, actividades que te insp
 
 Hay que convertir el fracaso en un recurso y dejarlo de ver como un lamento. Si quieres tener éxito vas a tener que fracasar varias veces. Muy pocos cuentan con una trayectoria intachable. De hecho, una persona que no tiene fracasos en su historia es mucho menos apetecible para los inversionistas. ¿Por qué? Porque las lecciones que te ofrece el fracaso nadie más te las puede enseñar. 
 
-**7 etapas del ciclo del Valor del fracaso**
+**7 etapas del ciclo del Valor del fracaso:**
 
 - Respetar y anticipar el fracaso con el fin de reducir el miedo al fracaso.
 - Ensayar para mejorar tus reflejos cuando el fracaso llega.
