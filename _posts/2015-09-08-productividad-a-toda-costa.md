@@ -9,6 +9,7 @@ title: 3 consejos para mantener la calma en los problemas
 ---
 
 
+
 Nos la pasamos pensando en cómo producir, vender, comprar más... A veces el dinero nos tiene tan ahorcados que nuestros pensamientos no cambian de tema en varios días. Este enfrascamiento es lo peor que se puede hacer para el cumplimiento de los objetivos de un negocio.
 
 “Actualmente, muchos vivimos en ciudades con un elevado grado de contaminación, donde el movimiento es vertiginoso, donde nadie se fija en nadie. Las personas vivimos como autómatas, nos agredimos unos a otros y nos vamos perdiendo dentro de un mundo vertiginoso. Muchas veces perdemos el sentido de vida y nos mantenemos en un estado de estrés constante que redunda en nuestra salud física y mental”. [(Estrategias).](http://estrategiaspnl.com/la-importancia-de-la-relajacion/) 
@@ -17,7 +18,7 @@ Nos la pasamos pensando en cómo producir, vender, comprar más... A veces el di
 
 La presión causada por la necesidad nos hace perder de vista el todo. La mirada perspectiva es un gran elemento para la planeación y la solución de problemas empresariales. Para eso existen las auditorías: gente externa que analiza la situación actual de otra organización y en la que encuentran áreas de oportunidad o aspectos mejorables. Es imposible que alguien inmerso en la actividad diaria de una empresa perciba todos los detalles y pueda tomar las mejores decisiones.
 
-“Por si fuera poco, el estrés se reduce la capacidad de afrontar problemas, la energía se reduce, el sistema inmunológico baja y el envejecimiento se acelera”.
+“Por si fuera poco, el estrés se reduce la capacidad de afrontar problemas, la energía se reduce, el sistema inmunológico baja y el envejecimiento se acelera”. [(Estrategias).](http://estrategiaspnl.com/la-importancia-de-la-relajacion/) 
 
 **La clave está en mantener un estado relajado en medio de las contrariedades diarias de la vida.**
 
