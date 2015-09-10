@@ -27,7 +27,7 @@ Hay que convertir el fracaso en un recurso y dejarlo de ver como un lamento. Si 
 - Repuntar para plantear nuevos planes de acción con el objetivo de mejorar el rendimiento.
 - Recordar que se debe fortalecer la cultura del lugar de trabajo.
 
-(The Other F Word)[http://theotherfwordbook.com/]
+[(The Other F Word)](http://theotherfwordbook.com/)
 
 ![10_09_15.jpg]({{site.baseurl}}/img/10_09_15.jpg)
 
