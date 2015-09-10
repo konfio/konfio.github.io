@@ -9,6 +9,7 @@ title: 3 cosas que debes hacer antes de morir
 ---
 
 
+
 Cada quien tiene su lista, sus propias metas en la vida, actividades que te inspiran y motivan a seguir trabajando muy duro todos los días. Aquí te comparto mi lista para ver si despierta tu propia inspiración.
 
 **Las 3 cosas que yo creo que todos debemos hacer ante de morir:**
@@ -50,7 +51,7 @@ Leer 300 libros significa en promedio 5 libros anuales, suponiendo que empiezas 
 - Puedes leer con más rapidez.
 - Evita la distracción de otros entretenimientos malsanos como viciarse demasiado al ordenador o a la televisión ( lo cual te perjudíca la vista).
 
-## Contar tu historia
+## 3. Contar tu historia
 
 Normalmente diría que escribieras un libro con todas tus experiencias laborales y personales, pero no todos amamos la escritura.
 
