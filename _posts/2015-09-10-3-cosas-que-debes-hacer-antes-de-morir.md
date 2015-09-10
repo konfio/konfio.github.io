@@ -59,6 +59,4 @@ Así que la recomendación es que cuentes tus experiencias. Transmite toda esa s
 
 Vive, aprende y comparte.
 
-Por Fernando Barragán 
-
-Content Creator de Konfío
+Por Fernando Barragán / Content Creator de Konfío
