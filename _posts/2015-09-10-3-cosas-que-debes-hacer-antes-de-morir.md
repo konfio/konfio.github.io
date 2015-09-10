@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2015-09-10 14:54 -0500"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: 3 cosas que debes hacer antes de morir
 ---
+
 
 Cada quien tiene su lista, sus propias metas en la vida, actividades que te inspiran y motivan a seguir trabajando muy duro todos los días. Aquí te comparto mi lista para ver si despierta tu propia inspiración.
 
@@ -59,5 +61,3 @@ Vive, aprende y comparte.
 Por Fernando Barragán 
 
 Content Creator de Konfío
- 
-
