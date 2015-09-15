@@ -40,7 +40,7 @@ En ambos casos la ventaja que se tiene es que permiten que tu ahorro genere util
 
 Ya sea que contrates los servicios de un banco o una aseguradora para ahorrar e invertir tu dinero debes tener en cuenta: 
 
-- Toda inversión constituye un riesgo.
+**- Toda inversión constituye un riesgo.
 
 - Compara con los diferentes oferentes para saber qué producto se adecua a tus necesidades.
 
@@ -50,7 +50,8 @@ Ya sea que contrates los servicios de un banco o una aseguradora para ahorrar e 
 
 - Antes de firmar lee muy bien los contratos y aclara las dudas que tengas.
 
-- Revisa los estados de cuenta que te mande el banco o aseguradora para saber el monto de tu ahorro y los rendimientos o perdidas que puedas estar teniendo. 
+- Revisa los estados de cuenta que te mande el banco o aseguradora para saber el monto de tu ahorro y los rendimientos o perdidas que puedas estar teniendo.**
 
 Por Gabriela I. Guillén
+
 Esta es una colaboración especial de [Mercado de Crédito](https://mercadodecredito.com/?utm_source=google&utm_medium=cpc&utm_campaign=Cr%C3%A9dito%20Negocio%2FEmpresa)
