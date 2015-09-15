@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2015-09-15 14:39 -0500"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: Ahorra como profesional
 ---
+
 
 En México existe poca cultura del ahorro, y del 57% que suele hacerlo sólo el 21% deposita sus recursos en el sistema financiero, el resto prefiere los “guardaditos en casa”, las tandas, las cajas de ahorro con amigos y las de su trabajo. De quienes sí ahorran en instrumentos formales, el 30% recurre a las cuentas de ahorro y sólo el 9% a las cuentas de inversión, esto de acuerdo a datos presentados por la Asociación Mexicana de Afores (AMAFORE).
 
@@ -52,4 +54,3 @@ Ya sea que contrates los servicios de un banco o una aseguradora para ahorrar e 
 
 Por Gabriela I. Guillén
 Esta es una colaboración especial de [Mercado de Crédito](https://mercadodecredito.com/?utm_source=google&utm_medium=cpc&utm_campaign=Cr%C3%A9dito%20Negocio%2FEmpresa)
-
