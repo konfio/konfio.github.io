@@ -39,7 +39,7 @@ La crisis no te tomar por sorpresa. Es difícil e implica trabajo y recursos, pe
 
 La situación extraordinaria sí te toma por sorpresa y cambia el rumbo de tu negocio en algunas ocasiones. Por mucho que te prepares, siempre te tomarán mal parado. 
 
-El ahorro que tengas destinado como fondo de emergencia es el que de e mermar
+El ahorro que tengas destinado como fondo de emergencia es el que te debe salvar la vida.
 
 ## Tres reglas del fondo de emergencia
 
@@ -56,3 +56,7 @@ Nunca sabes cuándo lo vas a necesitar. Así que el fondo de emergencia se debe 
 Calcula tus ganancias de 3 meses: ese debe ser tu fondo de emergencia. Si es menos, quizá no te alcance para cubrir el propósito completo de un fondo de emergencia. Si es más, puede ser que estés reteniendo recursos innecesariamente.
 
 Recuerda: tu fondo de emergencia puede salvar a tu negocio de la quiebra. Úsalo cuando cumpla este propósito y no confundas emergencias con urgencias o necesidades.
+
+Fernando Barragán
+
+Content Creator en Konfío
