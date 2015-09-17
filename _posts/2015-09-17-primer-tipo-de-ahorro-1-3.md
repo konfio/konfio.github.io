@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2015-09-17 14:37 -0500"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: "Primer Tipo de Ahorro (1-3)"
 ---
+
 
 Solo 1,25 millones de mexicanos ahorran con un instrumento formal. ¿Significa que los otros 120 millones ahorran en sus colchones? ¿O no ahorran? 
 
@@ -54,4 +56,3 @@ Nunca sabes cuándo lo vas a necesitar. Así que el fondo de emergencia se debe 
 Calcula tus ganancias de 3 meses: ese debe ser tu fondo de emergencia. Si es menos, quizá no te alcance para cubrir el propósito completo de un fondo de emergencia. Si es más, puede ser que estés reteniendo recursos innecesariamente.
 
 Recuerda: tu fondo de emergencia puede salvar a tu negocio de la quiebra. Úsalo cuando cumpla este propósito y no confundas emergencias con urgencias o necesidades.
-
