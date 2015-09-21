@@ -27,7 +27,7 @@ Incluso a nivel fisiológico así funcionamos:
 
 Sin este tipo de motivaciones, tomar las decisiones correctas sería mucho más complicado. Y lo mismo para el ahorro.
 
-### Características de los objetivos:
+###Características de los objetivos:
 
 **1. Objetivos claros**
 
