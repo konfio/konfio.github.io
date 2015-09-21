@@ -42,7 +42,7 @@ Amueblar tu casa es un buen objetivo, pero no es claro. ¿Primero comprarás el 
 
 Ponles una fecha límite y haz todo lo posible para cumplirla. Es importante que te mantengas realista. Y plantea opciones B y C. ¿Qué sucederá si no cumples las fechas? ¿Qué otras fechas consideras factibles? Si te propusiste ahorrar X dinero en 3 meses, pero a los 2 meses te das cuenta de que no lo estás logrando, deberás hacer un reajuste del objetivo. Pero son medidas que tú vas decidiendo y no que la corriente te va imponiendo.
 
-Objetivo tras objetivo; así es como se llega a la meta.
+[Objetivo tras objetivo; así es como se llega a la meta.](https://www.youtube.com/watch?v=MXL6k7fyzws)
 
 Por Fernando Barragán
 
