@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2015-09-21 13:46 -0500"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: "Segundo Tipo de Ahorro (2-3)"
 ---
+
 
 Somos personas de carne y hueso que necesitan incentivos claros. Si ahorras simplemente porque “has escuchado” que es algo bueno, te vas a cansar a los tres meses o te vas a gastar todo ante la primera necesidad fuerte que experimentes. 
 
