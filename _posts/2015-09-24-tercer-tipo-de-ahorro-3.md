@@ -5,7 +5,7 @@ tags:
   - "null"
 customExcerpt: false
 published: true
-title: "Tercer Tipo de Ahorro (3-)"
+title: "Tercer Tipo de Ahorro (3-3)"
 ---
 
 
