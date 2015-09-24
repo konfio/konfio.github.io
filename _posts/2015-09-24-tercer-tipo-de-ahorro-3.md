@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2015-09-24 14:52 -0500"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: "Tercer Tipo de Ahorro (3-)"
 ---
+
 
 Si te retiraras hoy, ¿qué tendrías?
 
@@ -68,4 +70,3 @@ Ahorra para el retiro, no lo dejes para después. Puede ser la clave de tu tranq
 Fernando Barragán
 
 Content Creator de Konfío
-
