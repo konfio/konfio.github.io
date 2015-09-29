@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2015-09-29 12:30 -0500"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
 published: false
 title: Préstamos para Negocios
 ---
+
 
 Konfío nació debido a la gran necesidad de financiamiento que tienen los pequeños negocios. Nuestra meta es romper esa brecha financiera y hacer llegar el beneficio de los créditos en línea a todos los negocios en México a través de la tecnología.
 
@@ -19,17 +21,16 @@ Si tienes un **negocio formal** que emite facturas o tienes forma de comprobar t
 
 La manera más fácil de que escojas la mejor opción para ti es que investigues y compares todas las opciones que tengas. Toma en cuenta aspectos como: 
 
-- El proceso de solicitud.
+**- El proceso de solicitud.**
 
-- La tasa de interés.
+**- La tasa de interés.**
 
-- La accesibilidad y probabilidad de obtenerlo.
+**- La accesibilidad y probabilidad de obtenerlo.**
 
-- El tiempo de espera.
+**- El tiempo de espera.**
 
 La misión de Konfío es fortalecer la economía con créditos productivos para que las empresas jóvenes prometedoras se conviertan en medias y grandes empresas de algo impacto. Y eso lo logra día a día financiando a pequeños negocios con créditos en línea 
 
 Por Fernando Barragán
 
 Content Creator de Konfío
-
