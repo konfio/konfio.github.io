@@ -17,13 +17,21 @@ Conocer a una persona, hablarle de tu proyecto y despedirlo con las manos vacía
 
 [Entrepreneur](http://www.soyentrepreneur.com/26193-que-hacer-y-que-no-en-tus-tarjetas-de-presentacion.html) nos enlista 9 consejos para nuestra tarjeta de presentación:
 1.	Apuesta por un diseño profesional: métele algo de dinero, vale la pena.
+
 2.	Prioriza la legibilidad sobre la creatividad: bonito, pero claro.
+
 3.	Elige sabiamente el layout: las tarjetas raras son más memorables, pero no es fácil guardarlas.
+
 4.	Evita los colores chillones: lo más importante es tu información.
+
 5.	Incluye múltiples formas de contacto: mail, teléfono, Skype, dirección.
+
 6.	Revisa la escritura: las faltas de ortografía son muchos puntos menos.
+
 7.	Nunca salgas sin ellas: llévalas en la cartera, coche, portafolio.
+
 8.	Aguántate las ganas: si entregas tu tarjeta al inicio de una conversación das la impresión de desesperación. Espera a que te la pidan.
+
 9.	Usa las tarjetas de otros para aprenderte sus nombres: cuando las recibas tómate unos segundos para leerla.
 
 ##Soy demasiado joven y mi proyecto es muy pequeño
