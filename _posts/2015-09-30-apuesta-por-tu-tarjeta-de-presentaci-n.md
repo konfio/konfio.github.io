@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2015-09-30 15:04 -0500"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: Apuesta por tu tarjeta de presentación
 ---
+
 
 Aunque estamos en la era digital entregar una tarjeta de presentación continúa siendo un elemento importante del networking. **Un pedacito de papel bien hecho puede marcar la diferencia entre ser recordado u olvidado.**
 
