@@ -16,6 +16,7 @@ Aunque estamos en la era digital entregar una tarjeta de presentación continúa
 Conocer a una persona, hablarle de tu proyecto y despedirlo con las manos vacías es como entrar a una tienda, probarte un saco, pero no comprarlo. 
 
 [Entrepreneur](http://www.soyentrepreneur.com/26193-que-hacer-y-que-no-en-tus-tarjetas-de-presentacion.html) nos enlista 9 consejos para nuestra tarjeta de presentación:
+
 1.	Apuesta por un diseño profesional: métele algo de dinero, vale la pena.
 
 2.	Prioriza la legibilidad sobre la creatividad: bonito, pero claro.
