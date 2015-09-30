@@ -9,6 +9,7 @@ title: "Primer Tipo de Ahorro (1-3)"
 ---
 
 
+
 Solo 1,25 millones de mexicanos ahorran con un instrumento formal. ¿Significa que los otros 120 millones ahorran en sus colchones? ¿O no ahorran? 
 
 ## Fondo de emergencia:
@@ -35,7 +36,7 @@ A nivel micronegocio debes contemplar un **fondo de emergencia** para cubrir esa
 
 Hay una gran diferencia entre afrontar un momento de crisis y afrontar una situación extraordinaria que desestabiliza tu negocio.
 
-La crisis no te tomar por sorpresa. Es difícil e implica trabajo y recursos, pero sabes cómo reaccionar y sales al paso exitosamente. Es decir, las crisis son algo normal y periódico en los negocios. Si te desestabilizan constantemente hay algo que no estás haciendo bien.
+La crisis no te debe tomar enteramente por sorpresa. Es difícil e implica trabajo y recursos, pero sabes cómo reaccionar y sales al paso exitosamente. Es decir, las crisis son algo normal y periódico en los negocios. Si te desestabilizan constantemente hay algo que no estás haciendo bien.
 
 La situación extraordinaria sí te toma por sorpresa y cambia el rumbo de tu negocio en algunas ocasiones. Por mucho que te prepares, siempre te tomarán mal parado. 
 
