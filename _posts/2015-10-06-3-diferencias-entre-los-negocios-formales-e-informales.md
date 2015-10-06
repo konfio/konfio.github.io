@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2015-10-06 15:11 -0500"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: 3 diferencias entre los negocios formales e informales
 ---
+
 
 “En México existen más de 5 millones de unidades económicas, de las que el 93% son microempresas; de esos 4.8 millones de micronegocios, solo 1.3 millones están formalizados; es decir, en nuestro país operan 3.5 millones de negocios en la informalidad” ([Pepe y Toño](http://www.pepeytono.com.mx/mejora_tu_empresa/formaliza_tu_negocio_3_razones_para_dejar_el_mundo_subterraneo)). 
 
@@ -38,4 +40,3 @@ En resumen, la formalización tiene beneficios tangibles para tu negocio que se 
 Por Fernando Barragán
 
 Content Creator de Konfío
-
