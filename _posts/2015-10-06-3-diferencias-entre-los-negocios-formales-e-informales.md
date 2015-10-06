@@ -15,6 +15,7 @@ title: 3 diferencias entre los negocios formales e informales
 
 ##Desventajas de permanecer como informal
 
+
 **1. Eres presa de los corruptos**
 
 Triste, pero verdad. Las calles están llenas de cobradores, coyotes, gestores o como sea que se llamen. Con amenazas de medidas que pondrían en peligro tu negocio, se salen con la suya y la mayoría decide llevársela en paz y soltar su tajada. 
@@ -28,6 +29,7 @@ Mantenerte como informal es mantenerte en las ligas menores sin tener acceso a l
 Tu posición para negociar un precio con un proveedor o un cliente siempre será muy débil. Los negocios informales típicamente compran caro y venden barato, reduciendo notablemente el margen de ganancia o utilidad.  
 
 ##Ventajas de convertirse en formal
+
 
 **1. Más ganancias para ti**
 
