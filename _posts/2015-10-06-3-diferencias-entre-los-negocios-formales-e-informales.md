@@ -5,7 +5,7 @@ tags:
   - "null"
 customExcerpt: false
 published: true
-title: 3 diferencias entre los negocios formales e informales
+title: 3 diferencias entre los negocios formales y los informales
 ---
 
 
