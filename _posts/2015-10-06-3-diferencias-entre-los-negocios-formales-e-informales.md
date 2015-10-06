@@ -33,9 +33,15 @@ Tu posición para negociar un precio con un proveedor o un cliente siempre será
 
 **1. Más ganancias para ti**
 
+Es indiscutible que al convertirte en formal tienes oportunidad de incrementar tus ganancias. Claro que requerirá trabajo y estrategia, pero el primer paso ya lo diste.
+
 **2. Nada de costos subterráneos (mordidas)**
 
+Ser formal te protege legalmente contra cualquier extorsión o abuso. 
+
 **3. Profesionalización de tu negocio**
+
+Un negocio formal puede cobrar lo que cuesta su servicio o producto sin sufrir el regateo y manteniendo la utilidad proyectada. Teniendo una entidad moral o física te da un punto extra para la negociación.
 
 En resumen, la formalización tiene beneficios tangibles para tu negocio que se traducirá en más ganancias; adicionalmente una formalización importante de las microempresas en el país reducirá los espacios de corrupción y con ellos la desaparición paulatina de parásitos que viven de extorsionar a millones de negocios mexicanos. (Pepe y Toño).
 
