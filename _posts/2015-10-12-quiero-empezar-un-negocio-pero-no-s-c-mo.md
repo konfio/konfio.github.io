@@ -11,13 +11,14 @@ title: "Quiero empezar un negocio, pero no sé cómo"
 
 
 
+
 Lo bueno de tener tu propio negocio es que los límites te los pones tú. Seguramente trabajarás más porque serás el encargado de TODO. No hay jefe más exigente que tu propia ambición. Cultiva esa sana ambición para que te superes todos los días. Y si hoy vendiste 10 mañana vas a vender 12 y pasado lograrás los 14. Todos los días un poco más.
 
 Checa [aquí](https://www.youtube.com/watch?v=0peQpJOSoQk) nuestro video 
 
 ![12_10_15.jpg]({{site.baseurl}}/img/12_10_15.jpg)
 
-1.	Descubre una necesidad
+**1.	Descubre una necesidad**
 
 Para asegurar el fruto de tus esfuerzos te debes meter a algo que te guste, pero también a algo que necesite la gente. 
 Analiza la cuadra, la zona y la calle en la que quieres estar. Busca varias opciones. Siempre hay algo que falta y que se acople a tus posibilidades. 
