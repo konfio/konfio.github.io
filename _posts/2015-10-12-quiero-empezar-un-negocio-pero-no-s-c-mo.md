@@ -49,5 +49,5 @@ Ya tomaste las medias de precaución necesarias, tu negocio te convence, la emoc
 
 Por Fernando Barragán
 
-Content Creator en Konfío
+Content Creator de Konfío
 
