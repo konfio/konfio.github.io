@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2015-10-12 10:39 -0500"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: "Quiero empezar un negocio, pero no sé cómo"
 ---
+
 
 Lo bueno de tener tu propio negocio es que los límites te los pones tú. Seguramente trabajarás más porque serás el encargado de TODO. No hay jefe más exigente que tu propia ambición. Cultiva esa sana ambición para que te superes todos los días. Y si hoy vendiste 10 mañana vas a vender 12 y pasado lograrás los 14. Todos los días un poco más.
 
@@ -50,4 +52,3 @@ Ya tomaste las medias de precaución necesarias, tu negocio te convence, la emoc
 Por Fernando Barragán
 
 Content Creator de Konfío
-
