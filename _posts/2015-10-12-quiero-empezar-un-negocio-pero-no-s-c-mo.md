@@ -23,16 +23,16 @@ Checa [aquí](https://www.youtube.com/watch?v=0peQpJOSoQk) nuestro video
 Para asegurar el fruto de tus esfuerzos te debes meter a algo que te guste, pero también a algo que necesite la gente. 
 Analiza la cuadra, la zona y la calle en la que quieres estar. Busca varias opciones. Siempre hay algo que falta y que se acople a tus posibilidades. 
 
-2.	Analiza el mercado de precios y competencia
+**2.	Analiza el mercado de precios y competencia**
 
 Para ponerle precio a tu producto, deberás saber cuánto cuesta en los lugares cercanos; analiza sus características. Para fijar un precio no debes perder de vista el costo y la utilidad que quieres obtener.
 Sé diferente siempre sabiendo lo que aplica tu competencia. La mejor manera de saber si estás teniendo éxito es impactando en tus competidores; oblígalos a ponerse las pilas. Si te ignoran o no te voltean a ver, hay algo que no estás haciendo bien.
 
-3.	Adáptate a tu público
+**3.	Adáptate a tu público**
 
 ¿Quién es tu público? ¿Qué prefieren? Ofréceles eso que quieres de una forma ingeniosa. Por ejemplo, todos los estudiantes se derriten ante las promociones… pero no abuses porque los puedes malacostumbrar. Conoce a los que te compran para venderles más y mejor.
 
-4.	Evalúa los riesgos
+**4.	Evalúa los riesgos**
 
 Escribe todos los riesgos que puedes correr:
 
@@ -48,7 +48,7 @@ Al inicio siempre es una dura realidad. Pasan las horas, los días y ni siquiera
 
 Piensa en medidas de seguridad y rodéate de gente de mucha confianza. Sobre todo al inicio un robo puede causar tu ruina. Gánate a tus trabajadores valorándolos y dándoles responsabilidades justas. Pero no cierres los ojos. 
 
-5.	Lánzate
+**5.	Lánzate**
 
 Ya tomaste las medias de precaución necesarias, tu negocio te convence, la emoción corre por tus venas. El miedo siempre estará ahí, que eso no te frene. Si ya lo tienes claro solo falta tu decisión. Mucho ánimo y mucho éxito.
 
