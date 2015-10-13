@@ -2,6 +2,7 @@
 ---
 .post
   background-color: white
+  margin-bottom: 10px
   .post-header
     padding: 0
     border: 0
@@ -9,14 +10,14 @@
     margin: 0
     text-transform: none
     font-size: 35px
-  article.post-content
-    padding: 0
   img
     display: block
     margin: 0 auto
 
-.post-list
-  padding: 0px 3em
+ul.post-list
+  padding: 0px 80px
+  @media only screen and (max-width: 768px) and (min-width: 321px)
+    padding: 0px 40px
 
   .post
     list-style: none
@@ -25,6 +26,8 @@
       .post-link
         display: inline-block
         font-size: 0.7em
+        @media only screen and (max-width: 768px) and (min-width: 321px)
+          font-size: 1em
       small
         font-size: 0.3em
         display: block
@@ -38,6 +41,14 @@
 
     article.post-content
       background-color: #FDFDFD
+      padding: 0
+      font-size: 20px
+      @media only screen and (max-width: 768px) and (min-width: 321px)
+        font-size: 18px
+      font-weight: 300
+
+      p
+        line-height: 24px
 
 .staticpage
   article
@@ -68,3 +79,5 @@
 
 .content.post h2
   font-size: 25px
+
+
