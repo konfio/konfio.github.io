@@ -3,6 +3,9 @@
 .post
   background-color: white
   margin-bottom: 10px
+  padding: 30px 90px
+  @media only screen and (max-width: 768px) and (min-width: 321px)
+    padding: 30px 40px
   .post-header
     padding: 0
     border: 0
@@ -13,6 +16,15 @@
   img
     display: block
     margin: 0 auto
+  .post-content
+    p
+      font-size: 20px
+      line-height: 24px
+      font-weight: 300
+    ul
+      font-size: 16px
+      line-height: 20px
+      margin-bottom: 10px
 
 ul.post-list
   padding: 0px 80px
@@ -79,5 +91,3 @@ ul.post-list
 
 .content.post h2
   font-size: 25px
-
-
