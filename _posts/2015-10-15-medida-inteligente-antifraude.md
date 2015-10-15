@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2015-10-15 16:14 -0500"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: Medida inteligente antifraude
 ---
+
 
 Si en algún lugar te piden que deposites efectivo para poderte dar tu crédito, OJO, no es una buena señal. 
 
@@ -26,4 +28,3 @@ Si quieres solicitar un crédito da clic [aquí](https://konfio.mx/inicio/ingres
 Por Fernando Barragán
 
 Content Creator de Konfío
-
