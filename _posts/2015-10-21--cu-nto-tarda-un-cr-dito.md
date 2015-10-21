@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2015-10-21 12:08 -0500"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: "¿Cuánto tarda un crédito?"
 ---
+
 
 Hay de todos los tipos y tiempos que te puedas imaginar. Está desde el bancario que tarda mucho por todas las medidas de seguridad que toman, las idas y venidas del agende de crédito o de ti mismo al banco. Hasta los préstamos pequeños que se te otorgan en menos de 24 horas.
 
@@ -38,4 +40,3 @@ Te invitamos a invertir en tu negocio para que puedas seguir creciendo con éxit
 Por Fernando Barragán
 
 Content Creator de Konfío
-
