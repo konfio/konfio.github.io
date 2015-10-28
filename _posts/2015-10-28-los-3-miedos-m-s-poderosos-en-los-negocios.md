@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2015-10-28 15:27 -0600"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: Los 3 miedos más poderosos en los negocios
 ---
+
 
 
 ¿A qué le temes? ¿Qué te causa ansiedad? El miedo se define como “angustia por un riesgo o daño real o imaginario” (RAE, 2015). Según la definición, lo primero que tienes que tener bien claro es si es un riesgo real o imaginario. Si el daño es real, entonces el miedo debe ser el motor para que tu precaución se agudice. 
@@ -45,4 +47,3 @@ El miedo debe ser un motor de prudencia, no un paralizador.
 Por Fernando Barragán
 
 Content Creator de Konfío
-
