@@ -10,13 +10,14 @@ title: Los 3 miedos más poderosos en los negocios
 
 
 
+
 ¿A qué le temes? ¿Qué te causa ansiedad? El miedo se define como “angustia por un riesgo o daño real o imaginario” (RAE, 2015). Según la definición, lo primero que tienes que tener bien claro es si es un riesgo real o imaginario. Si el daño es real, entonces el miedo debe ser el motor para que tu precaución se agudice. 
 
 ![28_10_15.jpg]({{site.baseurl}}/img/28_10_15.jpg)
 
 Si ves que algo está pasando con tu negocio o el mercado, entonces tu miedo tiene un fundamento real. De esa forma puedes tomar las medidas necesarias. Para eso es el miedo, para que vayas un paso adelante y no sufras las consecuencias de realidades que se pudieron evitar. 
 
-##3 miedos comunes
+#3 miedos comunes
 
 **1. Miedo al fracaso**
 
