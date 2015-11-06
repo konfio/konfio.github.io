@@ -24,7 +24,7 @@ Cuando vas a una entrevista de trabajo estás poniéndole precio a tus servicios
 
 Aplica los 10 mandamientos del buen vendedor:
 
-1.	No ignorarás la voz del mercado.
+1	No ignorarás la voz del mercado.
 
 2.	No pensarás que todos son tus clientes.
 
