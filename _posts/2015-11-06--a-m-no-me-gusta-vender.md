@@ -22,16 +22,26 @@ Cuando le cuentas a alguien tu idea para que colabore contigo, le estás vendien
 
 Cuando vas a una entrevista de trabajo estás poniéndole precio a tus servicios profesionales para la empresa. Vendes tus conocimientos, tu experiencia y habilidades. Tu tarea es destacar las cualidades de producto (tú) y convencer a la empresa de que tú eres la persona adecuada para el puesto.
 
-Aquí están los 10 mandamientos del buen vendedor.
+Aquí están los 10 mandamientos del buen vendedor:
+
 1.	No ignorarás la voz del mercado.
+
 2.	No pensarás que todos son tus clientes.
+
 3.	No te alejarás de tus consumidores.
+
 4.	No confiarás solo en la improvisación.
+
 5.	No tendrás problemas de comunicación.
+
 6.	No permitirás que solo los vendedores vendan.
+
 7.	No perderás ninguna venta.
+
 8.	No dejarás de aprovechar los testimonios.
+
 9.	No defraudarás la confianza de tus consumidores.
+
 10.	No olvidarás la importancia del servicio al cliente.
 
 Por [Entrepreneur](http://www.soyentrepreneur.com/2473-los-10-mandamientos-del-buen-vendedor.html). 
