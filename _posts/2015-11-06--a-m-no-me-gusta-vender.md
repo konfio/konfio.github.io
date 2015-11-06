@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2015-11-06 16:49 -0600"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: “A mí no me gusta vender”
 ---
+
 
 
 Seguro lo hemos escuchado muchas veces o incluso lo hemos dicho. Pero te tengo una noticia: en la vida todo es vender.
@@ -39,4 +41,3 @@ Como hemos visto, vender nos concierne de manera muy cercana en nuestro mundo de
 Por Fernando Barragán
 
 Content Creator de Konfío
-
