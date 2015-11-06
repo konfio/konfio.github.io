@@ -10,6 +10,7 @@ title: “A mí no me gusta vender”
 
 
 
+
 Seguro lo hemos escuchado muchas veces o incluso lo hemos dicho. Pero te tengo una noticia: en la vida todo es vender.
 
 Hay personas que simplemente no se ven tocando puertas y ofreciendo artículos o platicando con sus conocidos sobre el nuevo producto que tienen para ofrecerles. Eso es vender, pero no solo eso.
@@ -24,25 +25,25 @@ Cuando vas a una entrevista de trabajo estás poniéndole precio a tus servicios
 
 Aplica los 10 mandamientos del buen vendedor:
 
-1	No ignorarás la voz del mercado.
+**1.**	No ignorarás la voz del mercado.
 
 **2.**	No pensarás que todos son tus clientes.
 
-3.	No te alejarás de tus consumidores.
+**3.**	No te alejarás de tus consumidores.
 
-4.	No confiarás solo en la improvisación.
+**4.**	No confiarás solo en la improvisación.
 
-5.	No tendrás problemas de comunicación.
+**5.**	No tendrás problemas de comunicación.
 
-6.	No permitirás que solo los vendedores vendan.
+**6.**	No permitirás que solo los vendedores vendan.
 
-7.	No perderás ninguna venta.
+**7.**	No perderás ninguna venta.
 
-8.	No dejarás de aprovechar los testimonios.
+**8.**	No dejarás de aprovechar los testimonios.
 
-9.	No defraudarás la confianza de tus consumidores.
+**9.**	No defraudarás la confianza de tus consumidores.
 
-10.	No olvidarás la importancia del servicio al cliente.
+**10.**	No olvidarás la importancia del servicio al cliente.
 
 Por [Entrepreneur](http://www.soyentrepreneur.com/2473-los-10-mandamientos-del-buen-vendedor.html). 
 
