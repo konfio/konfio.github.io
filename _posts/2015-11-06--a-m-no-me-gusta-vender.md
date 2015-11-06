@@ -26,7 +26,7 @@ Aplica los 10 mandamientos del buen vendedor:
 
 1	No ignorarás la voz del mercado.
 
-2.	No pensarás que todos son tus clientes.
+**2.**	No pensarás que todos son tus clientes.
 
 3.	No te alejarás de tus consumidores.
 
