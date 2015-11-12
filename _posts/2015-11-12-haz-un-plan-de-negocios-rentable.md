@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2015-11-12 15:25 -0600"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: Haz un plan de negocios rentable
 ---
+
 
 El plan de negocios es un documento escrito de unas 30 páginas que incluye los objetivos de tu empresa, las estrategias para conseguirlos, la estructura organizacional, el monto de inversión y soluciones para resolver problemas futuros (internos y externos). 
 
@@ -38,13 +40,3 @@ Planea con la cabeza fría, toma las decisiones correspondientes y no tengas mie
 Por Fernando Barragán
 
 Content Creator de Konfío
-
-
-
-
-
-
-
-
-
-
