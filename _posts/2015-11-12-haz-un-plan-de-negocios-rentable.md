@@ -9,6 +9,7 @@ title: Haz un plan de negocios rentable
 ---
 
 
+
 El plan de negocios es un documento escrito de unas 30 páginas que incluye los objetivos de tu empresa, las estrategias para conseguirlos, la estructura organizacional, el monto de inversión y soluciones para resolver problemas futuros (internos y externos). 
 
 Ya hay que superar los mitos de que tener un plan de negocios es solo para empresas grandes y desarrolladas. No es verdad; es como decir que solo las grandes empresas necesitan orden… Cualquier negocio en desarrollo que quiera optimizar sus procesos y aumentar las ganancias debe contar con un plan.
@@ -19,12 +20,19 @@ Ya hay que superar los mitos de que tener un plan de negocios es solo para empre
 Osterwalder y Pigneur señalan que son nueve los componentes que describen un modelo de negocios: 
 
 **1.** Segmento de cliente.
+
 **2.** Propuesta de valor.
+
 **3.** Canales.
+
 **4.** Relación con el cliente.
+
 **5.** Flujos de ingreso.
+
 **6.** Recursos clave.
+
 **7.** Actividades clave.
+
 **8.** Estructura de costos. 
 
 ([Entrepreneur](http://www.soyentrepreneur.com/27358-guia-para-hacer-tu-plan-de-negocios.html))
