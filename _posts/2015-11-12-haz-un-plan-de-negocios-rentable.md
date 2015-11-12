@@ -35,9 +35,9 @@ Osterwalder y Pigneur señalan que son nueve los componentes que describen un mo
 
 **8.** Estructura de costos. 
 
-([Entrepreneur](http://www.soyentrepreneur.com/27358-guia-para-hacer-tu-plan-de-negocios.html))
+[Entrepreneur](http://www.soyentrepreneur.com/27358-guia-para-hacer-tu-plan-de-negocios.html)
 
-Incluye esos apartados a tu plan de negocios y podrás decir que tienes un plan más o menos decente respetado por cualquier empresario. 
+##Incluye esos apartados a tu plan de negocios y podrás decir que tienes un plan más o menos decente respetado por cualquier empresario. 
 
 Si necesitas un financiamiento para tu negocio solicítalo [aquí](https://konfio.mx/inicio/ingresa) aunque te recomiendo que hagas una investigación de lo que más te convenga para que no tomes una decisión apresurada o poco informada. Compara precios 
 
