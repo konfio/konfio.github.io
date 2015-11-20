@@ -4,7 +4,7 @@ date: "2015-11-20 11:00 -0600"
 tags: 
   - "null"
 customExcerpt: false
-published: false
+published: true
 title: La lucha por la formalización
 ---
 
