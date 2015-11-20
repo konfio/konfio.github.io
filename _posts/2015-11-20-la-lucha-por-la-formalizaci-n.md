@@ -9,7 +9,8 @@ title: La lucha por la formalización
 ---
 
 
-En México el 60% de los trabajadores se desenvuelve en un ambiente informal. ¿Qué significa esto? Que más de la mitad de los trabajadores de México laboran en comercios o servicios de manera informal, sin impuestos ni prestaciones; sin aparentes obligaciones ni derechos.
+
+En México el 60% de los trabajadores se desenvuelve en un ambiente informal. Es decir, más de la mitad de los trabajadores de México laboran en comercios o servicios sin impuestos ni prestaciones; sin aparentes obligaciones ni derechos.
 
 Ya [se ha hablado](http://blog.konfio.mx/3-diferencias-entre-los-negocios-formales-e-informales.html) de las “cuotas” o “multas” que más bien son actividades corruptas por parte de algunos miembros del sistema gubernamental. Es decir, los negocios informales terminan pagando una clase de “impuestos”, aunque sea ilegal y lamentable.
 
