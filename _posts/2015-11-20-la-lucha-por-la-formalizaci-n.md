@@ -8,6 +8,7 @@ published: true
 title: La lucha por la formalización
 ---
 
+
 En México el 60% de los trabajadores se desenvuelve en un ambiente informal. ¿Qué significa esto? Que más de la mitad de los trabajadores de México laboran en comercios o servicios de manera informal, sin impuestos ni prestaciones; sin aparentes obligaciones ni derechos.
 
 Ya [se ha hablado](http://blog.konfio.mx/3-diferencias-entre-los-negocios-formales-e-informales.html) de las “cuotas” o “multas” que más bien son actividades corruptas por parte de algunos miembros del sistema gubernamental. Es decir, los negocios informales terminan pagando una clase de “impuestos”, aunque sea ilegal y lamentable.
@@ -25,4 +26,3 @@ La diferencia es que hoy cada vez más contamos con un sistema un poco más segu
 Si estás en esa difícil decisión, piénsalo bien. Claro que será diferente; todo cambio implica concentración y aprendizaje. Lo importante son los resultados que se verán a mediano y largo plazo. No te dejes engañar por los mitos urbanos. 
 
 Por Fernando Barragán / Content Creator en Konfío
-
