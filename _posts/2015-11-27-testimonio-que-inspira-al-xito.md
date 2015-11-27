@@ -20,4 +20,6 @@ Su empresa, [Tesagro](http://www.tesagro.com/), es una empresa de agricultura co
 Tras esta motivación y con el objetivo de hacer cada vez más próspero su negocio, Mitzy ha solicitado un crédito para tener la posibilidad de abrir una oficina para atención a clientes y profesionalizar su negocio aún más.
 Con esta estimulación y la idea de heredar el legado familiar a sus hijas, Mitzy mantiene su espíritu de lucha para sacar adelante la empresa.
 
+Para contactar a Mitzy le puedes escribir a mgastelum@tesagro.com
+
 Por Tamara Gama / Testimonios Konfío
