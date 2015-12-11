@@ -20,7 +20,7 @@ Si tú eres todo un profesionista freelance, a continuación te dejamos 10 tips 
 
 **1** Aprende a seleccionar tus clientes; procura trabaja siempre con personas y/o empresas que tengan buena reputación y demuestren profesionalismo
 
-**2** Redacta contratos por escrito; para mayor seguridad y confianza para ambas partes, asegúrate de siempre especificar en un contrato el trabajo o servicio que vas a desarrollar
+**2.** Redacta contratos por escrito; para mayor seguridad y confianza para ambas partes, asegúrate de siempre especificar en un contrato el trabajo o servicio que vas a desarrollar
 
 3. Solicita un anticipo; antes de iniciar con el trabajo por el cual has sido contratado, pide un pago del 50% por adelantado para cubrir los gastos que tendrás al realizar la actividad
 
