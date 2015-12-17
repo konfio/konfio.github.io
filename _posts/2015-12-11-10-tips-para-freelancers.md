@@ -9,6 +9,7 @@ title: 10 tips para freelancers
 ---
 
 
+
 En la sociedad actual es cada vez más popular ser un profesionista _freelance_.
 Las crisis económicas y la inestabilidad en el mercado laboral, abren camino a personas que desean explotar su talento de manera independiente creando su propio negocio y modelo de trabajo, convirtiéndose así en _freelancers_.
 
@@ -38,4 +39,4 @@ Si tú eres todo un profesionista _freelance_, a continuación te dejamos **10 t
 
 **10.**	 Aprovecha la tecnología; existen diversos programas y aplicaciones que te ayudarán a desarrollar tu actividad óptimamente. Mantente siempre a la vanguardia.
 
-Por Tamara Alvarado / Parnertship Executive
+Por Tamara Alvarado / Partnership Executive
