@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2015-12-17 13:58 -0600"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: 6 pasos para aprovechar mejor el día
 ---
+
 
 Uno de los recursos más valiosos para una persona es el tiempo. Tener una mala organización, no solo será un desperdicio de este, sino que significará un bajo rendimiento en el cumplimiento de metas personales y profesionales.
 
@@ -33,4 +35,3 @@ Implementar una rutina diaria al despertar, te ayudará a optimizar el resto de 
 ¡Estás listo para una día lleno de éxito!
 
 Por Tamara Alvarado / Partnership Executive
-
