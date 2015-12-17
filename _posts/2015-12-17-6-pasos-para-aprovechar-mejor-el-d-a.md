@@ -32,5 +32,5 @@ Implementar una rutina diaria al despertar, te ayudará a optimizar el resto de 
 **6.** Estírate; relaja tu cuerpo y te ayudará a mejorar en tu rendimiento
 ¡Estás listo para una día lleno de éxito!
 
-Por Tamara Alvarado / Parnertship Executive
+Por Tamara Alvarado / Partnership Executive
 
