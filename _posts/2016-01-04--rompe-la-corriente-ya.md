@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2016-01-04 11:19 -0600"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: "¡Rompe la corriente ya!"
 ---
+
 
 Empezar un nuevo año tiene sus pros y sus contras. A muchos nos encanta convivir con la familia, pero no disfrutamos tanto pagar las cuentas ni la tarjeta de crédito, ni los regalos… Si tus gastos de vacaciones fueron controlados por un presupuesto esto no será un problema, pero si se te salió ligeramente de las manos empezarás a sudar conforme avance enero…
 
@@ -20,4 +22,3 @@ Sé radical, no fraternices con la deuda ni te acostumbres. Y te lo dice una emp
 Si empiezas el año sin deudas, FELICIDADES, eres una especie en peligro de extinción… Disfruta tu inicio de año lleno de prosperidad. Ah, y tú sí aprovecha las ofertas de liquidación y cambio de temporada. Ahora es un buen momento para usar los ahorros.
 
 Por Fernando Barragán / Content Creator en Konfío
-
