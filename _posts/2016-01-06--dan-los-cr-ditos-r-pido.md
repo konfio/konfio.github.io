@@ -14,7 +14,7 @@ La pregunta de personas que necesitan el dinero para ayer; para cubrir una urgen
 
 El producto ideal para este tipo de necesidades es un préstamo personal, que en términos generales cuenta con las siguientes características:
 
-	**1. Montos pequeños (no más de $10,000)**
+	1. Montos pequeños (no más de $10,000)
 
 **2. Plazos cortos (1 mes)**
 
