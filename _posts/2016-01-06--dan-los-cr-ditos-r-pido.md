@@ -14,29 +14,29 @@ La pregunta de personas que necesitan el dinero para ayer; para cubrir una urgen
 
 El producto ideal para este tipo de necesidades es un **préstamo personal**, que en términos generales cuenta con las siguientes características:
 
-1. Montos pequeños (no más de $10,000)
+**1.** Montos pequeños (no más de $10,000)
 
-2. Plazos cortos (1 mes)
+**2.** Plazos cortos (1 mes)
 
-3. Tasas altas (manejan CAT’s de 3000% en adelante)
+**3.** Tasas altas (manejan CAT’s de 3000% en adelante)
 
-4. Pocos requisitos (por eso cobran intereses altos)
+**4.** Pocos requisitos (por eso cobran intereses altos)
 
-5. Resolución inmedaita (la urgencia justifica el precio
+**5.** Resolución inmedaita (la urgencia justifica el precio
 
 Ahora bien, en Konfío NO manejamos este tipo de créditos. Nuestro producto crediticio va enfocado completamente a invertir para **aumentar la utilidad de los negocios.** Para lograr esto, es necesario ofrecer tasas de interés bajas. Con un crédito caro será muy difícil lograr la utilidad deseada…
 
 ##Características de los créditos de Konfío para negocios:
 
-1. Montos mayores ($50,000 pesos o más)
+**1.** Montos mayores ($50,000 pesos o más)
 
-2. Plazos más largos (12 meses)
+**2.** Plazos más largos (12 meses)
 
-3. Tasas bajas (CAT promedio de 80%)
+**3.** Tasas bajas (CAT promedio de 80%)
 
-4. Requisitos básicos y sencillos
+**4.** Requisitos básicos y sencillos
 
-5. Resolución en 1 semana
+**5.** Resolución en 1 semana
 
 ![05_01_16.jpg]({{site.baseurl}}/img/05_01_16.jpg)
 
