@@ -42,7 +42,7 @@ Características de los créditos de Konfío para negocios:
 
 Como vez, se trata de dos productos **completamente diferentes** para dos tipos de clientes casi opuestos.
 
-En este mundo vertiginoso todo lo queremos rápido y bien hecho. Por eso trabajamos todos los días para que nuestro análisis de crédito sea cada vez más rápido y manteniendo los precios bajos aumentemos la velocidad de los créditos para negocios. Suena breve y sencillo, pero es uno de los avances más complejos e importantes que está recibiendo la economía de México a través de Konfío. 
+En este mundo vertiginoso todo lo queremos rápido y bien hecho. Por eso trabajamos todos los días para que nuestro análisis de crédito sea cada vez más rápido y, manteniendo los precios bajos, aumentemos la velocidad de los créditos para negocios. Suena breve y sencillo, pero es uno de los avances más complejos e importantes que está recibiendo la economía de México a través de Konfío. 
 
 Gracias por ser parte de la familia Konfío. Tu negocio se merece lo mejor y seguiremos trabajando cada vez más duro para satisfacer todas sus necesidades crediticias.
 
