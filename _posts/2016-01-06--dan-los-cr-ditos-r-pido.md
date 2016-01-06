@@ -12,7 +12,7 @@ title: "¿Dan los créditos rápido?"
 
 La pregunta de personas que necesitan el dinero para ayer; para cubrir una urgencia médica, pagar la renta y evitar el desalojo, dar un buen regalo de cumpleaños, pagarle a un proveedor… Razones muy nobles y válidas que generalmente no tienen tiempo para un proceso ni siquiera de una semana. El préstamo lo deben recibir de inmediato.
 
-El producto ideal para este tipo de necesidades es un préstamo personal, que en términos generales cuenta con las siguientes características:
+El producto ideal para este tipo de necesidades es un **préstamo personal**, que en términos generales cuenta con las siguientes características:
 
 1. Montos pequeños (no más de $10,000)
 
