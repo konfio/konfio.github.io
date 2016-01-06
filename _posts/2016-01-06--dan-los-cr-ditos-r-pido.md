@@ -27,10 +27,15 @@ El producto ideal para este tipo de necesidades es un préstamo personal, que en
 Ahora bien, en Konfío NO manejamos este tipo de créditos. Nuestro producto crediticio va enfocado completamente a invertir para **aumentar la utilidad de los negocios.** Para lograr esto, es necesario ofrecer tasas de interés bajas. Con un crédito caro será muy difícil lograr la utilidad deseada…
 
 Características de los créditos de Konfío para negocios:
+
 **1.** Montos mayores ($50,000 pesos o más)
+
 **2.** Plazos más largos (12 meses)
+
 **3.** Tasas bajas (CAT promedio de 80%)
+
 **4.** Requisitos básicos y sencillos
+
 **5.** Resolución en 1 semana
 
 ![05_01_16.jpg]({{site.baseurl}}/img/05_01_16.jpg)
