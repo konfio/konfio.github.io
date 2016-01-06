@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2016-01-06 11:19 -0600"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: "¿Dan los créditos rápido?"
 ---
+
 
 La pregunta de personas que necesitan el dinero para ayer; para cubrir una urgencia médica, pagar la renta y evitar el desalojo, dar un buen regalo de cumpleaños, pagarle a un proveedor… Razones muy nobles y válidas que generalmente no tienen tiempo para un proceso ni siquiera de una semana. El préstamo lo deben recibir de inmediato.
 
@@ -34,4 +36,3 @@ En este mundo vertiginoso todo lo queremos rápido y bien hecho. Por eso trabaja
 Gracias por ser parte de la familia Konfío. Tu negocio se merece lo mejor y seguiremos trabajando cada vez más duro para satisfacer todas sus necesidades crediticias.
 
 Por Fernando Barragán / Content Creator en Konfío
-
