@@ -40,7 +40,7 @@ Características de los créditos de Konfío para negocios:
 
 ![05_01_16.jpg]({{site.baseurl}}/img/05_01_16.jpg)
 
-Como vez, se trata de dos productos ## completamente diferentes para dos tipos de clientes casi opuestos.
+Como vez, se trata de dos productos ##completamente diferentes para dos tipos de clientes casi opuestos.
 
 En este mundo vertiginoso todo lo queremos rápido y bien hecho. Por eso trabajamos todos los días para que nuestro análisis de crédito sea cada vez más rápido y manteniendo los precios bajos aumentemos la velocidad de los créditos para negocios. Suena breve y sencillo, pero es uno de los avances más complejos e importantes que está recibiendo la economía de México a través de Konfío. 
 
