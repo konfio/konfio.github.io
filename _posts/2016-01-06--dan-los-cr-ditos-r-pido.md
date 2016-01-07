@@ -15,7 +15,7 @@ La pregunta de personas que necesitan el dinero para ayer; para cubrir una urgen
 
 El producto ideal para este tipo de necesidades es un **préstamo personal**, que en términos generales cuenta con las siguientes características:
 
-**1.** Montos pequeños (no más de $10,000)
+**1.** Montos pequeños (no más de $10,000 pesos)
 
 **2.** Plazos cortos (1 mes)
 
@@ -41,7 +41,7 @@ Ahora bien, en Konfío NO manejamos este tipo de créditos. Nuestro producto cre
 
 ![05_01_16.jpg]({{site.baseurl}}/img/05_01_16.jpg)
 
-Como vez, se trata de dos productos **completamente diferentes** para dos tipos de clientes casi opuestos.
+Como ves, se trata de dos productos **completamente diferentes** para dos tipos de clientes casi opuestos.
 
 En este mundo vertiginoso todo lo queremos rápido y bien hecho. Por eso trabajamos todos los días para que nuestro análisis de crédito sea cada vez más rápido y, manteniendo los precios bajos, aumentemos la velocidad de los créditos para negocios. Suena breve y sencillo, pero es uno de los avances más complejos e importantes que está recibiendo la economía de México a través de Konfío. 
 
