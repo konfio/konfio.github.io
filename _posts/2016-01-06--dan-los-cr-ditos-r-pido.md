@@ -10,6 +10,7 @@ title: "¿Dan los créditos rápido?"
 
 
 
+
 La pregunta de personas que necesitan el dinero para ayer; para cubrir una urgencia médica, pagar la renta y evitar el desalojo, dar un buen regalo de cumpleaños, pagarle a un proveedor… Razones muy nobles y válidas que generalmente no tienen tiempo para un proceso ni siquiera de una semana. El préstamo lo deben recibir de inmediato.
 
 El producto ideal para este tipo de necesidades es un **préstamo personal**, que en términos generales cuenta con las siguientes características:
@@ -18,11 +19,11 @@ El producto ideal para este tipo de necesidades es un **préstamo personal**, qu
 
 **2.** Plazos cortos (1 mes)
 
-**3.** Tasas altas (manejan CAT’s de 3000% en adelante)
+**3.** Tasas altas (manejan CAT’s de 3,000% en adelante)
 
 **4.** Pocos requisitos (por eso cobran intereses altos)
 
-**5.** Resolución inmedaita (la urgencia justifica el precio
+**5.** Resolución inmedaita (la urgencia justifica el precio)
 
 Ahora bien, en Konfío NO manejamos este tipo de créditos. Nuestro producto crediticio va enfocado completamente a invertir para **aumentar la utilidad de los negocios.** Para lograr esto, es necesario ofrecer tasas de interés bajas. Con un crédito caro será muy difícil lograr la utilidad deseada…
 
