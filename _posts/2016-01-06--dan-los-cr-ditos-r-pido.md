@@ -23,7 +23,7 @@ El producto ideal para este tipo de necesidades es un **préstamo personal**, qu
 
 **4.** Pocos requisitos (por eso cobran intereses altos)
 
-**5.** Resolución inmedaita (la urgencia justifica el precio)
+**5.** Resolución inmediata (la urgencia justifica el precio)
 
 Ahora bien, en Konfío NO manejamos este tipo de créditos. Nuestro producto crediticio va enfocado completamente a invertir para **aumentar la utilidad de los negocios.** Para lograr esto, es necesario ofrecer tasas de interés bajas. Con un crédito caro será muy difícil lograr la utilidad deseada…
 
