@@ -13,6 +13,7 @@ Revisemos por qué la velocidad está vinculada directamente al alto precio de l
 
 ![pasos_cuadrado.png]({{site.baseurl}}/img/pasos_cuadrado.png)
 
+
 ##¿Por qué un crédito rápido es caro?
 
 **1.	Urgencia.** Porque cuando algo nos urge compramos sin reflexionar.
