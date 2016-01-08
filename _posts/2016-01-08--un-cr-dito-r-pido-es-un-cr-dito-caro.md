@@ -9,7 +9,7 @@ title: "¿Un crédito rápido es un crédito caro?"
 ---
 
 
-Revisemos por qué la velocidad está vinculada directamente al alto precio de los créditos y qué es lo que Konfío está haciendo al respecto
+Revisemos por qué la velocidad está vinculada directamente al alto precio de los créditos y qué es lo que Konfío está haciendo al respecto.
 
 ![pasos_cuadrado.png]({{site.baseurl}}/img/pasos_cuadrado.png)
 
