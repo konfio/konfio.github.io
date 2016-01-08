@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2016-01-08 14:54 -0600"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: "¿Un crédito rápido es un crédito caro?"
 ---
+
 
 Revisemos por qué la velocidad está vinculada directamente al alto precio de los créditos y qué es lo que Konfío está haciendo al respecto.
 
