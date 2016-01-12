@@ -9,6 +9,7 @@ title: "¿Un crédito rápido es un crédito caro?"
 ---
 
 
+
 Revisemos por qué la velocidad está vinculada directamente al alto precio de los créditos y qué es lo que Konfío está haciendo al respecto.
 
 ![pasos_cuadrado.png]({{site.baseurl}}/img/pasos_cuadrado.png)
@@ -29,7 +30,7 @@ Revisemos por qué la velocidad está vinculada directamente al alto precio de l
 
 **1.	Urgencia.** En Konfío entendemos que los negocios entran en estado de urgencia cuando reciben un cliente que supera la capacidad de reacción o cuando requieren invertir para hacer crecer su negocio.
 
-**2.	No comparar.** Es muy importante que antes de solicitar un crédito en Konfío contemples más opciones. Esta es la única manera de tomar la mejor decisión. Estamos seguros de ser una de las mejores opciones en el mundo de las microfinanzas, pero si encuentras algo mejor, no dudes en tomarlo. Todo deber apuntar al crecimiento de tu negocio.
+**2.	No comparar.** Es muy importante que antes de solicitar un crédito en Konfío contemples más opciones. Esta es la única manera de tomar la mejor decisión. Estamos seguros de ser una de las mejores opciones en el mundo de las microfinanzas, pero si encuentras algo mejor, no dudes en tomarlo. Todo debe apuntar al crecimiento de tu negocio.
 
 **3.	Poco tiempo.** Sabemos que solicitar un crédito en un banco u otra institución puede llegar a ser pesado y largo. Por eso hemos creado una solicitud en línea que te permite solicitar el crédito desde tu oficina o negocio, sin necesidad de acudir a ningún lugar.
 
