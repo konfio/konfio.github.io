@@ -23,7 +23,8 @@ Su empresa, DIDCO ([www.didco.mx](http://www.didco.mx/)), es ahora una referenci
 Siendo nombrada por tercer año consecutivo como “caso de éxito” y con la motivación de realizar un contrato con una constructora que le brinda la oportunidad de “vestir” un estacionamiento, Lilia solicitó un crédito a [Konfío](https://konfio.mx/inicio/registrate) para poder financiar el material y de esa manera llevar a cabo la alianza y hacer crecer aún más su empresa.
 
 Solicita los servicios de Lilia:
-lilia@didco.mx
-Tels. (55) 5604 8724 y (55) 5605 7529
+
+- lilia@didco.mx
+- Tels. (55) 5604 8724 y (55) 5605 7529
 
 Por Tamara Gama / Testimonios Konfío
