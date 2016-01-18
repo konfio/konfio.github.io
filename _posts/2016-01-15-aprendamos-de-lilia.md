@@ -9,6 +9,7 @@ title: Aprendamos de Lilia
 ---
 
 
+
 Lilia es una mujer trabajadora e independiente de 50 años de edad. Está casada y vive en la Ciudad de México. Estudió la licenciatura en diseño gráfico, se dedica de lleno a su empresa, la cual tiene desde 1998 y que brinda específicamente diseño de señalizaciones.
 
 ![15_01_15_tes.jpg]({{site.baseurl}}/img/15_01_15_tes.jpg)
