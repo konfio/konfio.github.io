@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2016-01-15 12:05 -0600"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
 published: false
 title: Aprendamos de Lilia
 ---
+
 
 Lilia es una mujer trabajadora e independiente de 50 años de edad. Está casada y vive en la Ciudad de México. Estudió la licenciatura en diseño gráfico, se dedica de lleno a su empresa, la cual tiene desde 1998 y que brinda específicamente diseño de señalizaciones.
 
@@ -19,5 +21,8 @@ Su empresa, DIDCO ([www.didco.mx](http://www.didco.mx/)), es ahora una referenci
 
 Siendo nombrada por tercer año consecutivo como “caso de éxito” y con la motivación de realizar un contrato con una constructora que le brinda la oportunidad de “vestir” un estacionamiento, Lilia solicitó un crédito a [Konfío](https://konfio.mx/inicio/registrate) para poder financiar el material y de esa manera llevar a cabo la alianza y hacer crecer aún más su empresa.
 
-Por Tamara Gama / Testimonios Konfío
+Solicita los servicios de Lilia:
+lilia@didco.mx
+Tels. (55) 5604 8724 y (55) 5605 7529
 
+Por Tamara Gama / Testimonios Konfío
