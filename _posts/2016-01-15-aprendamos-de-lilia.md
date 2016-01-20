@@ -10,6 +10,7 @@ title: Aprendamos de Lilia
 
 
 
+
 Lilia es una mujer trabajadora e independiente de 50 años de edad. Está casada y vive en la Ciudad de México. Estudió la licenciatura en diseño gráfico, se dedica de lleno a su empresa, la cual tiene desde 1998 y que brinda específicamente diseño de señalizaciones.
 
 ![15_01_15_tes.jpg]({{site.baseurl}}/img/15_01_15_tes.jpg)
@@ -24,7 +25,7 @@ Siendo nombrada por tercer año consecutivo como “caso de éxito” y con la m
 
 Solicita los servicios de Lilia:
 
-- lilia@didco.mx
+- lili@didco.mx
 - Tels. (55) 5604 8724 y (55) 5605 7529
 
 Por Tamara Gama / Testimonios Konfío
