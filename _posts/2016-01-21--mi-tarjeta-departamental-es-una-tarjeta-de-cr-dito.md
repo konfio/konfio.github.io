@@ -11,9 +11,9 @@ title: "¿Mi tarjeta departamental es una tarjeta de crédito?"
 
 ¡Oh sorpresa! Según yo, no contaba con ninguna tarjeta de crédito… pero tengo tarjetas en casi todas las tiendas que me financian algunas compras a meses sin o con intereses. También me ofrecen descuentos o promociones. 
 
-![21_01_16.jpg]({{site.baseurl}}/img/21_01_16.jpg)
-
 Algunas veces son tarjetas que casi nos regalan al momento de hacer una compra en El Palacio de Hierro, Liverpool, Coppel, Suburbia, etc. Cuando nos despertamos esa mañana no teníamos ni la más mínima idea de que íbamos a regresar a la cama con una tarjeta de crédito en la bolsa. Prueba de ello es que de acuerdo a la Encuesta Nacional de Inclusión Financiera 2012 **siete de cada diez mexicanos** utilizan el crédito departamental.
+
+![21_01_16.jpg]({{site.baseurl}}/img/21_01_16.jpg)
 
 ## Riesgos de las tarjetas departamentales
 
