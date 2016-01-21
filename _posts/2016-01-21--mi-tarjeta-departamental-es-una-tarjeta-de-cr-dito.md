@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2016-01-21 15:47 -0600"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: "¿Mi tarjeta departamental es una tarjeta de crédito?"
 ---
+
 
 ¡Oh sorpresa! Según yo, no contaba con ninguna tarjeta de crédito… pero tengo tarjetas en casi todas las tiendas que me financian algunas compras a meses sin o con intereses. También me ofrecen descuentos o promociones. 
 
@@ -34,4 +36,3 @@ Algunas veces son tarjetas que casi nos regalan al momento de hacer una compra e
 Si ya tienes una de estas tarjetas y estás pagando intereses, habla con la tienda y pide que te expliquen perfectamente qué debes hacer y cuándo debes cubrir los pagos para no pagar ni un centavo de interés. Si no es posible no pagar intereses, cancela tu tarjeta cuanto antes.
 
 Por Fernando Barragán / Content Creator de Konfío
-
