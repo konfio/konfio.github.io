@@ -34,7 +34,7 @@ Pide a tus proveedores la opción de obtener tarifas más bajas. Existe una gran
 
 Si por mucho tiempo has permanecido en la misma institución bancaria y estás recibiendo un mal servicio, pagas tarifas muy altas o tus intereses no te hacen ganar, no tengas miedo de buscar otra opción y cámbiate. Investiga las instituciones del mercado y elige la que mejores beneficios te ofrezca. Si por el contrario estás en una compañía que te aporta cosas positivas, mantente en ella.
 
-**5.	Explora tus inversiones **
+**5.	Explora tus inversiones**
 
 Realiza un análisis de tus inversiones y descubre si estas van de acuerdo a tus planes y te aportan beneficios que te favorecen. Si no has invertido en nada, es una buena opción de optimizar tu dinero, solo debes buscar la mejor forma de hacerlo.
 
