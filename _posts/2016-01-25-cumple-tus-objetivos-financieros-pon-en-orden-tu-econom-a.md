@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2016-01-25 11:42 -0600"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: Cumple tus objetivos financieros… Pon en orden tu economía
 ---
+
 
 
 Alcanzar metas personales y profesionales causa un efecto positivo en nuestras vidas y nos llena de satisfacción. Dentro de estas metas, no podemos dejar atrás nuestros objetivos financieros. Cumplirlos, no solo nos dará ese sentimiento de gozo, sino que también nos ayudará a favorecer nuestra economía.
@@ -49,8 +51,3 @@ Si alquilas una casa, oficina o local, asegúrate de entender en su totalidad la
 Si la frase “tengo mucho mes para mi quincena” te queda a la perfección, es momento que implementes cambios en los gastos que realizas y ahorres. Es recomendable que aproximadamente el 20% de tus ingresos mensuales los ahorres y evites los gastos hormiga, es decir, aquellos gastos aparentemente insignificantes pero que sumados representas cantidades grandes.
 
 Por Tamara Gama / Partnership Executive
-
-
-
- 
-
