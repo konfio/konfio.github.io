@@ -9,6 +9,7 @@ title: Diferencias entre Konfío y cualquier banco
 ---
 
 
+
 Los bancos son grandes instituciones que en México han alejado mucho a sus mismos cuentahabientes de los servicios financieros como los préstamos. He aquí algunas diferencias que hacen que Konfío te acerque **los servicios financieros a la puerta de tu casa.**
 
 ![28_01_16.jpg]({{site.baseurl}}/img/28_01_16.jpg)
@@ -17,12 +18,12 @@ Los bancos son grandes instituciones que en México han alejado mucho a sus mism
 
 En un banco normalmente te exigirán un tamaño determinado, una facturación específica, el acta constitutiva debidamente firmada ante un notario, etc. Documentos que un negocio que apenas está arrancando o lleva poca trayectoria no posee. 
 
-En Konfío nos enfocamos precisamente en apoyar a esos negocios pequeños que se encuentran en su etapa de despegue y tienes ganas de crecer.
+En Konfío nos enfocamos precisamente en apoyar a esos negocios pequeños que se encuentran en su etapa de despegue y tienen ganas de crecer.
 
 **2. Trámite en línea**
 
 En los bancos quizá puedes mandar un correo y recibir la información para empezar el trámite de tu crédito, pero aún no existe un proceso que te permita solicitar un recibir un crédito por internet.
-Konfío se especializa en la tecnología, logrando de esta manera ofrecer una experiencia fácil uy placentera para los usuarios que no tienen tiempo de ir a hacer filas a algún lugar.
+Konfío se especializa en la tecnología, logrando de esta manera ofrecer una experiencia fácil y placentera para los usuarios que no tienen tiempo de ir a hacer filas a algún lugar.
 
 **3. Tasas competitivas**
 
