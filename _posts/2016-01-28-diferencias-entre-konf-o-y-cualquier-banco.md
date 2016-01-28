@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2016-01-28 10:37 -0600"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: Diferencias entre Konfío y cualquier banco
 ---
+
 
 Los bancos son grandes instituciones que en México han alejado mucho a sus mismos cuentahabientes de los servicios financieros como los préstamos. He aquí algunas diferencias que hacen que Konfío te acerque **los servicios financieros a la puerta de tu casa.**
 
@@ -43,5 +45,3 @@ Los bancarios y los rápidos se encuentran en los extremos y lo único que tiene
 Konfío, por otro lado, se encuentra en el intermedio entre estos dos opuestos. Las tasas de interés compiten con los bancarios; los requisitos y la facilidad se perfilan hacia los préstamos rápidos. En pocas palabras, los créditos para negocios de Konfío los encuentras a un precio adecuado, con un trámite sencillo, pocos requisitos y un tiempo de espera razonable.
 
 Por Fernando Barragán / Content Creator de Konfío
- 
-
