@@ -22,7 +22,7 @@ En Konfío nos enfocamos precisamente en apoyar a esos negocios pequeños que se
 
 **2. Trámite en línea**
 
-En los bancos quizá puedes mandar un correo y recibir la información para empezar el trámite de tu crédito, pero aún no existe un proceso que te permita solicitar un recibir un crédito por internet.
+En los bancos quizá puedes mandar un correo y recibir la información para empezar el trámite de tu crédito, pero aún no existe un proceso que te permita solicitar y recibir un crédito por internet.
 Konfío se especializa en la tecnología, logrando de esta manera ofrecer una experiencia fácil y placentera para los usuarios que no tienen tiempo de ir a hacer filas a algún lugar.
 
 **3. Tasas competitivas**
