@@ -35,7 +35,7 @@ En Konfío encontramos un balance entre el buen precio y los pocos requisitos. A
 
 ¿Te ha tocado llamar a un banco e intentar hablar con una persona, pero te tienen en la línea tecleando números en vano y saltando de conmutador en conmutador? El tamaño de los bancos hace que las personas se alejen mucho entre sí.
 
-En Konfío también contamos con un conmutador que nos ayuda a organizar y canalizar las necesidades de nuestros clientes, pero si esperar en la línea no más de 30 segundos o si nos mandas un correo a info@konfio.mx o publicas algo en nuestras redes sociales, te contestaremos en menos de 24 horas. Crezcamos lo que crezcamos nunca perderemos nuestro trato personal.
+En Konfío también contamos con un conmutador que nos ayuda a organizar y canalizar las necesidades de nuestros clientes, pero si esperas en la línea no más de 30 segundos o si nos mandas un correo a info@konfio.mx o publicas algo en nuestras redes sociales, te contestaremos en menos de 24 horas. Crezcamos lo que crezcamos nunca perderemos nuestro trato personal.
 
 **5. Resolución rápida**
 
@@ -43,6 +43,6 @@ En México, hablando en términos generales existen 3 tipos de créditos: los ba
 
 Los bancarios y los rápidos se encuentran en los extremos y lo único que tienen en común es que prestan dinero… El proceso, los riesgos, los precios, los requisitos son muy diferentes. Es decir, la gente que tiene acceso a un crédito bancario es poco inteligente que recurra también a un préstamo rápido. No tiene sentido comprar lo mismo, pero por un precio mucho mayor.
 
-Konfío, por otro lado, se encuentra en el intermedio entre estos dos opuestos. Las tasas de interés compiten con los bancarios; los requisitos y la facilidad se perfilan hacia los préstamos rápidos. En pocas palabras, los créditos para negocios de Konfío los encuentras a un precio adecuado, con un trámite sencillo, pocos requisitos y un tiempo de espera razonable.
+Konfío, por otro lado, se encuentra en el intermedio entre estos dos opuestos. Las tasas de interés compiten con los bancarios; los requisitos y la facilidad se perfilan hacia los préstamos rápidos. En pocas palabras, los créditos para negocios de Konfío los encuentras a un precio adecuado, con un trámite sencillo, pocos requisitos y en un tiempo de espera razonable.
 
 Por Fernando Barragán / Content Creator de Konfío
