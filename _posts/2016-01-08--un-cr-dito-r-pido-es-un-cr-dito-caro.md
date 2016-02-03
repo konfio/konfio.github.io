@@ -10,11 +10,12 @@ title: "¿Un crédito rápido es un crédito caro?"
 
 
 
+
 Revisemos por qué la velocidad está vinculada directamente al alto precio de los créditos y qué es lo que Konfío está haciendo al respecto.
 
 ![pasos_cuadrado.png]({{site.baseurl}}/img/pasos_cuadrado.png)
 
-##¿Por qué un crédito rápido es caro?
+## ¿Por qué un crédito rápido es caro?
 
 **1.	Urgencia.** Porque cuando algo nos urge compramos sin reflexionar.
 
@@ -26,7 +27,7 @@ Revisemos por qué la velocidad está vinculada directamente al alto precio de l
 
 **5.	Automatización.** Porque en México aún no existe un sistema que permita hacer un análisis crediticio automatizado que ahorre mucho tiempo.
 
-##¿Qué está haciendo Konfío al respecto?
+## ¿Qué está haciendo Konfío al respecto?
 
 **1.	Urgencia.** En Konfío entendemos que los negocios entran en estado de urgencia cuando reciben un cliente que supera la capacidad de reacción o cuando requieren invertir para hacer crecer su negocio.
 
