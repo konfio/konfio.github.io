@@ -11,10 +11,10 @@ title: Préstamos para Negocio
 
 
 
+
 Konfío nació debido a la gran necesidad de financiamiento que tienen los pequeños negocios. Nuestra meta es romper esa brecha financiera y hacer llegar el beneficio de los créditos en línea a todos los negocios en México a través de la tecnología.
 
-##Ayudándote a hacer crecer tu negocio
-
+## Ayudándote a hacer crecer tu negocio
 Todos los meses ayudamos a cientos de negocios que buscan financiamiento. El proceso es 100% seguro, eficiente y muy sencillo para cualquier dueño de un negocio que no pueda ausentarse o cerrar para hacer los trámites largos y complejos de un banco o financiera convencional. En Konfío nos adaptamos a lo que necesitas y te ahorramos tiempo y esfuerzo. Los préstamos para negocio en línea son la mejor opción para pequeños negocios que necesitan financiamiento rápido y barato.  
 
 ![29_09_2015.jpg]({{site.baseurl}}/img/29_09_2015.jpg)
