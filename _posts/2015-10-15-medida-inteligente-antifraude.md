@@ -9,12 +9,12 @@ title: Medida inteligente antifraude
 ---
 
 
+
 Si en algún lugar te piden que deposites efectivo para poderte dar tu crédito, OJO, no es una buena señal. 
 
 Es verdad que los costos operativos normalmente los pagamos los clientes. No hay duda de que existen comisiones o cargos por los servicios que solicitamos. Hasta ahí todo bien. Pero otra cosa es que le deposites dinero a una institucion que todavía no te ofrece ningún servicio financiero. 
 
-##Nunca pagues nada antes de recibir un crédito
-
+## Nunca pagues nada antes de recibir un crédito
 ![15_10_15.jpg]({{site.baseurl}}/img/15_10_15.jpg)
 
 Cuidado, puede ser un caso de fraude. La forma como funcionamos en Konfío es que esas comisiones operativas las descontamos del monto que te depositamos, así te ahorramos la tarea de tener que ir a pagar a algún lado y definitivamente NO te pedimos nada por adelantado. 
