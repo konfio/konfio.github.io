@@ -25,6 +25,4 @@ La comisión por apertura de los créditos Konfío es del 5% del monto que solic
 
 Si quieres solicitar un crédito da clic [aquí](https://konfio.mx/inicio/ingresa) 
 
-Por Fernando Barragán
-
-Content Creator de Konfío
+Por Fernando Barragán / Content Creator de Konfío
