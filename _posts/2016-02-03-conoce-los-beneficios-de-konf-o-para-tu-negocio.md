@@ -5,7 +5,7 @@ tags:
   - "null"
 customExcerpt: false
 published: true
-title: El precio Conoce los beneficios de Konfío para tu negocio
+title: El precio. Conoce los beneficios de Konfío para tu negocio.
 ---
 
 
