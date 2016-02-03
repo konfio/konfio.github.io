@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2016-02-03 12:22 -0600"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: Conoce los beneficios de Konfío para tu negocio
 ---
+
 
 Es importante destacar lo siguiente: somos una empresa de créditos para negocios. Si necesitas el dinero para ayer, si quieres liquidar una deuda, pagar una cirugía o cubrir la colegiatura de tus hijos, estás buscando un producto diferente al nuestro. No significa que no puedas solicitar y recibir un crédito en Konfío. Lo único que queremos asegurarte es el producto exacto que necesitas.
 
@@ -28,4 +30,3 @@ En Konfío manejamos un CAT promedio de 80%. Es importante hacer énfasis en que
 Si tienes un negocio informal (que no emite facturas) la tasa de interés será mayor al inicio y poco a poco irá bajando. Si facturas en el SAT podrás acceder a mejores tasas y montos más grandes. [Aquí](https://konfio.mx/simulador) puedes revisar nuestro simulador de pagos que te lo muestra de una manera más gráfica. 
 
 Por Fernando Barragán / Content Creator de Konfío
-
