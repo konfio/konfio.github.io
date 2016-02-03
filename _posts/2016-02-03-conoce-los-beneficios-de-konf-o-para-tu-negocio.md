@@ -5,23 +5,23 @@ tags:
   - "null"
 customExcerpt: false
 published: true
-title: Conoce los beneficios de Konfío para tu negocio
+title: El precio Conoce los beneficios de Konfío para tu negocio
 ---
 
 
 Es importante destacar lo siguiente: somos una empresa de créditos para negocios. Si necesitas el dinero para ayer, si quieres liquidar una deuda, pagar una cirugía o cubrir la colegiatura de tus hijos, estás buscando un producto diferente al nuestro. No significa que no puedas solicitar y recibir un crédito en Konfío. Lo único que queremos asegurarte es el producto exacto que necesitas.
 
-Nuestra prioridad se fundamenta en los negocios pequeños y medianos que buscan invertir para aumentar su productividad
+Nuestra prioridad se fundamenta en los negocios pequeños y medianos que buscan invertir para aumentar su productividad.
 
 ![03_02_16.jpg]({{site.baseurl}}/img/03_02_16.jpg)
 
 Internet está lleno de créditos rápidos, créditos urgentes; los conocidos como créditos personales. Así que no te dejes confundir. Es muy sencillo: si una empresa te ofrece un proceso (la primera vez que te prestan) demasiado rápido, con pocos requisitos y sin revisar tu historial crediticio en Buró o Círculo de Crédito, puedes estar seguro de que eso se reflejará en la alta tasa de interés que pagarás. Si el proceso tarda un poco más (la primera vez), te piden requisitos más específicos y le echan un ojo a tu historial, la tasa de interés será menor. Es correlativo, una fórmula muy sencilla.
 
-## Ventaja principal de los créditos personales
+## Beneficio principal de los créditos personales
 
 Son rápidos.
 
-## Ventaja principal de los créditos para negocios (Konfío)
+## Beneficio principal de los créditos para negocios (Konfío)
 
 Son baratos.
 
