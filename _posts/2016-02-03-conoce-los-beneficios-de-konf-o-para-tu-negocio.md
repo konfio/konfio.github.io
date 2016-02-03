@@ -9,7 +9,7 @@ title: El precio. Conoce los beneficios de Konfío para tu negocio.
 ---
 
 
-Es importante destacar lo siguiente: somos una empresa de créditos para negocios. Si necesitas el dinero para ayer, si quieres liquidar una deuda, pagar una cirugía o cubrir la colegiatura de tus hijos, estás buscando un producto diferente al nuestro. No significa que no puedas solicitar y recibir un crédito en Konfío. Lo único que queremos asegurarte es el producto exacto que necesitas.
+Es importante destacar lo siguiente: somos una empresa de **créditos para negocios.** Si necesitas el dinero para ayer, si quieres liquidar una deuda, pagar una cirugía o cubrir la colegiatura de tus hijos, estás buscando un producto diferente al nuestro. No significa que no puedas solicitar y recibir un crédito en Konfío. Lo único que queremos es asegurarnos de que te estamos ofreciendo el producto exacto que necesitas.
 
 Nuestra prioridad se fundamenta en los negocios pequeños y medianos que buscan invertir para aumentar su productividad.
 
