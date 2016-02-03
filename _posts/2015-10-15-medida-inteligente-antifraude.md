@@ -17,7 +17,7 @@ Es verdad que los costos operativos normalmente los pagamos los clientes. No hay
 ## Nunca pagues nada antes de recibir un crédito
 ![15_10_15.jpg]({{site.baseurl}}/img/15_10_15.jpg)
 
-No siempre, pero ten cuidado, puede tratarse de un caso de fraude. La forma como funcionamos en Konfío es que esas comisiones operativas las descontamos del monto que te depositamos, así te ahorramos la tarea de tener que ir a pagar a algún lado y definitivamente NO te pedimos nada por adelantado. 
+No siempre, pero ten cuidado, puede tratarse de un caso de fraude de los famosos "créditos milagro". La forma como funcionamos en Konfío es que esas comisiones operativas las descontamos del monto que te depositamos, así te ahorramos la tarea de tener que ir a pagar a algún lado y definitivamente NO te pedimos nada por adelantado. 
 
 ¿Por qué tendrías que pagar antes de contar con el crédito? No hay justificación. Así que no lo hagas nunca.
 
