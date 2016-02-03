@@ -17,7 +17,7 @@ Ya hay que superar los mitos de que tener un plan de negocios es solo para empre
 
 ![12_11_15.jpg]({{site.baseurl}}/img/12_11_15.jpg)
 	
-##¿En qué consiste un plan de negocios?
+## ¿En qué consiste un plan de negocios?
 
 Osterwalder y Pigneur señalan que son nueve los componentes que describen un modelo de negocios: 
 

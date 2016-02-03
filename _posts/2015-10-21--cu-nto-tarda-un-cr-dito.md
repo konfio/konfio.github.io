@@ -17,7 +17,7 @@ Konfío no es ninguno de los anteriores. Podemos considerarnos en un término me
 
 El tiempo que las instituciones financieras se tardan en aprobar un crédito se debe a las medidas de seguridad que cada financiera toma. 
 
-##4 aspectos que se consideran cuando solicitas un crédito:
+## 4 aspectos que se consideran cuando solicitas un crédito:
 
 **1. Historial crediticio**
 

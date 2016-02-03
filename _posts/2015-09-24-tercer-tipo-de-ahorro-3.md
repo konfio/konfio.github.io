@@ -11,7 +11,7 @@ title: "Tercer Tipo de Ahorro (3-3)"
 
 Si te retiraras hoy, ¿qué tendrías?
 
-##Ahorro para el retiro
+## Ahorro para el retiro
 
 Cualquier persona con disciplina y trabajo duro puede lograrlo en mayor o menor medida. Nunca es tarde para empezar a ahorrar y planear un futuro próspero. 
 
@@ -19,7 +19,7 @@ Cualquier persona con disciplina y trabajo duro puede lograrlo en mayor o menor 
 
 ![24_09_15.jpg]({{site.baseurl}}/img/24_09_15.jpg)
 
-###3 beneficios de ahorrar para el retiro:
+### 3 beneficios de ahorrar para el retiro:
 
 **1. Tranquilidad**
 
@@ -35,7 +35,7 @@ Si te retiras y aún te quedan fuerzas para seguir trabajando o atendiendo negoc
 
 Otro beneficio de ahorrar para el retiro es que posiblemente podrás dejarle algoi de herencia a tus seres queridos el día que faltes. No es lo importante, pero cualquier patrimonio que puedas ofrecer a tus hijos es una gran ayuda para que ellos sigan creciendo poco a poco.
 
-###Tres formas de ahorrar para el retiro
+### Tres formas de ahorrar para el retiro
 
 **1. Cuentas bancarias:**
 

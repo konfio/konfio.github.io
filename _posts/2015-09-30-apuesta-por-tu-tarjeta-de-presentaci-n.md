@@ -34,7 +34,7 @@ Conocer a una persona, hablarle de tu proyecto y despedirlo con las manos vacía
 
 - Usa las tarjetas de otros para aprenderte sus nombres: cuando las recibas tómate unos segundos para leerla.
 
-##"Soy demasiado joven y mi proyecto es muy pequeño"
+## "Soy demasiado joven y mi proyecto es muy pequeño"
 
 Justamente por eso te conviene más tener una buena tarjeta de presentación. Habla de tu proyecto, comparte tus ideas, ofrece tus servicios y entrega tus tarjetas (con tus datos de contacto). 
 
