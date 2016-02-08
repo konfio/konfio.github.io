@@ -32,13 +32,13 @@ El riesgo es muy alto y para poderte ofrecer tasas de interés competitivas, en 
 
 En primer lugar, prestarle a negocios con tan alto porcentaje de fracaso implica mucho riesgo para las instituciones financieras. Si se dieran créditos a esas ideas de negocios, no sería rentable y la institución financiera quebraría... Ni siquiera los bancos grandes se toman ese tipo de riesgos.
 
-No obstante, **en Konfío solo te pedimos 3 meses de actividad de tu negocio.** No los 2 años. ¿Cuál es la diferencia? A que los montos que manejamos permiten plazos menores que pueden cubrirse desde los 3 meses. Esta es la primera diferencia de los créditos de Konfío.
+No obstante, **en Konfío solo te pedimos 3 meses de actividad de tu negocio.** No los 2 años. ¿Cuál es la diferencia? A que los montos que manejamos permiten plazos menores que pueden cubrirse desde los 3 meses. 
 
 Por otro lado, no es recomendable que te comprometas con un crédito antes de que generes ingresos para tu negocio. Es decir, es probable que al inicio no tengas dinero para pagar las cuotas y eso te puede causar algunos inconvenientes con los retrasos. 
 
 ## ¿Qué debes hacer entonces?
 
-Para empezar tu negocio lo más recomendable es **conseguir inversionistas.** No sé cuánto necesites; depende mucho del tamaño del proyecto que traigas. Pero sí, sin duda alguna, lo más recomendable es encontrar a alguien que esté dispuesto a invertir en tu negocio y llegar a unos términos justos del contrato. Es algo muy diferente a pedir prestado. Aquí sí habrá un beneficio para el inversionista dentro de un tiempo determinado.
+Para empezar tu negocio lo más recomendable es **conseguir inversionistas.** No sé cuánto necesites; depende mucho del tamaño del proyecto que traigas. Pero sí, sin duda alguna, lo más recomendable es encontrar a alguien que esté dispuesto a invertir en tu negocio y llegar a unos términos justos del contrato. Es algo muy diferente a pedir prestado. Aquí sí habrá un beneficio para el inversionista dentro de un tiempo determinado. La clave es preparar el plan y saberlo presentar de forma convincente.
 
 Para que puedas solicitar un crédito para tu negocio en Konfío, debes tener mínimo 3 meses de actividad de tu negocio. 
 
