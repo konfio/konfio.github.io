@@ -24,7 +24,7 @@ Lo único que tienen es una idea “genial”, pero no han estructurado el plan 
 
 ![08_02_16.jpg]({{site.baseurl}}/img/08_02_16.jpg)
 
-De los dos, el primero es más rescatable que el segundo. Si tienes un plan y estás buscando financiamiento tienes varias opciones: ir con un familiar, buscar inversionistas, solicitar apoyos al gobiernos, etc. Los bancos y financieras difícilmente te prestarán dinero porque aún no es real el negocio. Se necesitan un poco más de pruebas para poder justificar la dispersión de cualquier cantidad de dinero. 
+De los dos, el primero es más rescatable que el segundo. Si tienes un plan y estás buscando financiamiento tienes varias opciones: ir con un familiar, buscar inversionistas, solicitar apoyos al gobierno, aplicar en un banco o instituciones financiera... Los bancos y financieras difícilmente te prestarán dinero porque aún no es real el negocio. Se necesitan un poco más de pruebas para poder justificar la dispersión de cualquier cantidad de dinero. 
 
 El riesgo es muy alto y para poderte ofrecer tasas de interés competitivas, en Konfío NO prestamos para empezar negocios. De lo contrario, deberíamos aumentar las tasas de interés de forma considerable. 
 
