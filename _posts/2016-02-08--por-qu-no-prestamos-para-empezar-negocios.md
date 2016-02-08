@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2016-02-08 16:45 -0600"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: "¿Por qué no prestamos para empezar negocios?"
 ---
+
 
 
 “Quiero un crédito para poner un negocio. Necesito levantar el negocio que tuve 3 años, pero que lleva inactivo 6 meses. Me gustaría tener capital para invertir en mi negocio y por fin despegar”.
@@ -41,7 +43,3 @@ Para empezar tu negocio lo más recomendable es **conseguir inversionistas.** No
 Para que puedas solicitar un crédito para tu negocio en Konfío, debes tener mínimo 3 meses de actividad de tu negocio. 
 
 Por Fernando Barragán / Content Creator de Konfío
-
-
-
-
