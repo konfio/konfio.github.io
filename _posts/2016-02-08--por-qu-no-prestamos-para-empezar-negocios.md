@@ -40,6 +40,6 @@ Por otro lado, no es recomendable que te comprometas con un crédito antes de qu
 
 Para empezar tu negocio lo más recomendable es **conseguir inversionistas.** No sé cuánto necesites; depende mucho del tamaño del proyecto que traigas. Pero sí, sin duda alguna, lo más recomendable es encontrar a alguien que esté dispuesto a invertir en tu negocio y llegar a unos términos justos del contrato. Es algo muy diferente a pedir prestado. Aquí sí habrá un beneficio para el inversionista dentro de un tiempo determinado. La clave es preparar el plan y saberlo presentar de forma convincente.
 
-Para que puedas solicitar un crédito para tu negocio en Konfío, debes tener mínimo 3 meses de actividad con tu negocio. 
+Para que puedas solicitar un crédito para tu negocio en Konfío, debes tener mínimo 3 meses de actividad comprobable con tu negocio: notas o facturas.
 
 Por Fernando Barragán / Content Creator de Konfío
