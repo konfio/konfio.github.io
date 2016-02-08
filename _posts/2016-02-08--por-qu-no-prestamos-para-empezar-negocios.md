@@ -28,11 +28,11 @@ De los dos, el primero es más rescatable que el segundo. Si tienes un plan y es
 
 El riesgo es muy alto y para poderte ofrecer tasas de interés competitivas, en Konfío NO prestamos para empezar negocios. De lo contrario, deberíamos aumentar las tasas de interés de forma considerable. 
 
-En México el 75% de las Pymes (pequeñas y medianas empresas) fracasan antes de los 2 años. Este número arrojado por [FuckUp Nights](http://fuckupnights.com/) nos da algunos puntos válidos. 
+**En México el 75% de las Pymes (pequeñas y medianas empresas) fracasan antes de los 2 años.** Este número arrojado por [FuckUp Nights](http://fuckupnights.com/) nos da algunos puntos válidos. 
 
 En primer lugar, prestarle a negocios con tan alto porcentaje de fracaso implica mucho riesgo para las instituciones financieras. Si se dieran créditos a esas ideas de negocios, no sería rentable y la institución financiera quebraría... Ni siquiera los bancos grandes se toman ese tipo de riesgos.
 
-No obstante, en Konfío solo te pedimos 3 meses de actividad de tu negocio. No los 2 años. ¿Cuál es la diferencia? A que los montos que manejamos permiten plazos menores que pueden cubrirse desde los 3 meses. Esta es la primera diferencia de los créditos de Konfío.
+No obstante, **en Konfío solo te pedimos 3 meses de actividad de tu negocio.** No los 2 años. ¿Cuál es la diferencia? A que los montos que manejamos permiten plazos menores que pueden cubrirse desde los 3 meses. Esta es la primera diferencia de los créditos de Konfío.
 
 Por otro lado, no es recomendable que te comprometas con un crédito antes de que generes ingresos para tu negocio. Es decir, es probable que al inicio no tengas dinero para pagar las cuotas y eso te puede causar algunos inconvenientes con los retrasos. 
 
