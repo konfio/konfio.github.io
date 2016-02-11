@@ -89,4 +89,4 @@ _Fuentes:_
 ([Importancia](http://www.importancia.org/buena-alimentacion.php))  
 ([Vida y Salud](http://www.vidaysalud.com/diario/ejercicio/10-beneficios-de-hacer-ejercicio/)) 
 
-Por Fernando Barragán / Content Creator en Konfío
+Por Fernando Barragán / Content Creator de Konfío
