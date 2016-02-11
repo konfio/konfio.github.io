@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2016-02-11 14:41 -0600"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: Mejora tu productividad HOY
 ---
+
 
 Los clásicos decían “mens sana in corpore sano”. Ten una mente sana en un cuerpo sano. Es un equilibrio entre nuestro mundo exterior e interior que nos permite lograr nuestros objetivos diarios: estudiar, trabajar, convivir...
 
@@ -88,4 +90,3 @@ _Fuentes:_
 ([Vida y Salud](http://www.vidaysalud.com/diario/ejercicio/10-beneficios-de-hacer-ejercicio/)) 
 
 Por Fernando Barragán / Content Creator en Konfío
-
