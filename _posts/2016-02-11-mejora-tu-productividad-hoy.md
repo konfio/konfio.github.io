@@ -85,6 +85,7 @@ No se trata solo de tener buen cuerpo o estar en forma. Ejercitarnos de forma re
 Analiza las múltiples ventajas que te brindarán estos tres aspectos en tu vida. Logrando un equilibrio perfecto entre tu cuerpo y tu inteligencia lograrás aumentar tu productividad personal alcanzando la satisfacción con tu propia vida. Suena sencillo, pero la realidad es que te exigirá mucha disciplina y orden. 
 
 _Fuentes:_
+
 ([Cumbria Bienestar](http://www.cumbriabienestar.es/el-bienestar-social/)) 
 
 ([Importancia](http://www.importancia.org/buena-alimentacion.php))  
