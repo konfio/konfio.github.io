@@ -11,7 +11,7 @@ title: Mejora tu productividad HOY
 
 Los clásicos decían “mens sana in corpore sano”. Ten una mente sana en un cuerpo sano. Es un equilibrio entre nuestro mundo exterior e interior que nos permite lograr nuestros objetivos diarios: estudiar, trabajar, convivir...
 
-![3retosparamejorartu productividad.png]({{site.baseurl}}/img/3retosparamejorartu productividad.png)
+![11_02_16.jpg]({{site.baseurl}}/img/11_02_16.jpg)
 
 Tradicionalmente se había considerado a la salud como la ausencia de enfermedad. En 1947 la OMS la definió como “un estado de completo bienestar, físico, mental y social y no solo la ausencia de enfermedades” (Cumbria Bienestar).
 	
