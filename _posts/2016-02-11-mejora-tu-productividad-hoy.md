@@ -44,9 +44,8 @@ Tradicionalmente se había considerado a la salud como la ausencia de enfermedad
 ### 2. La lectura
 
 La lectura supone siempre atención, concentración, compromiso, reflexión, todos elementos que hacen a un mejor desempeño y a mejores resultados.
-http://www.importancia.org/lectura.php 
 
-¿Por qué es importante leer?
+**¿Por qué es importante leer?**
 
 - Te vuelve mejor persona porque aumentas la capacidad de detectar y comprender las necesidades de los demás.
 
@@ -62,7 +61,7 @@ http://www.importancia.org/lectura.php
 
 No se trata solo de tener buen cuerpo o estar en forma. Ejercitarnos de forma regular favorece nuestra vida de maneras sorprendentes.  
 
-¿Por qué es importante sudar de forma regular?
+**¿Por qué es importante sudar de forma regular?**
 
 - Reduce la probabilidad de una muerte prematura.
 
