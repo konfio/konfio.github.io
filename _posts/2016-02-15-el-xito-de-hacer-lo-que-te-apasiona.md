@@ -25,4 +25,4 @@ Orgullosa de su empresa y del impacto que puede tener en la sociedad, Jocelyn en
 - Página web: [Libro a la Carta](http://www.libroalacarta.com/web/index.html)
 - Teléfono: (0052 55) 5336 1436
 
-Por Tamara Gama / Partnership Executive
+Por Tamara Alvarado / Partnership Executive
