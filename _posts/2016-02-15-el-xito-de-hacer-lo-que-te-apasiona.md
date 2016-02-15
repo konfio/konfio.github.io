@@ -15,9 +15,11 @@ Jocelyn es una mujer que vive en la Ciudad de México, trabajadora, de 36 años 
 
 Hace cinco años, Jocelyn tomó la decisión de crear un negocio de **servicio editorial**, con el que ofrece llevar a sus clientes por todo el proceso que implica publicar un libro. Aprovechando la necesidad de la sociedad de tener este servicio y viéndolo como una fuente de ingresos para salir adelante, fue que Jocelyn se motivó para arrancar su empresa. 
 
-Con el objetivo de hacer crecer su negocio y la idea de continuar con una alternativa independiente editorial, así como tener más recursos para dar sus servicios, Jocelyn solicitó un crédito con Konfío para poder comprar material, específicamente papel, y hacer pagos a proveedores para poder mejorar su negocio.
+Con el objetivo de hacer crecer su negocio y la idea de continuar con una alternativa independiente editorial, así como tener más recursos para dar sus servicios, Jocelyn solicitó un crédito con **Konfío** para poder comprar material, específicamente papel, y hacer pagos a proveedores para poder mejorar su negocio.
 
 Orgullosa de su empresa y del impacto que puede tener en la sociedad, Jocelyn encuentra el impulso para salir adelante.
+
+Tú como Jocelyn solicita un [crédito aquí](https://konfio.mx/inicio/registrate).
 
 **¿Quieres publicar un libro? Contacta a Jocelyn:**
 
