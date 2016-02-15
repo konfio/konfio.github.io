@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2016-02-15 06:55 -0600"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: El éxito de hacer lo que te apasiona
 ---
+
 
 Jocelyn es una mujer que vive en la Ciudad de México, trabajadora, de 36 años de edad. No está casada y aún no es madre. Estudió la licenciatura en letras clásicas y su tiempo lo dedica impulsar su negocio.
 
@@ -24,4 +26,3 @@ Orgullosa de su empresa y del impacto que puede tener en la sociedad, Jocelyn en
 - Teléfono: (0052 55) 5336 1436
 
 Por Tamara Gama / Partnership Executive
-
