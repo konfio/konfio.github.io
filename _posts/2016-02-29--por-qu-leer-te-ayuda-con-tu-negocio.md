@@ -20,7 +20,7 @@ Pero me quedé pensando mucho, ¿qué le podría decir a una niña así sin hace
 
 Reflexionando un poco, llegué a una conclusión muy sencilla: si lees es porque te gusta aprender cosas nuevas, retarte, estimular tu imaginación y llenar tu vida de novedad a través de una actividad intelectual. Si no te gusta leer es por dos razones: 1) porque nunca lo has intentado y 2) porque lo intentaste y te rendiste ante la primera dificultad. Una postura muy personal.
 
-## 3 aspectos de la lectura que benefician tu negocio
+## 3 aspectos de la lectura que benefician a tu negocio
 
 **1. Blogs**
 
