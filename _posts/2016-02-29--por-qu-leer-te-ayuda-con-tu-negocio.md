@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2016-02-29 16:30 -0600"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
-published: false
+published: true
 title: "¿Por qué leer te ayuda con tu negocio?"
 ---
+
 
 Hace poco tuve una experiencia un tanto desalentadora. Salí con una niña guapa, lista, sonriente, llena de vida. Al parecer iba a ser la mejor tarde de nuestras vidas. Y tengo que admitir que sí nos la pasamos muy bien: gritamos, cantamos, comimos helado, nos reímos mucho, etc.
  
@@ -41,4 +43,4 @@ Tal vez no te guste escribir, no importa. Puedes empezar con videos o audios, o 
 
 **Así que leer sí te sirve.** Por muy guapa y sexy que seas, si te molesta y aburre leer, trata de hacer el hábito poco a poco. No te cierres simplemente porque es difícil o te da sueño. La lectura conlleva grandes hábitos de vida como el autocontrol, la disciplina, la concentración y la adquisición de nuevos conocimientos. **Y tu negocio siempre agradecerá las nuevas ideas, formas de implementación, iniciativas y cambios.** Porque el que no avanza, retrocede.
 
-Por Fernando Barragán / Content Creator de Konfío 
+Por Fernando Barragán / Content Creator de Konfío
