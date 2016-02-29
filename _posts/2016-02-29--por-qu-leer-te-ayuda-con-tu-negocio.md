@@ -9,6 +9,7 @@ title: "¿Por qué leer te ayuda con tu negocio?"
 ---
 
 
+
 Hace poco tuve una experiencia un tanto desalentadora. Salí con una niña guapa, lista, sonriente, llena de vida. Al parecer iba a ser la mejor tarde de nuestras vidas. Y tengo que admitir que sí nos la pasamos muy bien: gritamos, cantamos, comimos helado, nos reímos mucho, etc.
 
 Pero la conversación se fue tornando seria poco a poco y uno de los temas densos fue el de la lectura; uno de mis pasatiempos favoritos. Resulta que ella no solo no lee, sino que lo aborrece, le aburre, le parece absurdo y una pérdida de tiempo. No, no estaba preparado para una respuesta así y tratando de ser cortés y no parecer pedante, cambié poco a poco el tema de conversación.
