@@ -14,7 +14,7 @@ Hace poco tuve una experiencia un tanto desalentadora. Salí con una niña guapa
 Pero la conversación se fue tornando seria poco a poco y uno de los temas densos fue el de la lectura; uno de mis pasatiempos favoritos. Resulta que ella no solo no lee, sino que lo aborrece, le aburre, le parece absurdo y una pérdida de tiempo. No, no estaba preparado para una respuesta así y tratando de ser cortés y no parecer pedante, cambié poco a poco el tema de conversación.
 
 ![29_02_16.jpg]({{site.baseurl}}/img/29_02_16.jpg)
- 
+
 Pero me quedé pensando mucho, ¿qué le podría decir a una niña así sin hacerla sentir mal, pero realmente haciéndole notar que la lectura es algo importante para su desarrollo personal y profesional? **¿O sería nada más una idea mía?** Hay gente a la que le gusta andar en bicicleta o practicar yoga; a mí me gusta leer. Es decir, **¿la lectura es para todos o solo para los que la disfrutan?**
 
 Reflexionando un poco, llegué a una conclusión muy sencilla: si lees es porque te gusta aprender cosas nuevas, retarte, estimular tu imaginación y llenar tu vida de novedad a través de una actividad intelectual. Si no te gusta leer es por dos razones: 1) porque nunca lo has intentado y 2) porque lo intentaste y te rendiste ante la primera dificultad. Una postura muy personal.
