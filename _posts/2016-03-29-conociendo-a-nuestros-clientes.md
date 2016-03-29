@@ -9,7 +9,8 @@ title: Conociendo a nuestros clientes
 ---
 
 
-Hace unos días en **Konfío** tuvimos la oportunidad y el honor de conocer a algunos de nuestros clientes. La visita fue motivada por [Acción](https://www.accion.org/) y [Acción Venture Lab](https://www.accion.org/es/venturelab), uno de nuestros inversionistas. La idea era platicar con nuestros clientes cara a cara para poder entender mejor sus necesidades y ver la forma de seguir apoyándolos con sus negocios.
+
+Hace unos días en **Konfío** tuvimos la oportunidad y el honor de pasar el día con algunos de nuestros clientes. La visita fue motivada por [Acción](https://www.accion.org/) y [Acción Venture Lab](https://www.accion.org/es/venturelab), uno de nuestros socios. La idea era platicar con nuestros clientes cara a cara para poder entender mejor sus necesidades y ver la forma de seguir apoyándolos con sus negocios.
 
 Es muy gratificante conocer y convivir con personas tan entregadas y cualificadas que se esfuerzan todos los días para seguir **haciendo crecer sus negocios**. Nos contaron los inicios y el surgimiento de sus negocios, algunas dificultades por las que han pasado y cómo las han superado. También nos compartieron cómo los **créditos Konfío** les han ayudado en sus respectivos negocios.
 
