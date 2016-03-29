@@ -43,6 +43,8 @@ Nuestro trayecto terminó en una **academia de música** con Israel. Nos contó 
 
 De momento ofrecen clases de canto y baile, pero tienen grandes proyectos de convertirse en una **academia de música más completa** con clases de diferentes instrumentos: guitarra, bajo, piano, batería.
 
+![29_03_16_tes5.jpg]({{site.baseurl}}/img/29_03_16_tes5.jpg)
+
 Tuvimos la oportunidad de asistir a una de sus clases de canto donde percibimos todo el entusiasmo y pasión que le inyectan a su negocio. Así se alcanza el éxito.
 
 Les deseamos el mejor de los éxitos a los cuatro. En Konfío estamos dispuestos a seguirlos apoyando con sus negocios para que puedan seguir creciendo como hasta este momento. 
