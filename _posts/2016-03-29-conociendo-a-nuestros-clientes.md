@@ -20,7 +20,7 @@ Para Rodolfo fue una decisión importante que tomó hace poco más de 4 años cu
 
 ![29_03_16_tes.jpg]({{site.baseurl}}/img/29_03_16_tes.jpg)
 
-Nos cuenta que los c**réditos Konfío le han ayudado** a seguir surtiéndose, ya que la inversión inicial no fue suficiente para darle forma a todas sus ideas. Con uno de los préstamos surtió más mercancía; con otro, arregló una filtración de agua que tenían en el techo, protegiendo de esta forma la mercancía para venderla en buen estado y no tenerla que cambiar de lugar cada vez que llovía.
+Nos cuenta que los **créditos Konfío le han ayudado** a seguir surtiéndose, ya que la inversión inicial no fue suficiente para darle forma a todas sus ideas. Con uno de los préstamos surtió más mercancía; con otro, arregló una filtración de agua que tenían en el techo, protegiendo de esta forma la mercancía para venderla en buen estado y no tenerla que cambiar de lugar cada vez que llovía.
 
 Rodolfo no detiene ahí sus proyectos. Quiere crecer mucho. En un futuro cercano ampliará su tienda, para lo cual tendrá que remodelar un poco.
 
