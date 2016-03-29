@@ -1,11 +1,13 @@
 ---
 layout: post
 date: "2016-03-29 11:14 -0600"
-tags: null
+tags: 
+  - "null"
 customExcerpt: false
 published: false
 title: Conociendo a nuestros clientes
 ---
+
 
 Hace unos días en **Konfío** tuvimos la oportunidad y el honor de conocer a algunos de nuestros clientes. La visita fue motivada por [Acción](https://www.accion.org/) y [Acción Venture Lab](https://www.accion.org/es/venturelab), uno de nuestros inversionistas. La idea era platicar con nuestros clientes cara a cara para poder entender mejor sus necesidades y ver la forma de seguir apoyándolos con sus negocios.
 
@@ -35,17 +37,16 @@ También tuvimos la oportunidad de conocer a Rosa María que cuenta con un negoc
 
 **Los créditos Konfío le han ayudado a vender sus productos** a través de internet, con ayuda de su hijo. Poco a poco va incrementando sus ventas, llegando a estados como Veracruz y Morelos.
 
+![29_03_16_tes4.jpg]({{site.baseurl}}/img/29_03_16_tes4.jpg)
 
+Nuestro trayecto terminó en una **academia de música** con Israel. Nos contó que se acaban de cambiar. Ya era hora de rentar un espacio más amplio porque la cantidad de clases impartidas y el número de alumnos sigue creciendo. De un cuarto pasaron a una casa de dos pisos con varios salones.
 
-Nuestro trayecto terminó en una academia de música con Israel. Nos contó que se acaban de cambiar. Antes se ubicaban en la Zona Rosa, pero ya era hora de rentar un espacio más amplio porque la cantidad de clases impartidas y el número de alumnos sigue creciendo. De un cuarto pasaron a una casa de dos pisos con varios salones.
+De momento ofrecen clases de canto y baile, pero tienen grandes proyectos de convertirse en una **academia de música más completa** con clases de diferentes instrumentos: guitarra, bajo, piano, batería.
 
-De momento ofrecen clases de canto y baile, pero tienen grandes proyectos de convertirse en una academia de música más completa con clases de diferentes instrumentos: guitarra, bajo, piano, batería.
+Tuvimos la oportunidad de asistir a una de sus clases de canto donde percibimos todo el entusiasmo y pasión que le inyectan a su negocio. Así se alcanza el éxito.
 
-Tuvimos la oportunidad de asistir a una de sus clases de canto donde percibimos todo el entusiasmo y pasión que le inyectan a su negocio. 
+Les deseamos el mejor de los éxitos a los cuatro. En Konfío estamos dispuestos a seguirlos apoyando con sus negocios para que puedan seguir creciendo como hasta este momento. 
 
-Les deseamos el mejor de los éxitos a los cuatro. En Konfío estamos dispuestos a seguirlos apoyando con sus negocios para que puedan seguir creciendo como hasta este momento. Si quieres solicitar un crédito da clic AQUÍ.
+Para solicitar un crédito da clic [AQUÍ](https://konfio.mx/inicio/registrate).
 
-
-
-
-
+Por Fernando Barragán / Content Creator de Konfío
