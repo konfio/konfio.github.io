@@ -23,6 +23,8 @@ Nos cuenta que los c**réditos Konfío le han ayudado** a seguir surtiéndose, y
 
 Rodolfo no detiene ahí sus proyectos. Quiere crecer mucho. En un futuro cercano ampliará su tienda, para lo cual tendrá que remodelar un poco.
 
+## Servicios de impresión y escaneo
+
 Nuestra segunda parada fue con Alma Delia, una **joven muy trabajadora**. Ella empezó con un concepto innovador de internet donde los alumnos o ejecutivos pueden ir a trabajar y tener sus reuniones. Además, ofrece servicios de impresión y escaneo.
 
 ![29_03_16_tes2.jpg]({{site.baseurl}}/img/29_03_16_tes2.jpg)
@@ -33,11 +35,15 @@ Su negocio es muy concurrido por personas que necesitan hacer un proyecto en un 
 
 ![29_03_16_tes3.jpg]({{site.baseurl}}/img/29_03_16_tes3.jpg)
 
+## Todo para los alumineros
+
 También tuvimos la oportunidad de conocer a Rosa María que cuenta con un negocio donde vende productos a todos los alumineros que ponen puertas y baños. En su local podemos encontrar desde el último tornillo hasta los pernios, cercos y sostenes para repisas de cristal.
 
 **Los créditos Konfío le han ayudado a vender sus productos** a través de internet, con ayuda de su hijo. Poco a poco va incrementando sus ventas, llegando a estados como Veracruz y Morelos.
 
 ![29_03_16_tes4.jpg]({{site.baseurl}}/img/29_03_16_tes4.jpg)
+
+## ¿Quieres mejorar tu voz?
 
 Nuestro trayecto terminó en una **academia de música** con Israel. Nos contó que se acaban de cambiar. Ya era hora de rentar un espacio más amplio porque la cantidad de clases impartidas y el número de alumnos sigue creciendo. De un cuarto pasaron a una casa de dos pisos con varios salones.
 
