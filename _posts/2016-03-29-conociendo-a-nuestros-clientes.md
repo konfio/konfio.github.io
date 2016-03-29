@@ -27,8 +27,6 @@ Rodolfo no detiene ahí sus proyectos. Quiere crecer mucho. En un futuro cercano
 
 Nuestra segunda parada fue con Alma Delia, una **joven muy trabajadora**. Ella empezó con un concepto innovador de internet donde los alumnos o ejecutivos pueden ir a trabajar y tener sus reuniones. Además, ofrece servicios de impresión y escaneo.
 
-![29_03_16_tes2.jpg]({{site.baseurl}}/img/29_03_16_tes2.jpg)
-
 Al poco tiempo de tener el internet con todos estos servicios se le ocurrió la idea de meter un concepto de abarrotes bastante completo: papas fritas, bebidas, productos de aseo personal. También vende celulares, accesorios, cámaras de seguridad y computadoras bajo pedido. 
 
 Su negocio es muy concurrido por personas que necesitan hacer un proyecto en un lugar tranquilo y donde puedan permanecer un buen rato, imprimiéndolo cuando lo terminen y aprovechando para recargar su tarjeta del metro o tomarse un refresco. Bastante interesante.
