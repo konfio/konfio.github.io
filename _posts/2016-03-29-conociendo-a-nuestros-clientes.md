@@ -53,6 +53,6 @@ Tuvimos la oportunidad de asistir a una de sus clases de canto donde percibimos 
 
 Les deseamos el mejor de los éxitos a los cuatro. En Konfío estamos dispuestos a seguirlos apoyando con sus negocios para que puedan seguir creciendo como hasta este momento. 
 
-Para solicitar un crédito da clic [AQUÍ](https://konfio.mx/inicio/registrate).
+Para solicitar un crédito para tu negocio da clic [AQUÍ](https://konfio.mx/inicio/registrate).
 
 Por Fernando Barragán / Content Creator de Konfío
