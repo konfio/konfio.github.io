@@ -3,7 +3,7 @@ layout: post
 date: "2016-04-20 09:50 -0500"
 tags: null
 customExcerpt: false
-published: false
+published: true
 title: "¿Cómo aumentar la productividad de tu negocio?"
 ---
 “Aumentar la productividad debe ser una estrategia fundamental para cualquier empresa ya que permite conseguir ingresos, crecimiento y posicionamiento.” Así se expresa [Emprende Pyme](http://www.emprendepyme.net/que-es-la-productividad-empresarial.html) haciendo énfasis en la necesidad vital que tienen los negocios de buscar la productividad en todo momento.
