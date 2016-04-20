@@ -20,13 +20,13 @@ Existe un mito que dice que solamente “los codos” negocian los precios, pero
 
 Si estás buscando una computadora o un mueble para tu negocio, seguramente has visto varias opciones y habrá algunas más caras que otras, **es el momento de negociar** algo que te beneficie. Enfócate en: el precio, la entrega a domicilio, algún accesorio extra, el mantenimiento y descuentos al comprar varios.
 
+![imagen.jpg]({{site.baseurl}}/img/imagen.jpg)
+
 ## Remodela en el momento indicado
 
 Mejorar las condiciones de trabajo en tu PyME puede mejorar la productividad de tus colaboradores. Es importante contar con las instalaciones adecuadas como sillas cómodas, computadores funcionales, algún espacio para comer, etc. Al ofrecerles algunos beneficios a tus trabajadores generarás valores y sentido de pertenencia, lo que derivará en **mayor y mejor productividad del negocio.**
 
 No obstante, hay que invertir en estos detalles en el momento indicado, una inversión sin planificación te puede traer problemas; destina un presupuesto mensual a este fin y respétalo dentro de tus posibilidades.
-
-![imagen.jpg]({{site.baseurl}}/img/imagen.jpg)
 
 ## Es hora de hacer crecer el equipo
 
