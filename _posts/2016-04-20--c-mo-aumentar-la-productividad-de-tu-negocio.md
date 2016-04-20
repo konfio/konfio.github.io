@@ -12,7 +12,7 @@ title: "¿Cómo aumentar la productividad de tu negocio?"
 
 La utilidad siempre aumenta cuando compras muy barato tu producto, pero necesitas invertir en grandes cantidades. Esa es la ventaja del mayoreo; sin embargo hay algo que tienes que tomar en cuenta, cuando te descapitalizas para poder invertir en un producto debes tener algo ya vendido, aunque sea en una mínima parte. Tomar una decisión de inversión grande sin tener clientes seguros implica mucho riesgo.
 
-Si te vas a quedar en ceros, **ten mucho cuidado**, es mejor que guardes algo de capital para sobrevivir, aunque esto implique comprar el producto un poco más caro. Si bien renuncias a una parte de la utilidad evitas el riesgo de quebrar. Evita descapitalizarte y solicita un crédito para tu negocio [AQUÍ](http://bit.ly/blogkonfio). ¡Protégete con decisiones inteligentes!
+Si te vas a quedar en ceros, **ten mucho cuidado**, es mejor que guardes algo de capital para sobrevivir, aunque esto implique comprar el producto un poco más caro. Si bien renuncias a una parte de la utilidad evitas el riesgo de quebrar. Evita quedarte sin capital y solicita un crédito para tu negocio [AQUÍ](http://bit.ly/blogkonfio). ¡Protégete con decisiones inteligentes!
 
 ## Compara y negocia con proveedores
 
