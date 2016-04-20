@@ -8,8 +8,6 @@ title: "¿Cómo aumentar la productividad de tu negocio?"
 ---
 “Aumentar la productividad debe ser una estrategia fundamental para cualquier empresa ya que permite conseguir ingresos, crecimiento y posicionamiento.” Así se expresa [Emprende Pyme](http://www.emprendepyme.net/que-es-la-productividad-empresarial.html) haciendo énfasis en la necesidad vital que tienen los negocios de buscar la productividad en todo momento.
 
-![imagen.jpg]({{site.baseurl}}/img/imagen.jpg)
-
 ## Apuesta por el mayoreo inteligente
 
 La utilidad siempre aumenta cuando compras muy barato tu producto, pero necesitas invertir en grandes cantidades. Esa es la ventaja del mayoreo; sin embargo hay algo que tienes que tomar en cuenta, cuando te descapitalizas para poder invertir en un producto debes tener algo ya vendido, aunque sea en una mínima parte. Tomar una decisión de inversión grande sin tener clientes seguros implica mucho riesgo.
@@ -27,6 +25,8 @@ Si estás buscando una computadora o un mueble para tu negocio, seguramente has 
 Mejorar las condiciones de trabajo en tu PyME puede mejorar la productividad de tus colaboradores. Es importante contar con las instalaciones adecuadas como sillas cómodas, computadores funcionales, algún espacio para comer, etc. Al ofrecerles algunos beneficios a tus trabajadores generarás valores y sentido de pertenencia, lo que derivará en **mayor y mejor productividad del negocio.**
 
 No obstante, hay que invertir en estos detalles en el momento indicado, una inversión sin planificación te puede traer problemas; destina un presupuesto mensual a este fin y respétalo dentro de tus posibilidades.
+
+![imagen.jpg]({{site.baseurl}}/img/imagen.jpg)
 
 ## Es hora de hacer crecer el equipo
 
