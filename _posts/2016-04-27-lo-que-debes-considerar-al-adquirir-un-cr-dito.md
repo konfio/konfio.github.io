@@ -17,7 +17,7 @@ Hoy en día existen tantas opciones de financiamiento en el mercado, que nos hac
 
 El precio del producto financiero puede marcar la diferencia entre un trampolín al éxito o echarse la soga al cuello. **El CAT es el Costo Anual Total** de los créditos; este indicador sirve para comparar el costo financiero de los productos, aunque estén a distintos plazos o periodicidades. Incluye tasa de interés, comisión por apertura, cuota anual, mensualidad de seguros, etc.
 
-![BlogAbr27.jpg]({{site.baseurl}}/img/BlogAbr27.jpg)
+![BLOGAB27.jpg]({{site.baseurl}}/img/BLOGAB27.jpg)
 
 **2.	Revisa los requisitos**
 
