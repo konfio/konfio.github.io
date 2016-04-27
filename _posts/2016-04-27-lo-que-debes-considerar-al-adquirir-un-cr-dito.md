@@ -3,7 +3,7 @@ layout: post
 date: "2016-04-27 12:53 -0500"
 tags: null
 customExcerpt: false
-published: false
+published: true
 title: Lo que debes considerar al adquirir un crédito
 ---
 
@@ -32,5 +32,3 @@ Por último pero no menos importante, al contratar un crédito pregunta e**n cu�
 En Konfío velamos por **tu seguridad, tu comodidad y la productividad de tu negocio.** Una vez que solicites tu crédito, te darás cuenta que manejamos una tasa de interés muy competitiva y con requisitos fáciles de cubrir. Lo mejor, es que te damos respuesta en 24 horas. ¡Solicítalo ya, hasta por $150,000 pesos!
 
 Por Fernando Barragán de Konfío
-
-
