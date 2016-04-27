@@ -11,7 +11,7 @@ Antes de pedir un préstamo, debes tomarte el tiempo para **leer cada una de las
 
 Hoy en día existen tantas opciones de financiamiento en el mercado, que nos hacen sentir confundidos al momento de tomar la decisión correcta para beneficiar a nuestra cartera, y sobre todo a nuestro negocio. Quizá el rendimiento no se note inmediatamente; sin embargo el uso correcto de un crédito siempre rendirá frutos.
 
-## Los 3 puntos claves
+## Los 3 puntos clave
 
 **1.	El CAT**
 
