@@ -18,6 +18,6 @@ Es importante remarcar que la confianza es una **cualidad que se debe ganar gui�
 
 Para Konfío, **la confianza es uno de sus mayores pilares**, por eso al solicitar un crédito con nosotros, esta será mutua; tú nos depositas la confianza de algunos datos y documentos que pedimos para el trámite y nosotros confiamos en ti y en tu pyme al aprobarte y depositarte el capital que necesitas en tu cuenta bancaria. 
 
-Siempre velaremos por tu seguridad. Para tener más información sobre nosotros entra a nuestro Centro de Ayuda donde puedes consultar las preguntas más frecuentes que nos hacen nuestros socios.
+Siempre velaremos por tu seguridad. Para tener más información sobre nosotros entra a nuestro [Centro de Ayuda](https://atencion.konfio.mx/hc/es) donde puedes consultar las preguntas más frecuentes que nos hacen nuestros socios.
 
 Por Fernando Barragán de Konfío
