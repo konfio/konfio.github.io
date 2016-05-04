@@ -3,7 +3,7 @@ layout: post
 date: "2016-05-04 11:28 -0500"
 tags: ""
 customExcerpt: false
-published: false
+published: true
 title: La importancia de la confianza en los préstamos para negocios
 ---
 Si te preguntaran qué es la confianza ¿sabrías contestar con certeza? Esta es la cuestión que Michael Blumestein se plantea en [El mito de la confianza](https://www.entrepreneur.com/article/275069) y concluye diciendo que para él “la confianza es la creencia de que las expectativas se volverán realidad”; es decir, una combinación entre la fe y la esperanza. 
