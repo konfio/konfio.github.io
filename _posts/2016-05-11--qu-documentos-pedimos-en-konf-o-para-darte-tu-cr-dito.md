@@ -7,6 +7,7 @@ title: "¿Qué documentos pedimos en Konfío para darte tu crédito?"
 Al momento de solicitar un **crédito para tu negocio,** las diferentes instituciones financieras te piden una serie de requisitos que debes cubrir. En Konfío, nosotros hacemos el trabajo duro por ti; simplemente necesitamos que nos apoyes con algunos datos sencillos y documentos personales.
 
 **Si cumples con las siguientes características puedes solicitar un préstamo para negocio en Konfío:**
+
 - Tener entre 18 y 59 años: para cumplir con las políticas de riesgo financiero.
 - Ser ciudadano mexicano: para verificar las regulaciones legales.
 - Tener una cuenta bancaria: para depositarte el dinero.
