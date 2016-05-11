@@ -29,7 +29,7 @@ Revisa nuestro [simulador de pagos](https://konfio.mx/simulador).
 
 - INE/IFE o Pasaporte: original vigente y copia por los 2 lados.
 - Recibo de la luz: para comprobar el domicilio donde vives.
-- Actividad de negocio: si tu negocio es formal, debes ingresar tus datos del SAT (usuario y contraseña CIEC) que nos dan acceso de lectura para poder ofrecerte un crédito de acuerdo al tamaño de tu empresa. Si es informal, debes presentar comprobantes de compra a proveedores formales (Ejemplo: notas de compra a Bimbo o Coca Cola).
+- Actividad de negocio: si tu negocio es formal, debes ingresar tus datos del SAT que nos dan acceso de lectura para poder ofrecerte un crédito de acuerdo al tamaño de tu empresa. Si es informal, debes presentar comprobantes de compra a proveedores formales (Ejemplo: notas de compra a Bimbo o Coca Cola).
 
 Como puedes ver, lo que más nos preocupa es la **productividad y el éxito de tu negocio.** Somos una empresa completamente dedicada a hacer crecer a los negocios en México. Estaremos felices de poder impulsar tu negocio más allá de donde lo has imaginado. 
 
