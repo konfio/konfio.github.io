@@ -17,7 +17,7 @@ Al momento de solicitar un **crédito para tu negocio,** las diferentes instituc
 
 **¿De qué depende que las instituciones te pidan muchos o pocos documentos?**
 
-Algunas personas suelen creer que es papeleo sin sentido, o solo para dar largas al trámite; incluso nos ha tocado atender gente que se ofende porque piensa que estamos siendo muy estrictos al pedirles sus facturas o cotizaciones. Lo cierto es que lo hacemos para cumplir con nuestras **políticas de transparencia y confianza**; a su vez evitamos un riesgo financiero para ambas partes.
+Algunas personas suelen creer que es papeleo sin sentido, o solo para dar largas al trámite; incluso nos ha tocado atender gente que se ofende porque piensa que estamos siendo muy estrictos al pedirles sus facturas o cotizaciones. Lo cierto es que lo hacemos para cumplir con nuestras **políticas de transparencia y confianza**; a su vez, evitamos un riesgo financiero para ambas partes.
 
 Te explicamos lo anterior: entre más información se tenga para analizar y tomar una decisión financiera, el riesgo será menor y te ofreceremos mejores tasas de interés. Ahora sabes por qué las empresas que piden pocos documentos cobran tasas muy elevadas. 
 
