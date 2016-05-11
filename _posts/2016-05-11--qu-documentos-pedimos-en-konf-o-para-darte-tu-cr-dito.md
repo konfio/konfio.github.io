@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2016-05-11 10:53 -0500"
-published: false
+published: true
 title: "¿Qué documentos pedimos en Konfío para darte tu crédito?"
 ---
 Al momento de solicitar un **crédito para tu negocio,** las diferentes instituciones financieras te piden una serie de requisitos que debes cubrir. En Konfío, nosotros hacemos el trabajo duro por ti; simplemente necesitamos que nos apoyes con algunos datos sencillos y documentos personales.
